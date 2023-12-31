@@ -65,7 +65,7 @@
 
 #### Defined in
 
-[three-commas.ts:43](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L43)
+[three-commas.ts:43](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L43)
 
 ## Properties
 
@@ -75,7 +75,7 @@
 
 #### Defined in
 
-[three-commas.ts:38](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L38)
+[three-commas.ts:38](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L38)
 
 ---
 
@@ -85,7 +85,7 @@
 
 #### Defined in
 
-[three-commas.ts:39](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L39)
+[three-commas.ts:39](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L39)
 
 ---
 
@@ -95,7 +95,7 @@
 
 #### Defined in
 
-[three-commas.ts:40](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L40)
+[three-commas.ts:40](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L40)
 
 ---
 
@@ -105,7 +105,7 @@
 
 #### Defined in
 
-[three-commas.ts:41](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L41)
+[three-commas.ts:41](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L41)
 
 ---
 
@@ -115,7 +115,7 @@
 
 #### Defined in
 
-[three-commas.ts:36](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L36)
+[three-commas.ts:36](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L36)
 
 ## Accessors
 
@@ -131,7 +131,7 @@ All loaded accounts.
 
 #### Defined in
 
-[three-commas.ts:111](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L111)
+[three-commas.ts:111](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L111)
 
 ---
 
@@ -147,7 +147,7 @@ All loaded bots.
 
 #### Defined in
 
-[three-commas.ts:204](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L204)
+[three-commas.ts:204](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L204)
 
 ---
 
@@ -163,7 +163,7 @@ Lazily loaded 3Commas Client instance.
 
 #### Defined in
 
-[three-commas.ts:48](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L48)
+[three-commas.ts:48](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L48)
 
 ## Methods
 
@@ -185,7 +185,7 @@ Clears (unloads) accounts from memory and return their ids. Does NOT delete acco
 
 #### Defined in
 
-[three-commas.ts:337](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L337)
+[three-commas.ts:337](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L337)
 
 ---
 
@@ -209,7 +209,7 @@ the created bot.
 
 #### Defined in
 
-[three-commas.ts:81](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L81)
+[three-commas.ts:81](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L81)
 
 ---
 
@@ -237,7 +237,7 @@ Error if related account is not loaded.
 
 #### Defined in
 
-[three-commas.ts:162](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L162)
+[three-commas.ts:162](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L162)
 
 ---
 
@@ -267,7 +267,7 @@ Error if related account is not loaded.
 
 #### Defined in
 
-[three-commas.ts:148](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L148)
+[three-commas.ts:148](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L148)
 
 ---
 
@@ -289,7 +289,7 @@ Deletes account from 3Commas.
 
 #### Defined in
 
-[three-commas.ts:92](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L92)
+[three-commas.ts:92](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L92)
 
 ---
 
@@ -311,7 +311,7 @@ Deletes bot from 3Commas.
 
 #### Defined in
 
-[three-commas.ts:172](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L172)
+[three-commas.ts:172](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L172)
 
 ---
 
@@ -333,7 +333,7 @@ Deletes bots meeting the filter criteria.
 
 #### Defined in
 
-[three-commas.ts:183](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L183)
+[three-commas.ts:183](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L183)
 
 ---
 
@@ -357,7 +357,7 @@ the account.
 
 #### Defined in
 
-[three-commas.ts:104](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L104)
+[three-commas.ts:104](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L104)
 
 ---
 
@@ -381,7 +381,7 @@ the bot.
 
 #### Defined in
 
-[three-commas.ts:197](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L197)
+[three-commas.ts:197](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L197)
 
 ---
 
@@ -405,7 +405,7 @@ newly loaded accounts.
 
 #### Defined in
 
-[three-commas.ts:61](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L61)
+[three-commas.ts:61](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L61)
 
 ---
 
@@ -430,7 +430,7 @@ newly loaded bots.
 
 #### Defined in
 
-[three-commas.ts:122](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L122)
+[three-commas.ts:122](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L122)
 
 ---
 
@@ -452,7 +452,7 @@ Loads market pairs for currently loaded accounts.
 
 #### Defined in
 
-[three-commas.ts:209](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L209)
+[three-commas.ts:209](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L209)
 
 ---
 
@@ -468,7 +468,7 @@ Saves all dirty and unsaved bots.
 
 #### Defined in
 
-[three-commas.ts:135](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L135)
+[three-commas.ts:135](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L135)
 
 ---
 
@@ -499,7 +499,7 @@ the ids of deleted items.
 
 #### Defined in
 
-[three-commas.ts:321](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L321)
+[three-commas.ts:321](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L321)
 
 ---
 
@@ -543,7 +543,7 @@ this.#parseFilter(() => {...});  // { filterFunction: () => {...} }
 
 #### Defined in
 
-[three-commas.ts:303](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L303)
+[three-commas.ts:303](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L303)
 
 ---
 
@@ -577,7 +577,7 @@ const pairs = threeCommas.getPairsAsString("binance_futures"); // [["BTC", "USDT
 
 #### Defined in
 
-[three-commas.ts:259](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L259)
+[three-commas.ts:259](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L259)
 
 ---
 
@@ -611,7 +611,7 @@ const pairs = threeCommas.getPairsAsString("binance_futures"); // [{ base: "BTC"
 
 #### Defined in
 
-[three-commas.ts:244](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L244)
+[three-commas.ts:244](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L244)
 
 ---
 
@@ -645,7 +645,7 @@ const pairs = threeCommas.getPairsAsString("binance_futures"); // ['USDT_BTCUSDT
 
 #### Defined in
 
-[three-commas.ts:227](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L227)
+[three-commas.ts:227](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L227)
 
 ---
 
@@ -674,7 +674,7 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[three-commas.ts:272](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L272)
+[three-commas.ts:272](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L272)
 
 ---
 
@@ -695,7 +695,7 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[three-commas.ts:287](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L287)
+[three-commas.ts:287](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L287)
 
 ---
 
@@ -716,7 +716,7 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[three-commas.ts:283](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L283)
+[three-commas.ts:283](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L283)
 
 ---
 
@@ -737,4 +737,4 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[three-commas.ts:279](https://github.com/ozum/3commas/blob/154787b/src/three-commas.ts#L279)
+[three-commas.ts:279](https://github.com/ozum/3commas/blob/c644d07/src/three-commas.ts#L279)

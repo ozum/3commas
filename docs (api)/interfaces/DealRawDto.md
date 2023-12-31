@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:32](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L32)
+[api/types/deal.ts:32](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L32)
 
 ---
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:83](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L83)
+[api/types/deal.ts:83](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L83)
 
 ---
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:47](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L47)
+[api/types/deal.ts:47](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L47)
 
 ---
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:33](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L33)
+[api/types/deal.ts:33](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L33)
 
 ---
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:85](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L85)
+[api/types/deal.ts:85](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L85)
 
 ---
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:81](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L81)
+[api/types/deal.ts:81](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L81)
 
 ---
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:86](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L86)
+[api/types/deal.ts:86](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L86)
 
 ---
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:60](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L60)
+[api/types/deal.ts:60](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L60)
 
 ---
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:52](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L52)
+[api/types/deal.ts:52](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L52)
 
 ---
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:74](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L74)
+[api/types/deal.ts:74](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L74)
 
 ---
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:29](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L29)
+[api/types/deal.ts:29](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L29)
 
 ---
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:82](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L82)
+[api/types/deal.ts:82](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L82)
 
 ---
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:57](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L57)
+[api/types/deal.ts:57](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L57)
 
 ---
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:59](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L59)
+[api/types/deal.ts:59](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L59)
 
 ---
 
@@ -224,7 +224,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:58](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L58)
+[api/types/deal.ts:58](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L58)
 
 ---
 
@@ -234,7 +234,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:41](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L41)
+[api/types/deal.ts:41](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L41)
 
 ---
 
@@ -244,7 +244,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:36](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L36)
+[api/types/deal.ts:36](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L36)
 
 ---
 
@@ -254,7 +254,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:40](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L40)
+[api/types/deal.ts:40](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L40)
 
 ---
 
@@ -264,7 +264,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:39](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L39)
+[api/types/deal.ts:39](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L39)
 
 ---
 
@@ -274,7 +274,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:34](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L34)
+[api/types/deal.ts:34](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L34)
 
 ---
 
@@ -284,7 +284,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:38](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L38)
+[api/types/deal.ts:38](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L38)
 
 ---
 
@@ -294,7 +294,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:77](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L77)
+[api/types/deal.ts:77](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L77)
 
 ---
 
@@ -304,7 +304,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:31](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L31)
+[api/types/deal.ts:31](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L31)
 
 ---
 
@@ -314,7 +314,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:70](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L70)
+[api/types/deal.ts:70](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L70)
 
 ---
 
@@ -324,7 +324,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:87](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L87)
+[api/types/deal.ts:87](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L87)
 
 ---
 
@@ -334,7 +334,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:65](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L65)
+[api/types/deal.ts:65](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L65)
 
 ---
 
@@ -344,7 +344,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:80](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L80)
+[api/types/deal.ts:80](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L80)
 
 ---
 
@@ -354,7 +354,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:37](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L37)
+[api/types/deal.ts:37](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L37)
 
 ---
 
@@ -364,7 +364,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:75](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L75)
+[api/types/deal.ts:75](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L75)
 
 ---
 
@@ -374,7 +374,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:27](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L27)
+[api/types/deal.ts:27](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L27)
 
 ---
 
@@ -384,7 +384,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:56](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L56)
+[api/types/deal.ts:56](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L56)
 
 ---
 
@@ -394,7 +394,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:55](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L55)
+[api/types/deal.ts:55](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L55)
 
 ---
 
@@ -404,7 +404,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:50](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L50)
+[api/types/deal.ts:50](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L50)
 
 ---
 
@@ -414,7 +414,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:66](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L66)
+[api/types/deal.ts:66](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L66)
 
 ---
 
@@ -424,7 +424,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:68](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L68)
+[api/types/deal.ts:68](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L68)
 
 ---
 
@@ -434,7 +434,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:67](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L67)
+[api/types/deal.ts:67](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L67)
 
 ---
 
@@ -444,7 +444,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:30](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L30)
+[api/types/deal.ts:30](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L30)
 
 ---
 
@@ -454,7 +454,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:48](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L48)
+[api/types/deal.ts:48](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L48)
 
 ---
 
@@ -464,7 +464,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:42](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L42)
+[api/types/deal.ts:42](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L42)
 
 ---
 
@@ -474,7 +474,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:71](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L71)
+[api/types/deal.ts:71](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L71)
 
 ---
 
@@ -484,7 +484,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:88](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L88)
+[api/types/deal.ts:88](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L88)
 
 ---
 
@@ -494,7 +494,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:95](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L95)
+[api/types/deal.ts:95](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L95)
 
 ---
 
@@ -504,7 +504,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:94](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L94)
+[api/types/deal.ts:94](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L94)
 
 ---
 
@@ -514,7 +514,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:89](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L89)
+[api/types/deal.ts:89](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L89)
 
 ---
 
@@ -524,7 +524,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:54](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L54)
+[api/types/deal.ts:54](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L54)
 
 ---
 
@@ -534,7 +534,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:53](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L53)
+[api/types/deal.ts:53](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L53)
 
 ---
 
@@ -544,7 +544,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:73](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L73)
+[api/types/deal.ts:73](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L73)
 
 ---
 
@@ -554,7 +554,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:61](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L61)
+[api/types/deal.ts:61](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L61)
 
 ---
 
@@ -564,7 +564,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:63](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L63)
+[api/types/deal.ts:63](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L63)
 
 ---
 
@@ -574,7 +574,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:62](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L62)
+[api/types/deal.ts:62](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L62)
 
 ---
 
@@ -584,7 +584,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:49](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L49)
+[api/types/deal.ts:49](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L49)
 
 ---
 
@@ -594,7 +594,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:69](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L69)
+[api/types/deal.ts:69](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L69)
 
 ---
 
@@ -604,7 +604,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:79](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L79)
+[api/types/deal.ts:79](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L79)
 
 ---
 
@@ -614,7 +614,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:45](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L45)
+[api/types/deal.ts:45](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L45)
 
 ---
 
@@ -624,7 +624,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:46](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L46)
+[api/types/deal.ts:46](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L46)
 
 ---
 
@@ -634,7 +634,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:72](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L72)
+[api/types/deal.ts:72](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L72)
 
 ---
 
@@ -644,7 +644,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:93](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L93)
+[api/types/deal.ts:93](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L93)
 
 ---
 
@@ -654,7 +654,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:51](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L51)
+[api/types/deal.ts:51](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L51)
 
 ---
 
@@ -664,7 +664,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:78](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L78)
+[api/types/deal.ts:78](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L78)
 
 ---
 
@@ -674,7 +674,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:64](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L64)
+[api/types/deal.ts:64](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L64)
 
 ---
 
@@ -684,7 +684,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:76](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L76)
+[api/types/deal.ts:76](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L76)
 
 ---
 
@@ -694,7 +694,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:90](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L90)
+[api/types/deal.ts:90](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L90)
 
 ---
 
@@ -704,7 +704,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:43](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L43)
+[api/types/deal.ts:43](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L43)
 
 ---
 
@@ -714,7 +714,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:91](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L91)
+[api/types/deal.ts:91](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L91)
 
 ---
 
@@ -724,7 +724,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:44](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L44)
+[api/types/deal.ts:44](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L44)
 
 ---
 
@@ -734,7 +734,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:92](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L92)
+[api/types/deal.ts:92](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L92)
 
 ---
 
@@ -744,7 +744,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:28](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L28)
+[api/types/deal.ts:28](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L28)
 
 ---
 
@@ -754,7 +754,7 @@
 
 #### Defined in
 
-[api/types/deal.ts:35](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L35)
+[api/types/deal.ts:35](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L35)
 
 ---
 
@@ -764,4 +764,4 @@
 
 #### Defined in
 
-[api/types/deal.ts:84](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L84)
+[api/types/deal.ts:84](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L84)

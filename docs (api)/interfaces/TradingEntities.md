@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[api/types/trading-entiities.ts:2](https://github.com/ozum/3commas/blob/154787b/src/api/types/trading-entiities.ts#L2)
+[api/types/trading-entiities.ts:2](https://github.com/ozum/3commas/blob/c644d07/src/api/types/trading-entiities.ts#L2)
