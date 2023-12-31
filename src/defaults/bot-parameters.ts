@@ -1,0 +1,57 @@
+/* eslint-disable unicorn/no-null */
+
+import { getUniqueInteger } from "../api/utils/get-unique-int.js";
+import { BotCreateDto, BotDto } from "../index.js";
+
+export function getBotParameters(data: BotCreateDto & { accountName: string }): BotDto {
+  const tempId = getUniqueInteger();
+  return {
+    id: -tempId,
+    tempId: -tempId,
+    createdAt: new Date().toISOString(),
+    updatedAt: new Date().toISOString(),
+    type: Array.isArray(data.pairs) ? "Bot::MultiBot" : "Bot::SingleBot",
+    isEnabled: false,
+    closeStrategyList: [],
+    maxActiveDeals: 1,
+    activeDealsCount: 0,
+    deletable: true,
+    trailingEnabled: null,
+    tslEnabled: false,
+    dealStartDelaySeconds: null,
+    stopLossTimeoutEnabled: false,
+    stopLossTimeoutInSeconds: 0,
+    disableAfterDealsCount: null,
+    dealsCounter: null,
+    allowedDealsOnSamePair: null,
+    easyFormSupported: false,
+    closeDealsTimeout: null,
+    urlSecret: "64058c22f4",
+    minProfitPercentage: null,
+    minProfitType: null,
+    stopLossPercentage: 0,
+    cooldown: 0,
+    btcPriceLimit: 0,
+    strategy: "long",
+    minVolumeBtc24h: 0,
+    profitCurrency: "quote_currency",
+    minPrice: null,
+    maxPrice: null,
+    stopLossType: "stop_loss",
+    safetyOrderVolumeType: "quote_currency",
+    baseOrderVolumeType: "quote_currency",
+    trailingDeviation: 0.2,
+    finishedDealsProfitUsd: 0,
+    finishedDealsCount: 0,
+    leverageType: "not_specified",
+    leverageCustomValue: null,
+    startOrderType: "limit",
+    activeDealsUsdProfit: 0,
+    reinvestingPercentage: null,
+    riskReductionPercentage: null,
+    reinvestedVolumeUsd: null,
+    minPricePercentage: null,
+    maxPricePercentage: null,
+    ...data,
+  };
+}

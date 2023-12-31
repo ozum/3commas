@@ -1,0 +1,96 @@
+{
+  "name": "3commas",
+  "version": "0.0.1",
+  "description": "3Commas API and high level utilities.",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
+  "exports": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "swpm": "pnpm",
+  "scripts": {
+    "verify": "swpm run base:verify",
+    "release": "swpm run base:release",
+    "test": "swpm run base:test",
+    "dev": "swpm run base:dev",
+    "lint": "swpm run base:lint",
+    "format": "swpm run base:format",
+    "build": "swpm run base:build",
+    "docs:api": "swpm run base:docs:api",
+    "commit": "swpm run base:commit",
+    "commitlint": "swpm run base:commitlint",
+    "precommit": "swpm run base:precommit",
+    "prepare": "swpm run base:prepare",
+    "base:verify": "concurrently -g -c auto -n '    Audit   ,Dependencies,    Lint    ,   Format   ,    Test    ' 'audit-ci -c' 'knip' 'swpm run lint' 'swpm run format' 'swpm test'",
+    "base:release": "swpm run docs:api && git pull && git add -A && git commit && git push --follow-tags",
+    "base:test": "jest --coverage",
+    "base:dev": "tsc --project tsconfig.build.json --watch",
+    "base:lint": "eslint --ignore-path .gitignore --cache --max-warnings 0 --fix .",
+    "base:format": "prettier . --list-different --write --ignore-path .gitignore",
+    "base:build": "tsc --project tsconfig.build.json",
+    "base:docs:api": "typedoc",
+    "base:commit": "git-cz --hook",
+    "base:commitlint": "commitlint --edit ${1}",
+    "base:precommit": "lint-staged && concurrently -g -c auto -n '    Audit   ,Dependencies' 'audit-ci -c' 'knip'",
+    "base:prepare": "is-ci || husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozum/3commas"
+  },
+  "bugs": {
+    "url": "https://github.com/ozum/3commas/issues"
+  },
+  "homepage": "https://github.com/ozum/3commas",
+  "keywords": [
+    "3commas crypto trading bot api cryptocurrency bitcoin etherium altcoin"
+  ],
+  "author": {
+    "name": "Özüm Eldoğan",
+    "email": "ozum@ozum.net",
+    "url": "https://github.com/ozum"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "arrify": "^3.0.0",
+    "dot-prop": "^8.0.2",
+    "just-camel-case": "^6.2.0",
+    "just-snake-case": "^3.2.0",
+    "qcompare": "^1.4.7",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "18.4.3",
+    "@commitlint/config-conventional": "18.4.3",
+    "@swc/core": "1.3.100",
+    "@swc/jest": "0.2.29",
+    "@types/jest": "29.5.10",
+    "@types/node": "20.10.1",
+    "audit-ci": "6.6.1",
+    "commitizen": "4.3.0",
+    "concurrently": "8.2.2",
+    "cz-conventional-changelog": "3.3.0",
+    "eslint": "8.54.0",
+    "eslint-config-ozum": "1.0.6",
+    "husky": "8.0.3",
+    "is-ci": "3.0.1",
+    "jest": "29.7.0",
+    "knip": "3.3.3",
+    "lint-staged": "15.1.0",
+    "prettier": "3.0.0",
+    "swpm": "2.5.2",
+    "type-fest": "^4.8.2",
+    "typedoc": "0.25.4",
+    "typedoc-plugin-markdown": "3.17.1",
+    "typescript": "5.3.2"
+  }
+}
