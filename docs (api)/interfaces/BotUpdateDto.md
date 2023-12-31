@@ -70,7 +70,7 @@ Numerify.activeSafetyOrdersCount
 
 #### Defined in
 
-api/types/bot.ts:17
+[api/types/bot.ts:17](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L17)
 
 ---
 
@@ -84,7 +84,7 @@ Numerify.allowedDealsOnSamePair
 
 #### Defined in
 
-api/types/bot.ts:40
+[api/types/bot.ts:40](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L40)
 
 ---
 
@@ -98,7 +98,7 @@ Numerify.baseOrderVolume
 
 #### Defined in
 
-api/types/bot.ts:9
+[api/types/bot.ts:9](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L9)
 
 ---
 
@@ -112,7 +112,7 @@ Numerify.baseOrderVolumeType
 
 #### Defined in
 
-api/types/bot.ts:10
+[api/types/bot.ts:10](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L10)
 
 ---
 
@@ -126,7 +126,7 @@ Numerify.btcPriceLimit
 
 #### Defined in
 
-api/types/bot.ts:22
+[api/types/bot.ts:22](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L22)
 
 ---
 
@@ -140,7 +140,7 @@ Numerify.closeDealsTimeout
 
 #### Defined in
 
-api/types/bot.ts:41
+[api/types/bot.ts:41](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L41)
 
 ---
 
@@ -154,7 +154,7 @@ Numerify.closeStrategyList
 
 #### Defined in
 
-api/types/bot.ts:44
+[api/types/bot.ts:44](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L44)
 
 ---
 
@@ -168,7 +168,7 @@ Numerify.cooldown
 
 #### Defined in
 
-api/types/bot.ts:19
+[api/types/bot.ts:19](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L19)
 
 ---
 
@@ -182,7 +182,7 @@ Numerify.dealStartDelaySeconds
 
 #### Defined in
 
-api/types/bot.ts:35
+[api/types/bot.ts:35](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L35)
 
 ---
 
@@ -196,7 +196,7 @@ Numerify.disableAfterDealsCount
 
 #### Defined in
 
-api/types/bot.ts:39
+[api/types/bot.ts:39](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L39)
 
 ---
 
@@ -206,7 +206,7 @@ api/types/bot.ts:39
 
 #### Defined in
 
-api/types/bot.ts:81
+[api/types/bot.ts:81](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L81)
 
 ---
 
@@ -220,7 +220,7 @@ Numerify.leverageCustomValue
 
 #### Defined in
 
-api/types/bot.ts:28
+[api/types/bot.ts:28](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L28)
 
 ---
 
@@ -234,7 +234,7 @@ Numerify.leverageType
 
 #### Defined in
 
-api/types/bot.ts:27
+[api/types/bot.ts:27](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L27)
 
 ---
 
@@ -248,7 +248,7 @@ Numerify.martingaleStepCoefficient
 
 #### Defined in
 
-api/types/bot.ts:14
+[api/types/bot.ts:14](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L14)
 
 ---
 
@@ -262,7 +262,7 @@ Numerify.martingaleVolumeCoefficient
 
 #### Defined in
 
-api/types/bot.ts:15
+[api/types/bot.ts:15](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L15)
 
 ---
 
@@ -276,7 +276,7 @@ Numerify.maxActiveDeals
 
 #### Defined in
 
-api/types/bot.ts:8
+[api/types/bot.ts:8](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L8)
 
 ---
 
@@ -290,7 +290,7 @@ Numerify.maxPrice
 
 #### Defined in
 
-api/types/bot.ts:30
+[api/types/bot.ts:30](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L30)
 
 ---
 
@@ -304,7 +304,7 @@ Numerify.maxPricePercentage
 
 #### Defined in
 
-api/types/bot.ts:49
+[api/types/bot.ts:49](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L49)
 
 ---
 
@@ -318,7 +318,7 @@ Numerify.maxSafetyOrders
 
 #### Defined in
 
-api/types/bot.ts:16
+[api/types/bot.ts:16](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L16)
 
 ---
 
@@ -332,7 +332,7 @@ Numerify.minPrice
 
 #### Defined in
 
-api/types/bot.ts:29
+[api/types/bot.ts:29](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L29)
 
 ---
 
@@ -346,7 +346,7 @@ Numerify.minPricePercentage
 
 #### Defined in
 
-api/types/bot.ts:48
+[api/types/bot.ts:48](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L48)
 
 ---
 
@@ -360,7 +360,7 @@ Numerify.minProfitPercentage
 
 #### Defined in
 
-api/types/bot.ts:42
+[api/types/bot.ts:42](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L42)
 
 ---
 
@@ -374,7 +374,7 @@ Numerify.minProfitType
 
 #### Defined in
 
-api/types/bot.ts:43
+[api/types/bot.ts:43](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L43)
 
 ---
 
@@ -388,7 +388,7 @@ Numerify.minVolumeBtc24h
 
 #### Defined in
 
-api/types/bot.ts:33
+[api/types/bot.ts:33](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L33)
 
 ---
 
@@ -402,7 +402,7 @@ Numerify.name
 
 #### Defined in
 
-api/types/bot.ts:6
+[api/types/bot.ts:6](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L6)
 
 ---
 
@@ -416,7 +416,7 @@ Numerify.pairs
 
 #### Defined in
 
-api/types/bot.ts:7
+[api/types/bot.ts:7](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L7)
 
 ---
 
@@ -430,7 +430,7 @@ Numerify.profitCurrency
 
 #### Defined in
 
-api/types/bot.ts:36
+[api/types/bot.ts:36](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L36)
 
 ---
 
@@ -444,7 +444,7 @@ Numerify.reinvestedVolumeUsd
 
 #### Defined in
 
-api/types/bot.ts:47
+[api/types/bot.ts:47](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L47)
 
 ---
 
@@ -458,7 +458,7 @@ Numerify.reinvestingPercentage
 
 #### Defined in
 
-api/types/bot.ts:46
+[api/types/bot.ts:46](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L46)
 
 ---
 
@@ -472,7 +472,7 @@ Numerify.riskReductionPercentage
 
 #### Defined in
 
-api/types/bot.ts:45
+[api/types/bot.ts:45](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L45)
 
 ---
 
@@ -486,7 +486,7 @@ Numerify.safetyOrderStepPercentage
 
 #### Defined in
 
-api/types/bot.ts:24
+[api/types/bot.ts:24](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L24)
 
 ---
 
@@ -500,7 +500,7 @@ Numerify.safetyOrderVolume
 
 #### Defined in
 
-api/types/bot.ts:12
+[api/types/bot.ts:12](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L12)
 
 ---
 
@@ -514,7 +514,7 @@ Numerify.safetyOrderVolumeType
 
 #### Defined in
 
-api/types/bot.ts:13
+[api/types/bot.ts:13](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L13)
 
 ---
 
@@ -528,7 +528,7 @@ Numerify.startOrderType
 
 #### Defined in
 
-api/types/bot.ts:37
+[api/types/bot.ts:37](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L37)
 
 ---
 
@@ -542,7 +542,7 @@ Numerify.stopLossPercentage
 
 #### Defined in
 
-api/types/bot.ts:18
+[api/types/bot.ts:18](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L18)
 
 ---
 
@@ -556,7 +556,7 @@ Numerify.stopLossTimeoutEnabled
 
 #### Defined in
 
-api/types/bot.ts:31
+[api/types/bot.ts:31](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L31)
 
 ---
 
@@ -570,7 +570,7 @@ Numerify.stopLossTimeoutInSeconds
 
 #### Defined in
 
-api/types/bot.ts:32
+[api/types/bot.ts:32](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L32)
 
 ---
 
@@ -584,7 +584,7 @@ Numerify.stopLossType
 
 #### Defined in
 
-api/types/bot.ts:38
+[api/types/bot.ts:38](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L38)
 
 ---
 
@@ -598,7 +598,7 @@ Numerify.strategy
 
 #### Defined in
 
-api/types/bot.ts:23
+[api/types/bot.ts:23](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L23)
 
 ---
 
@@ -612,7 +612,7 @@ Numerify.strategyList
 
 #### Defined in
 
-api/types/bot.ts:26
+[api/types/bot.ts:26](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L26)
 
 ---
 
@@ -626,7 +626,7 @@ Numerify.takeProfit
 
 #### Defined in
 
-api/types/bot.ts:11
+[api/types/bot.ts:11](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L11)
 
 ---
 
@@ -640,7 +640,7 @@ Numerify.takeProfitType
 
 #### Defined in
 
-api/types/bot.ts:25
+[api/types/bot.ts:25](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L25)
 
 ---
 
@@ -654,7 +654,7 @@ Numerify.trailingDeviation
 
 #### Defined in
 
-api/types/bot.ts:21
+[api/types/bot.ts:21](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L21)
 
 ---
 
@@ -668,7 +668,7 @@ Numerify.trailingEnabled
 
 #### Defined in
 
-api/types/bot.ts:20
+[api/types/bot.ts:20](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L20)
 
 ---
 
@@ -682,4 +682,4 @@ Numerify.tslEnabled
 
 #### Defined in
 
-api/types/bot.ts:34
+[api/types/bot.ts:34](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L34)

@@ -27,7 +27,7 @@ Account to show bots on. Return all if not specified. Gather this from GET /ver1
 
 #### Defined in
 
-api/bot.ts:24
+[api/bot.ts:24](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L24)
 
 ---
 
@@ -39,7 +39,7 @@ Param for a filter by bot form type
 
 #### Defined in
 
-api/bot.ts:32
+[api/bot.ts:32](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L32)
 
 ---
 
@@ -51,7 +51,7 @@ Param for a filter by created date
 
 #### Defined in
 
-api/bot.ts:22
+[api/bot.ts:22](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L22)
 
 ---
 
@@ -61,7 +61,7 @@ api/bot.ts:22
 
 #### Defined in
 
-api/bot.ts:19
+[api/bot.ts:19](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L19)
 
 ---
 
@@ -71,7 +71,7 @@ api/bot.ts:19
 
 #### Defined in
 
-api/bot.ts:20
+[api/bot.ts:20](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L20)
 
 ---
 
@@ -83,7 +83,7 @@ Quote currency
 
 #### Defined in
 
-api/bot.ts:30
+[api/bot.ts:30](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L30)
 
 ---
 
@@ -93,7 +93,7 @@ api/bot.ts:30
 
 #### Defined in
 
-api/bot.ts:25
+[api/bot.ts:25](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L25)
 
 ---
 
@@ -103,7 +103,7 @@ api/bot.ts:25
 
 #### Defined in
 
-api/bot.ts:27
+[api/bot.ts:27](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L27)
 
 ---
 
@@ -113,7 +113,7 @@ api/bot.ts:27
 
 #### Defined in
 
-api/bot.ts:28
+[api/bot.ts:28](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L28)
 
 ---
 
@@ -123,4 +123,4 @@ api/bot.ts:28
 
 #### Defined in
 
-api/bot.ts:26
+[api/bot.ts:26](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L26)

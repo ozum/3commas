@@ -113,7 +113,7 @@
 
 #### Defined in
 
-account.ts:13
+[account.ts:13](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L13)
 
 ## Properties
 
@@ -123,7 +123,7 @@ account.ts:13
 
 #### Defined in
 
-account.ts:10
+[account.ts:10](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L10)
 
 ---
 
@@ -133,7 +133,7 @@ account.ts:10
 
 #### Defined in
 
-account.ts:11
+[account.ts:11](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L11)
 
 ---
 
@@ -143,7 +143,7 @@ account.ts:11
 
 #### Defined in
 
-account.ts:9
+[account.ts:9](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L9)
 
 ## Accessors
 
@@ -157,7 +157,7 @@ account.ts:9
 
 #### Defined in
 
-account.ts:36
+[account.ts:36](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L36)
 
 ---
 
@@ -171,7 +171,7 @@ account.ts:36
 
 #### Defined in
 
-account.ts:93
+[account.ts:93](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L93)
 
 • `set` **address**(`address`): `void`
 
@@ -187,7 +187,7 @@ account.ts:93
 
 #### Defined in
 
-account.ts:97
+[account.ts:97](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L97)
 
 ---
 
@@ -201,7 +201,7 @@ account.ts:97
 
 #### Defined in
 
-account.ts:249
+[account.ts:249](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L249)
 
 • `set` **apiKey**(`apiKey`): `void`
 
@@ -217,7 +217,7 @@ account.ts:249
 
 #### Defined in
 
-account.ts:253
+[account.ts:253](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L253)
 
 ---
 
@@ -231,7 +231,7 @@ account.ts:253
 
 #### Defined in
 
-account.ts:197
+[account.ts:197](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L197)
 
 ---
 
@@ -245,7 +245,7 @@ account.ts:197
 
 #### Defined in
 
-account.ts:109
+[account.ts:109](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L109)
 
 ---
 
@@ -259,7 +259,7 @@ account.ts:109
 
 #### Defined in
 
-account.ts:269
+[account.ts:269](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L269)
 
 ---
 
@@ -273,7 +273,7 @@ account.ts:269
 
 #### Defined in
 
-account.ts:265
+[account.ts:265](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L265)
 
 ---
 
@@ -287,7 +287,7 @@ account.ts:265
 
 #### Defined in
 
-account.ts:101
+[account.ts:101](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L101)
 
 ---
 
@@ -301,7 +301,7 @@ account.ts:101
 
 #### Defined in
 
-account.ts:105
+[account.ts:105](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L105)
 
 ---
 
@@ -315,7 +315,7 @@ account.ts:105
 
 #### Defined in
 
-account.ts:113
+[account.ts:113](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L113)
 
 ---
 
@@ -329,7 +329,7 @@ account.ts:113
 
 #### Defined in
 
-account.ts:133
+[account.ts:133](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L133)
 
 ---
 
@@ -343,7 +343,7 @@ account.ts:133
 
 #### Defined in
 
-account.ts:245
+[account.ts:245](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L245)
 
 ---
 
@@ -357,7 +357,7 @@ account.ts:245
 
 #### Defined in
 
-account.ts:40
+[account.ts:40](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L40)
 
 ---
 
@@ -371,7 +371,7 @@ account.ts:40
 
 #### Defined in
 
-account.ts:157
+[account.ts:157](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L157)
 
 ---
 
@@ -385,7 +385,7 @@ account.ts:157
 
 #### Defined in
 
-account.ts:165
+[account.ts:165](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L165)
 
 ---
 
@@ -399,7 +399,7 @@ account.ts:165
 
 #### Defined in
 
-account.ts:161
+[account.ts:161](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L161)
 
 ---
 
@@ -413,7 +413,7 @@ account.ts:161
 
 #### Defined in
 
-account.ts:293
+[account.ts:293](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L293)
 
 ---
 
@@ -427,7 +427,7 @@ account.ts:293
 
 #### Defined in
 
-account.ts:317
+[account.ts:317](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L317)
 
 ---
 
@@ -441,7 +441,7 @@ account.ts:317
 
 #### Defined in
 
-account.ts:329
+[account.ts:329](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L329)
 
 ---
 
@@ -455,7 +455,7 @@ account.ts:329
 
 #### Defined in
 
-account.ts:44
+[account.ts:44](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L44)
 
 ---
 
@@ -469,7 +469,7 @@ account.ts:44
 
 #### Defined in
 
-account.ts:153
+[account.ts:153](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L153)
 
 ---
 
@@ -483,7 +483,7 @@ account.ts:153
 
 #### Defined in
 
-account.ts:177
+[account.ts:177](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L177)
 
 ---
 
@@ -497,7 +497,7 @@ account.ts:177
 
 #### Defined in
 
-account.ts:273
+[account.ts:273](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L273)
 
 • `set` **customerId**(`customerId`): `void`
 
@@ -513,7 +513,7 @@ account.ts:273
 
 #### Defined in
 
-account.ts:277
+[account.ts:277](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L277)
 
 ---
 
@@ -527,7 +527,7 @@ account.ts:277
 
 #### Defined in
 
-account.ts:301
+[account.ts:301](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L301)
 
 ---
 
@@ -541,7 +541,7 @@ account.ts:301
 
 #### Defined in
 
-account.ts:309
+[account.ts:309](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L309)
 
 ---
 
@@ -555,7 +555,7 @@ account.ts:309
 
 #### Defined in
 
-account.ts:233
+[account.ts:233](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L233)
 
 ---
 
@@ -569,7 +569,7 @@ account.ts:233
 
 #### Defined in
 
-account.ts:229
+[account.ts:229](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L229)
 
 ---
 
@@ -583,7 +583,7 @@ account.ts:229
 
 #### Defined in
 
-account.ts:305
+[account.ts:305](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L305)
 
 ---
 
@@ -597,7 +597,7 @@ account.ts:305
 
 #### Defined in
 
-account.ts:313
+[account.ts:313](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L313)
 
 ---
 
@@ -611,7 +611,7 @@ account.ts:313
 
 #### Defined in
 
-account.ts:205
+[account.ts:205](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L205)
 
 ---
 
@@ -625,7 +625,7 @@ account.ts:205
 
 #### Defined in
 
-account.ts:345
+[account.ts:345](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L345)
 
 ---
 
@@ -639,7 +639,7 @@ account.ts:345
 
 #### Defined in
 
-account.ts:189
+[account.ts:189](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L189)
 
 ---
 
@@ -655,7 +655,7 @@ All available pairs for the account as objects. i.e. `[{ base: "BTC", quote: "US
 
 #### Defined in
 
-account.ts:66
+[account.ts:66](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L66)
 
 ---
 
@@ -671,7 +671,7 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-account.ts:61
+[account.ts:61](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L61)
 
 ---
 
@@ -685,7 +685,7 @@ account.ts:61
 
 #### Defined in
 
-account.ts:169
+[account.ts:169](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L169)
 
 ---
 
@@ -699,7 +699,7 @@ account.ts:169
 
 #### Defined in
 
-account.ts:193
+[account.ts:193](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L193)
 
 ---
 
@@ -713,7 +713,7 @@ account.ts:193
 
 #### Defined in
 
-account.ts:117
+[account.ts:117](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L117)
 
 ---
 
@@ -727,7 +727,7 @@ account.ts:117
 
 #### Defined in
 
-account.ts:121
+[account.ts:121](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L121)
 
 ---
 
@@ -741,7 +741,7 @@ account.ts:121
 
 #### Defined in
 
-account.ts:89
+[account.ts:89](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L89)
 
 ---
 
@@ -755,7 +755,7 @@ account.ts:89
 
 #### Defined in
 
-account.ts:209
+[account.ts:209](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L209)
 
 • `set` **includeInSummary**(`includeInSummary`): `void`
 
@@ -771,7 +771,7 @@ account.ts:209
 
 #### Defined in
 
-account.ts:213
+[account.ts:213](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L213)
 
 ---
 
@@ -785,7 +785,7 @@ account.ts:213
 
 #### Defined in
 
-account.ts:125
+[account.ts:125](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L125)
 
 ---
 
@@ -799,7 +799,7 @@ account.ts:125
 
 #### Defined in
 
-account.ts:185
+[account.ts:185](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L185)
 
 ---
 
@@ -813,7 +813,7 @@ account.ts:185
 
 #### Defined in
 
-account.ts:289
+[account.ts:289](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L289)
 
 ---
 
@@ -827,7 +827,7 @@ account.ts:289
 
 #### Defined in
 
-account.ts:145
+[account.ts:145](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L145)
 
 ---
 
@@ -841,7 +841,7 @@ account.ts:145
 
 #### Defined in
 
-account.ts:349
+[account.ts:349](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L349)
 
 • `set` **marketCode**(`marketCode`): `void`
 
@@ -857,7 +857,7 @@ account.ts:349
 
 #### Defined in
 
-account.ts:353
+[account.ts:353](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L353)
 
 ---
 
@@ -871,7 +871,7 @@ account.ts:353
 
 #### Defined in
 
-account.ts:201
+[account.ts:201](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L201)
 
 ---
 
@@ -885,7 +885,7 @@ account.ts:201
 
 #### Defined in
 
-account.ts:149
+[account.ts:149](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L149)
 
 ---
 
@@ -899,7 +899,7 @@ account.ts:149
 
 #### Defined in
 
-account.ts:173
+[account.ts:173](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L173)
 
 ---
 
@@ -913,7 +913,7 @@ account.ts:173
 
 #### Defined in
 
-account.ts:257
+[account.ts:257](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L257)
 
 • `set` **name**(`name`): `void`
 
@@ -929,7 +929,7 @@ account.ts:257
 
 #### Defined in
 
-account.ts:261
+[account.ts:261](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L261)
 
 ---
 
@@ -949,7 +949,7 @@ account.ts:261
 
 #### Defined in
 
-account.ts:85
+[account.ts:85](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L85)
 
 ---
 
@@ -963,7 +963,7 @@ account.ts:85
 
 #### Defined in
 
-account.ts:341
+[account.ts:341](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L341)
 
 ---
 
@@ -977,7 +977,7 @@ account.ts:341
 
 #### Defined in
 
-account.ts:237
+[account.ts:237](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L237)
 
 ---
 
@@ -991,7 +991,7 @@ account.ts:237
 
 #### Defined in
 
-account.ts:225
+[account.ts:225](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L225)
 
 ---
 
@@ -1005,7 +1005,7 @@ account.ts:225
 
 #### Defined in
 
-account.ts:221
+[account.ts:221](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L221)
 
 ---
 
@@ -1025,7 +1025,7 @@ account.ts:221
 
 #### Defined in
 
-account.ts:81
+[account.ts:81](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L81)
 
 ---
 
@@ -1039,7 +1039,7 @@ account.ts:81
 
 #### Defined in
 
-account.ts:129
+[account.ts:129](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L129)
 
 ---
 
@@ -1053,7 +1053,7 @@ account.ts:129
 
 #### Defined in
 
-account.ts:137
+[account.ts:137](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L137)
 
 ---
 
@@ -1067,7 +1067,7 @@ account.ts:137
 
 #### Defined in
 
-account.ts:281
+[account.ts:281](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L281)
 
 • `set` **subaccountName**(`subaccountName`): `void`
 
@@ -1083,7 +1083,7 @@ account.ts:281
 
 #### Defined in
 
-account.ts:285
+[account.ts:285](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L285)
 
 ---
 
@@ -1097,7 +1097,7 @@ account.ts:285
 
 #### Defined in
 
-account.ts:217
+[account.ts:217](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L217)
 
 ---
 
@@ -1111,7 +1111,7 @@ account.ts:217
 
 #### Defined in
 
-account.ts:333
+[account.ts:333](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L333)
 
 ---
 
@@ -1125,7 +1125,7 @@ account.ts:333
 
 #### Defined in
 
-account.ts:241
+[account.ts:241](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L241)
 
 ---
 
@@ -1139,7 +1139,7 @@ account.ts:241
 
 #### Defined in
 
-account.ts:337
+[account.ts:337](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L337)
 
 ---
 
@@ -1153,7 +1153,7 @@ account.ts:337
 
 #### Defined in
 
-account.ts:141
+[account.ts:141](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L141)
 
 ---
 
@@ -1167,7 +1167,7 @@ account.ts:141
 
 #### Defined in
 
-account.ts:181
+[account.ts:181](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L181)
 
 ---
 
@@ -1181,7 +1181,7 @@ account.ts:181
 
 #### Defined in
 
-account.ts:297
+[account.ts:297](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L297)
 
 ---
 
@@ -1195,7 +1195,7 @@ account.ts:297
 
 #### Defined in
 
-account.ts:321
+[account.ts:321](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L321)
 
 ---
 
@@ -1209,7 +1209,7 @@ account.ts:321
 
 #### Defined in
 
-account.ts:325
+[account.ts:325](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L325)
 
 ## Methods
 
@@ -1229,7 +1229,7 @@ account.ts:325
 
 #### Defined in
 
-account.ts:19
+[account.ts:19](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L19)
 
 ---
 
@@ -1243,7 +1243,7 @@ account.ts:19
 
 #### Defined in
 
-account.ts:32
+[account.ts:32](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L32)
 
 ---
 
@@ -1271,7 +1271,7 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-account.ts:77
+[account.ts:77](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L77)
 
 ---
 
@@ -1293,7 +1293,7 @@ account.ts:77
 
 #### Defined in
 
-account.ts:26
+[account.ts:26](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L26)
 
 ---
 
@@ -1313,7 +1313,7 @@ account.ts:26
 
 #### Defined in
 
-account.ts:56
+[account.ts:56](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L56)
 
 ---
 
@@ -1333,7 +1333,7 @@ account.ts:56
 
 #### Defined in
 
-account.ts:52
+[account.ts:52](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L52)
 
 ---
 
@@ -1353,4 +1353,4 @@ account.ts:52
 
 #### Defined in
 
-account.ts:48
+[account.ts:48](https://github.com/ozum/3commas/blob/154787b/src/account.ts#L48)

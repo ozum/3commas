@@ -62,7 +62,6 @@
   "license": "ISC",
   "dependencies": {
     "arrify": "^3.0.0",
-    "dot-prop": "^8.0.2",
     "just-camel-case": "^6.2.0",
     "just-snake-case": "^3.2.0",
     "qcompare": "^1.4.7",

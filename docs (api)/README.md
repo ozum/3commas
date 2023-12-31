@@ -124,7 +124,7 @@
 
 #### Defined in
 
-api/types/account.ts:74
+[api/types/account.ts:74](https://github.com/ozum/3commas/blob/154787b/src/api/types/account.ts#L74)
 
 ---
 
@@ -134,7 +134,7 @@ api/types/account.ts:74
 
 #### Defined in
 
-api/types/account.ts:75
+[api/types/account.ts:75](https://github.com/ozum/3commas/blob/154787b/src/api/types/account.ts#L75)
 
 ---
 
@@ -144,7 +144,7 @@ api/types/account.ts:75
 
 #### Defined in
 
-api/types/index.ts:66
+[api/types/index.ts:66](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L66)
 
 ---
 
@@ -154,7 +154,7 @@ api/types/index.ts:66
 
 #### Defined in
 
-api/types/deal-stats.ts:17
+[api/types/deal-stats.ts:17](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal-stats.ts#L17)
 
 ---
 
@@ -164,7 +164,7 @@ api/types/deal-stats.ts:17
 
 #### Defined in
 
-api/types/deal-stats.ts:16
+[api/types/deal-stats.ts:16](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal-stats.ts#L16)
 
 ---
 
@@ -174,7 +174,7 @@ api/types/deal-stats.ts:16
 
 #### Defined in
 
-api/types/bot.ts:73
+[api/types/bot.ts:73](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L73)
 
 ---
 
@@ -184,7 +184,7 @@ api/types/bot.ts:73
 
 #### Defined in
 
-api/types/bot-stat.ts:20
+[api/types/bot-stat.ts:20](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot-stat.ts#L20)
 
 ---
 
@@ -194,7 +194,7 @@ api/types/bot-stat.ts:20
 
 #### Defined in
 
-api/types/bot-stat.ts:19
+[api/types/bot-stat.ts:19](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot-stat.ts#L19)
 
 ---
 
@@ -204,7 +204,7 @@ api/types/bot-stat.ts:19
 
 #### Defined in
 
-api/types/bot.ts:74
+[api/types/bot.ts:74](https://github.com/ozum/3commas/blob/154787b/src/api/types/bot.ts#L74)
 
 ---
 
@@ -214,7 +214,7 @@ api/types/bot.ts:74
 
 #### Defined in
 
-api/types/index.ts:37
+[api/types/index.ts:37](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L37)
 
 ---
 
@@ -233,7 +233,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-api/types/index.ts:62
+[api/types/index.ts:62](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L62)
 
 ---
 
@@ -243,7 +243,7 @@ api/types/index.ts:62
 
 #### Defined in
 
-api/types/deal.ts:99
+[api/types/deal.ts:99](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L99)
 
 ---
 
@@ -253,7 +253,7 @@ api/types/deal.ts:99
 
 #### Defined in
 
-api/types/deal.ts:3
+[api/types/deal.ts:3](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L3)
 
 ---
 
@@ -263,7 +263,7 @@ api/types/deal.ts:3
 
 #### Defined in
 
-api/types/deal.ts:98
+[api/types/deal.ts:98](https://github.com/ozum/3commas/blob/154787b/src/api/types/deal.ts#L98)
 
 ---
 
@@ -273,7 +273,7 @@ api/types/deal.ts:98
 
 #### Defined in
 
-api/types/index.ts:20
+[api/types/index.ts:20](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L20)
 
 ---
 
@@ -283,7 +283,7 @@ api/types/index.ts:20
 
 #### Defined in
 
-api/types/market.ts:7
+[api/types/market.ts:7](https://github.com/ozum/3commas/blob/154787b/src/api/types/market.ts#L7)
 
 ---
 
@@ -299,7 +299,7 @@ api/types/market.ts:7
 
 #### Defined in
 
-api/types/index.ts:50
+[api/types/index.ts:50](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L50)
 
 ---
 
@@ -309,7 +309,7 @@ api/types/index.ts:50
 
 #### Defined in
 
-api/types/index.ts:76
+[api/types/index.ts:76](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L76)
 
 ---
 
@@ -319,7 +319,7 @@ api/types/index.ts:76
 
 #### Defined in
 
-api/types/index.ts:74
+[api/types/index.ts:74](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L74)
 
 ---
 
@@ -329,7 +329,7 @@ api/types/index.ts:74
 
 #### Defined in
 
-api/types/profit.ts:12
+[api/types/profit.ts:12](https://github.com/ozum/3commas/blob/154787b/src/api/types/profit.ts#L12)
 
 ---
 
@@ -339,7 +339,7 @@ api/types/profit.ts:12
 
 #### Defined in
 
-api/types/profit.ts:11
+[api/types/profit.ts:11](https://github.com/ozum/3commas/blob/154787b/src/api/types/profit.ts#L11)
 
 ---
 
@@ -349,7 +349,7 @@ api/types/profit.ts:11
 
 #### Defined in
 
-api/types/index.ts:65
+[api/types/index.ts:65](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L65)
 
 ---
 
@@ -367,7 +367,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-api/types/index.ts:59
+[api/types/index.ts:59](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L59)
 
 ---
 
@@ -384,7 +384,7 @@ api/types/index.ts:59
 
 #### Defined in
 
-api/types/index.ts:63
+[api/types/index.ts:63](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L63)
 
 ---
 
@@ -394,7 +394,7 @@ api/types/index.ts:63
 
 #### Defined in
 
-api/types/trade-info.ts:44
+[api/types/trade-info.ts:44](https://github.com/ozum/3commas/blob/154787b/src/api/types/trade-info.ts#L44)
 
 ---
 
@@ -404,7 +404,7 @@ api/types/trade-info.ts:44
 
 #### Defined in
 
-api/types/trade-info.ts:43
+[api/types/trade-info.ts:43](https://github.com/ozum/3commas/blob/154787b/src/api/types/trade-info.ts#L43)
 
 ---
 
@@ -414,7 +414,7 @@ api/types/trade-info.ts:43
 
 #### Defined in
 
-api/types/index.ts:35
+[api/types/index.ts:35](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L35)
 
 ---
 
@@ -424,7 +424,7 @@ api/types/index.ts:35
 
 #### Defined in
 
-api/types/strategy.ts:132
+[api/types/strategy.ts:132](https://github.com/ozum/3commas/blob/154787b/src/api/types/strategy.ts#L132)
 
 ---
 
@@ -434,7 +434,7 @@ api/types/strategy.ts:132
 
 #### Defined in
 
-api/types/strategy.ts:160
+[api/types/strategy.ts:160](https://github.com/ozum/3commas/blob/154787b/src/api/types/strategy.ts#L160)
 
 ---
 
@@ -444,7 +444,7 @@ api/types/strategy.ts:160
 
 #### Defined in
 
-api/types/strategy.ts:142
+[api/types/strategy.ts:142](https://github.com/ozum/3commas/blob/154787b/src/api/types/strategy.ts#L142)
 
 ---
 
@@ -454,7 +454,7 @@ api/types/strategy.ts:142
 
 #### Defined in
 
-api/types/strategy.ts:159
+[api/types/strategy.ts:159](https://github.com/ozum/3commas/blob/154787b/src/api/types/strategy.ts#L159)
 
 ---
 
@@ -470,7 +470,7 @@ api/types/strategy.ts:159
 
 #### Defined in
 
-api/types/index.ts:51
+[api/types/index.ts:51](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L51)
 
 ---
 
@@ -480,7 +480,7 @@ api/types/index.ts:51
 
 #### Defined in
 
-api/types/trade-info.ts:41
+[api/types/trade-info.ts:41](https://github.com/ozum/3commas/blob/154787b/src/api/types/trade-info.ts#L41)
 
 ---
 
@@ -490,7 +490,7 @@ api/types/trade-info.ts:41
 
 #### Defined in
 
-api/types/trade-info.ts:40
+[api/types/trade-info.ts:40](https://github.com/ozum/3commas/blob/154787b/src/api/types/trade-info.ts#L40)
 
 ---
 
@@ -500,7 +500,7 @@ api/types/trade-info.ts:40
 
 #### Defined in
 
-api/types/user-balance.ts:47
+[api/types/user-balance.ts:47](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L47)
 
 ---
 
@@ -510,7 +510,7 @@ api/types/user-balance.ts:47
 
 #### Defined in
 
-api/types/user-balance.ts:46
+[api/types/user-balance.ts:46](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L46)
 
 ---
 
@@ -520,7 +520,7 @@ api/types/user-balance.ts:46
 
 #### Defined in
 
-api/types/index.ts:78
+[api/types/index.ts:78](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L78)
 
 ## Functions
 
@@ -547,7 +547,7 @@ api/types/index.ts:78
 
 #### Defined in
 
-api/bot.ts:132
+[api/bot.ts:132](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L132)
 
 ---
 
@@ -578,7 +578,7 @@ api/bot.ts:132
 
 #### Defined in
 
-api/bot.ts:54
+[api/bot.ts:54](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L54)
 
 ---
 
@@ -605,7 +605,7 @@ api/bot.ts:54
 
 #### Defined in
 
-api/account.ts:59
+[api/account.ts:59](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L59)
 
 ---
 
@@ -632,7 +632,7 @@ api/account.ts:59
 
 #### Defined in
 
-api/bot.ts:50
+[api/bot.ts:50](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L50)
 
 ---
 
@@ -659,7 +659,7 @@ api/bot.ts:50
 
 #### Defined in
 
-api/account.ts:67
+[api/account.ts:67](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L67)
 
 ---
 
@@ -686,7 +686,7 @@ api/account.ts:67
 
 #### Defined in
 
-api/bot.ts:65
+[api/bot.ts:65](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L65)
 
 ---
 
@@ -713,7 +713,7 @@ api/bot.ts:65
 
 #### Defined in
 
-api/account.ts:51
+[api/account.ts:51](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L51)
 
 ---
 
@@ -740,7 +740,7 @@ api/account.ts:51
 
 #### Defined in
 
-api/account.ts:86
+[api/account.ts:86](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L86)
 
 ---
 
@@ -767,7 +767,7 @@ api/account.ts:86
 
 #### Defined in
 
-api/account.ts:82
+[api/account.ts:82](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L82)
 
 ---
 
@@ -794,7 +794,7 @@ api/account.ts:82
 
 #### Defined in
 
-api/account.ts:47
+[api/account.ts:47](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L47)
 
 ---
 
@@ -821,7 +821,7 @@ api/account.ts:47
 
 #### Defined in
 
-api/account.ts:90
+[api/account.ts:90](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L90)
 
 ---
 
@@ -861,7 +861,7 @@ the records.
 
 #### Defined in
 
-api/utils/parallel.ts:72
+[api/utils/parallel.ts:72](https://github.com/ozum/3commas/blob/154787b/src/api/utils/parallel.ts#L72)
 
 ---
 
@@ -888,7 +888,7 @@ api/utils/parallel.ts:72
 
 #### Defined in
 
-api/account.ts:43
+[api/account.ts:43](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L43)
 
 ---
 
@@ -915,7 +915,7 @@ api/account.ts:43
 
 #### Defined in
 
-api/bot.ts:35
+[api/bot.ts:35](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L35)
 
 ---
 
@@ -944,7 +944,7 @@ api/bot.ts:35
 
 #### Defined in
 
-api/bot.ts:43
+[api/bot.ts:43](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L43)
 
 ---
 
@@ -971,7 +971,7 @@ api/bot.ts:43
 
 #### Defined in
 
-api/bot.ts:136
+[api/bot.ts:136](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L136)
 
 ---
 
@@ -1001,7 +1001,7 @@ api/bot.ts:136
 
 #### Defined in
 
-api/bot.ts:96
+[api/bot.ts:96](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L96)
 
 ---
 
@@ -1028,7 +1028,7 @@ api/bot.ts:96
 
 #### Defined in
 
-api/bot.ts:39
+[api/bot.ts:39](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L39)
 
 ---
 
@@ -1054,7 +1054,7 @@ api/bot.ts:39
 
 #### Defined in
 
-api/account.ts:55
+[api/account.ts:55](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L55)
 
 ---
 
@@ -1082,7 +1082,7 @@ api/account.ts:55
 
 #### Defined in
 
-api/account.ts:78
+[api/account.ts:78](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L78)
 
 ---
 
@@ -1107,7 +1107,7 @@ api/account.ts:78
 
 #### Defined in
 
-api/account.ts:36
+[api/account.ts:36](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L36)
 
 ---
 
@@ -1133,7 +1133,7 @@ api/account.ts:36
 
 #### Defined in
 
-api/bot.ts:92
+[api/bot.ts:92](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L92)
 
 ---
 
@@ -1162,7 +1162,7 @@ api/bot.ts:92
 
 #### Defined in
 
-api/bot.ts:104
+[api/bot.ts:104](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L104)
 
 ---
 
@@ -1190,7 +1190,7 @@ api/bot.ts:104
 
 #### Defined in
 
-api/bot.ts:84
+[api/bot.ts:84](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L84)
 
 ---
 
@@ -1220,7 +1220,7 @@ api/bot.ts:84
 
 #### Defined in
 
-api/bot.ts:77
+[api/bot.ts:77](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L77)
 
 ---
 
@@ -1248,7 +1248,7 @@ api/bot.ts:77
 
 #### Defined in
 
-api/bot.ts:88
+[api/bot.ts:88](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L88)
 
 ---
 
@@ -1285,7 +1285,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-api/utils/parallel.ts:98
+[api/utils/parallel.ts:98](https://github.com/ozum/3commas/blob/154787b/src/api/utils/parallel.ts#L98)
 
 ---
 
@@ -1314,7 +1314,7 @@ api/utils/parallel.ts:98
 
 #### Defined in
 
-api/account.ts:71
+[api/account.ts:71](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L71)
 
 ---
 
@@ -1341,7 +1341,7 @@ api/account.ts:71
 
 #### Defined in
 
-api/bot.ts:128
+[api/bot.ts:128](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L128)
 
 ---
 
@@ -1368,7 +1368,7 @@ api/bot.ts:128
 
 #### Defined in
 
-api/bot.ts:69
+[api/bot.ts:69](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L69)
 
 ---
 
@@ -1400,7 +1400,7 @@ api/bot.ts:69
 
 #### Defined in
 
-api/bot.ts:111
+[api/bot.ts:111](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L111)
 
 ---
 
@@ -1427,7 +1427,7 @@ api/bot.ts:111
 
 #### Defined in
 
-api/bot.ts:73
+[api/bot.ts:73](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L73)
 
 ---
 
@@ -1454,7 +1454,7 @@ Transfers coins between accounts.
 
 #### Defined in
 
-api/account.ts:29
+[api/account.ts:29](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L29)
 
 ---
 
@@ -1481,7 +1481,7 @@ api/account.ts:29
 
 #### Defined in
 
-api/account.ts:63
+[api/account.ts:63](https://github.com/ozum/3commas/blob/154787b/src/api/account.ts#L63)
 
 ---
 
@@ -1508,4 +1508,4 @@ api/account.ts:63
 
 #### Defined in
 
-api/bot.ts:61
+[api/bot.ts:61](https://github.com/ozum/3commas/blob/154787b/src/api/bot.ts#L61)

@@ -24,7 +24,7 @@
 
 #### Defined in
 
-api/types/index.ts:23
+[api/types/index.ts:23](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L23)
 
 ---
 
@@ -34,7 +34,7 @@ api/types/index.ts:23
 
 #### Defined in
 
-api/types/index.ts:25
+[api/types/index.ts:25](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L25)
 
 ---
 
@@ -44,4 +44,4 @@ api/types/index.ts:25
 
 #### Defined in
 
-api/types/index.ts:24
+[api/types/index.ts:24](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L24)

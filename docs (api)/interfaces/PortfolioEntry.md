@@ -17,7 +17,7 @@
 
 #### Defined in
 
-api/types/portfolio-entry.ts:3
+[api/types/portfolio-entry.ts:3](https://github.com/ozum/3commas/blob/154787b/src/api/types/portfolio-entry.ts#L3)
 
 ---
 
@@ -27,4 +27,4 @@ api/types/portfolio-entry.ts:3
 
 #### Defined in
 
-api/types/portfolio-entry.ts:2
+[api/types/portfolio-entry.ts:2](https://github.com/ozum/3commas/blob/154787b/src/api/types/portfolio-entry.ts#L2)

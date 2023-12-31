@@ -25,7 +25,7 @@
 
 #### Defined in
 
-api/types/user-balance.ts:43
+[api/types/user-balance.ts:43](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L43)
 
 ---
 
@@ -35,7 +35,7 @@ api/types/user-balance.ts:43
 
 #### Defined in
 
-api/types/user-balance.ts:39
+[api/types/user-balance.ts:39](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L39)
 
 ---
 
@@ -45,7 +45,7 @@ api/types/user-balance.ts:39
 
 #### Defined in
 
-api/types/user-balance.ts:40
+[api/types/user-balance.ts:40](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L40)
 
 ---
 
@@ -55,7 +55,7 @@ api/types/user-balance.ts:40
 
 #### Defined in
 
-api/types/user-balance.ts:34
+[api/types/user-balance.ts:34](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L34)
 
 ---
 
@@ -65,7 +65,7 @@ api/types/user-balance.ts:34
 
 #### Defined in
 
-api/types/user-balance.ts:35
+[api/types/user-balance.ts:35](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L35)
 
 ---
 
@@ -75,7 +75,7 @@ api/types/user-balance.ts:35
 
 #### Defined in
 
-api/types/user-balance.ts:36
+[api/types/user-balance.ts:36](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L36)
 
 ---
 
@@ -85,7 +85,7 @@ api/types/user-balance.ts:36
 
 #### Defined in
 
-api/types/user-balance.ts:38
+[api/types/user-balance.ts:38](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L38)
 
 ---
 
@@ -95,7 +95,7 @@ api/types/user-balance.ts:38
 
 #### Defined in
 
-api/types/user-balance.ts:42
+[api/types/user-balance.ts:42](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L42)
 
 ---
 
@@ -105,7 +105,7 @@ api/types/user-balance.ts:42
 
 #### Defined in
 
-api/types/user-balance.ts:41
+[api/types/user-balance.ts:41](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L41)
 
 ---
 
@@ -115,4 +115,4 @@ api/types/user-balance.ts:41
 
 #### Defined in
 
-api/types/user-balance.ts:37
+[api/types/user-balance.ts:37](https://github.com/ozum/3commas/blob/154787b/src/api/types/user-balance.ts#L37)

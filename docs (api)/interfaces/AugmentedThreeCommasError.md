@@ -32,7 +32,7 @@
 
 #### Defined in
 
-api/types/index.ts:23
+[api/types/index.ts:23](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L23)
 
 ---
 
@@ -46,7 +46,7 @@ api/types/index.ts:23
 
 #### Defined in
 
-api/types/index.ts:25
+[api/types/index.ts:25](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L25)
 
 ---
 
@@ -60,7 +60,7 @@ api/types/index.ts:25
 
 #### Defined in
 
-api/types/index.ts:24
+[api/types/index.ts:24](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L24)
 
 ---
 
@@ -70,7 +70,7 @@ api/types/index.ts:24
 
 #### Defined in
 
-api/types/index.ts:31
+[api/types/index.ts:31](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L31)
 
 ---
 
@@ -80,7 +80,7 @@ api/types/index.ts:31
 
 #### Defined in
 
-api/types/index.ts:29
+[api/types/index.ts:29](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L29)
 
 ---
 
@@ -90,7 +90,7 @@ api/types/index.ts:29
 
 #### Defined in
 
-api/types/index.ts:32
+[api/types/index.ts:32](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L32)
 
 ---
 
@@ -100,4 +100,4 @@ api/types/index.ts:32
 
 #### Defined in
 
-api/types/index.ts:30
+[api/types/index.ts:30](https://github.com/ozum/3commas/blob/154787b/src/api/types/index.ts#L30)
