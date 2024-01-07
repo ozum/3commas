@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[api/types/index.ts:69](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L69)
+[api/types/index.ts:69](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L69)
 
 ---
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[api/types/index.ts:71](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L71)
+[api/types/index.ts:71](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L71)
 
 ---
 
@@ -38,4 +38,4 @@
 
 #### Defined in
 
-[api/types/index.ts:70](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L70)
+[api/types/index.ts:70](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L70)

@@ -53,6 +53,8 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 ### Methods
 
 - [#getSignature](Client.md##getsignature)
+- [#getSignatureApiSecret](Client.md##getsignatureapisecret)
+- [#getSignaturePrivateKey](Client.md##getsignatureprivatekey)
 - [#request](Client.md##request)
 - [delete](Client.md#delete)
 - [get](Client.md#get)
@@ -88,7 +90,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:63](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L63)
+[api/client.ts:64](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L64)
 
 ## Properties
 
@@ -98,7 +100,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:56](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L56)
+[api/client.ts:57](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L57)
 
 ---
 
@@ -108,7 +110,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:57](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L57)
+[api/client.ts:58](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L58)
 
 ---
 
@@ -118,7 +120,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:60](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L60)
+[api/client.ts:61](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L61)
 
 ---
 
@@ -128,7 +130,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:59](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L59)
+[api/client.ts:60](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L60)
 
 ---
 
@@ -138,7 +140,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:58](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L58)
+[api/client.ts:59](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L59)
 
 ---
 
@@ -148,7 +150,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:61](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L61)
+[api/client.ts:62](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L62)
 
 ---
 
@@ -158,7 +160,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:55](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L55)
+[api/client.ts:56](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L56)
 
 ## Accessors
 
@@ -174,7 +176,7 @@ Lazily loaded static default Client.
 
 #### Defined in
 
-[api/client.ts:87](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L87)
+[api/client.ts:88](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L88)
 
 ## Methods
 
@@ -194,7 +196,47 @@ Lazily loaded static default Client.
 
 #### Defined in
 
-[api/client.ts:181](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L181)
+[api/client.ts:182](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L182)
+
+---
+
+### #getSignatureApiSecret
+
+▸ **#getSignatureApiSecret**(`message`): `Promise`\<`string`\>
+
+#### Parameters
+
+| Name      | Type     |
+| :-------- | :------- |
+| `message` | `string` |
+
+#### Returns
+
+`Promise`\<`string`\>
+
+#### Defined in
+
+[api/client.ts:186](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L186)
+
+---
+
+### #getSignaturePrivateKey
+
+▸ **#getSignaturePrivateKey**(`message`): `string`
+
+#### Parameters
+
+| Name      | Type     |
+| :-------- | :------- |
+| `message` | `string` |
+
+#### Returns
+
+`string`
+
+#### Defined in
+
+[api/client.ts:196](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L196)
 
 ---
 
@@ -230,7 +272,7 @@ Error if request fails or 3Commas responses with a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:137](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L137)
+[api/client.ts:138](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L138)
 
 ---
 
@@ -257,7 +299,7 @@ Error if request fails or 3Commas responses with a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:100](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L100)
+[api/client.ts:101](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L101)
 
 ---
 
@@ -284,7 +326,7 @@ Error if request fails or 3Commas responses with a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:92](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L92)
+[api/client.ts:93](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L93)
 
 ---
 
@@ -311,7 +353,7 @@ Error if request fails or 3Commas responses with a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:104](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L104)
+[api/client.ts:105](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L105)
 
 ---
 
@@ -338,7 +380,7 @@ Error if request fails or 3Commas responses with a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:96](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L96)
+[api/client.ts:97](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L97)
 
 ---
 
@@ -373,7 +415,7 @@ Error if data is a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:165](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L165)
+[api/client.ts:166](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L166)
 
 ---
 
@@ -398,7 +440,7 @@ winston logger.
 
 #### Defined in
 
-[api/client.ts:115](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L115)
+[api/client.ts:116](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L116)
 
 ---
 
@@ -420,7 +462,7 @@ winston logger.
 
 #### Defined in
 
-[api/client.ts:196](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L196)
+[api/client.ts:211](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L211)
 
 ---
 
@@ -442,7 +484,7 @@ winston logger.
 
 #### Defined in
 
-[api/client.ts:190](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L190)
+[api/client.ts:205](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L205)
 
 ---
 
@@ -462,4 +504,4 @@ winston logger.
 
 #### Defined in
 
-[api/client.ts:176](https://github.com/ozum/3commas/blob/c644d07/src/api/client.ts#L176)
+[api/client.ts:177](https://github.com/ozum/3commas/blob/b88be19/src/api/client.ts#L177)

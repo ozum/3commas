@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[api/types/profit.ts:4](https://github.com/ozum/3commas/blob/c644d07/src/api/types/profit.ts#L4)
+[api/types/profit.ts:4](https://github.com/ozum/3commas/blob/b88be19/src/api/types/profit.ts#L4)

@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[api/types/index.ts:23](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L23)
+[api/types/index.ts:23](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L23)
 
 ---
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[api/types/index.ts:25](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L25)
+[api/types/index.ts:25](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L25)
 
 ---
 
@@ -44,4 +44,4 @@
 
 #### Defined in
 
-[api/types/index.ts:24](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L24)
+[api/types/index.ts:24](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L24)

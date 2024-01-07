@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:9](https://github.com/ozum/3commas/blob/c644d07/src/api/types/bot-stat.ts#L9)
+[api/types/bot-stat.ts:9](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot-stat.ts#L9)
 
 ---
 
@@ -37,7 +37,7 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:11](https://github.com/ozum/3commas/blob/c644d07/src/api/types/bot-stat.ts#L11)
+[api/types/bot-stat.ts:11](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot-stat.ts#L11)
 
 ---
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:10](https://github.com/ozum/3commas/blob/c644d07/src/api/types/bot-stat.ts#L10)
+[api/types/bot-stat.ts:10](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot-stat.ts#L10)

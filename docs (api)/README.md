@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[api/types/account.ts:74](https://github.com/ozum/3commas/blob/c644d07/src/api/types/account.ts#L74)
+[api/types/account.ts:74](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L74)
 
 ---
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[api/types/account.ts:75](https://github.com/ozum/3commas/blob/c644d07/src/api/types/account.ts#L75)
+[api/types/account.ts:75](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L75)
 
 ---
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[api/types/index.ts:66](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L66)
+[api/types/index.ts:66](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L66)
 
 ---
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[api/types/deal-stats.ts:17](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal-stats.ts#L17)
+[api/types/deal-stats.ts:17](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal-stats.ts#L17)
 
 ---
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[api/types/deal-stats.ts:16](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal-stats.ts#L16)
+[api/types/deal-stats.ts:16](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal-stats.ts#L16)
 
 ---
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[api/types/bot.ts:73](https://github.com/ozum/3commas/blob/c644d07/src/api/types/bot.ts#L73)
+[api/types/bot.ts:73](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot.ts#L73)
 
 ---
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:20](https://github.com/ozum/3commas/blob/c644d07/src/api/types/bot-stat.ts#L20)
+[api/types/bot-stat.ts:20](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot-stat.ts#L20)
 
 ---
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:19](https://github.com/ozum/3commas/blob/c644d07/src/api/types/bot-stat.ts#L19)
+[api/types/bot-stat.ts:19](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot-stat.ts#L19)
 
 ---
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[api/types/bot.ts:74](https://github.com/ozum/3commas/blob/c644d07/src/api/types/bot.ts#L74)
+[api/types/bot.ts:74](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot.ts#L74)
 
 ---
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[api/types/index.ts:37](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L37)
+[api/types/index.ts:37](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L37)
 
 ---
 
@@ -233,7 +233,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:62](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L62)
+[api/types/index.ts:62](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L62)
 
 ---
 
@@ -243,7 +243,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/deal.ts:99](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L99)
+[api/types/deal.ts:99](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal.ts#L99)
 
 ---
 
@@ -253,7 +253,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/deal.ts:3](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L3)
+[api/types/deal.ts:3](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal.ts#L3)
 
 ---
 
@@ -263,7 +263,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/deal.ts:98](https://github.com/ozum/3commas/blob/c644d07/src/api/types/deal.ts#L98)
+[api/types/deal.ts:98](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal.ts#L98)
 
 ---
 
@@ -273,7 +273,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:20](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L20)
+[api/types/index.ts:20](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L20)
 
 ---
 
@@ -283,7 +283,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/market.ts:7](https://github.com/ozum/3commas/blob/c644d07/src/api/types/market.ts#L7)
+[api/types/market.ts:7](https://github.com/ozum/3commas/blob/b88be19/src/api/types/market.ts#L7)
 
 ---
 
@@ -299,7 +299,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:50](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L50)
+[api/types/index.ts:50](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L50)
 
 ---
 
@@ -309,7 +309,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:76](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L76)
+[api/types/index.ts:76](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L76)
 
 ---
 
@@ -319,7 +319,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:74](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L74)
+[api/types/index.ts:74](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L74)
 
 ---
 
@@ -329,7 +329,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/profit.ts:12](https://github.com/ozum/3commas/blob/c644d07/src/api/types/profit.ts#L12)
+[api/types/profit.ts:12](https://github.com/ozum/3commas/blob/b88be19/src/api/types/profit.ts#L12)
 
 ---
 
@@ -339,7 +339,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/profit.ts:11](https://github.com/ozum/3commas/blob/c644d07/src/api/types/profit.ts#L11)
+[api/types/profit.ts:11](https://github.com/ozum/3commas/blob/b88be19/src/api/types/profit.ts#L11)
 
 ---
 
@@ -349,7 +349,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:65](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L65)
+[api/types/index.ts:65](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L65)
 
 ---
 
@@ -367,7 +367,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:59](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L59)
+[api/types/index.ts:59](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L59)
 
 ---
 
@@ -384,7 +384,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:63](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L63)
+[api/types/index.ts:63](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L63)
 
 ---
 
@@ -394,7 +394,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:44](https://github.com/ozum/3commas/blob/c644d07/src/api/types/trade-info.ts#L44)
+[api/types/trade-info.ts:44](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L44)
 
 ---
 
@@ -404,7 +404,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:43](https://github.com/ozum/3commas/blob/c644d07/src/api/types/trade-info.ts#L43)
+[api/types/trade-info.ts:43](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L43)
 
 ---
 
@@ -414,7 +414,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:35](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L35)
+[api/types/index.ts:35](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L35)
 
 ---
 
@@ -424,7 +424,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:132](https://github.com/ozum/3commas/blob/c644d07/src/api/types/strategy.ts#L132)
+[api/types/strategy.ts:132](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L132)
 
 ---
 
@@ -434,7 +434,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:160](https://github.com/ozum/3commas/blob/c644d07/src/api/types/strategy.ts#L160)
+[api/types/strategy.ts:160](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L160)
 
 ---
 
@@ -444,7 +444,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:142](https://github.com/ozum/3commas/blob/c644d07/src/api/types/strategy.ts#L142)
+[api/types/strategy.ts:142](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L142)
 
 ---
 
@@ -454,7 +454,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:159](https://github.com/ozum/3commas/blob/c644d07/src/api/types/strategy.ts#L159)
+[api/types/strategy.ts:159](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L159)
 
 ---
 
@@ -470,7 +470,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:51](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L51)
+[api/types/index.ts:51](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L51)
 
 ---
 
@@ -480,7 +480,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:41](https://github.com/ozum/3commas/blob/c644d07/src/api/types/trade-info.ts#L41)
+[api/types/trade-info.ts:41](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L41)
 
 ---
 
@@ -490,7 +490,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:40](https://github.com/ozum/3commas/blob/c644d07/src/api/types/trade-info.ts#L40)
+[api/types/trade-info.ts:40](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L40)
 
 ---
 
@@ -500,7 +500,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/user-balance.ts:47](https://github.com/ozum/3commas/blob/c644d07/src/api/types/user-balance.ts#L47)
+[api/types/user-balance.ts:47](https://github.com/ozum/3commas/blob/b88be19/src/api/types/user-balance.ts#L47)
 
 ---
 
@@ -510,7 +510,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/user-balance.ts:46](https://github.com/ozum/3commas/blob/c644d07/src/api/types/user-balance.ts#L46)
+[api/types/user-balance.ts:46](https://github.com/ozum/3commas/blob/b88be19/src/api/types/user-balance.ts#L46)
 
 ---
 
@@ -520,7 +520,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:78](https://github.com/ozum/3commas/blob/c644d07/src/api/types/index.ts#L78)
+[api/types/index.ts:78](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L78)
 
 ## Functions
 
@@ -547,7 +547,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:132](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L132)
+[api/bot.ts:132](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L132)
 
 ---
 
@@ -578,7 +578,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:54](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L54)
+[api/bot.ts:54](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L54)
 
 ---
 
@@ -605,7 +605,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:59](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L59)
+[api/account.ts:59](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L59)
 
 ---
 
@@ -632,7 +632,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:50](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L50)
+[api/bot.ts:50](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L50)
 
 ---
 
@@ -659,7 +659,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:67](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L67)
+[api/account.ts:67](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L67)
 
 ---
 
@@ -686,7 +686,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:65](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L65)
+[api/bot.ts:65](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L65)
 
 ---
 
@@ -713,7 +713,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:51](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L51)
+[api/account.ts:51](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L51)
 
 ---
 
@@ -740,7 +740,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:86](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L86)
+[api/account.ts:86](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L86)
 
 ---
 
@@ -767,7 +767,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:82](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L82)
+[api/account.ts:82](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L82)
 
 ---
 
@@ -794,7 +794,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:47](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L47)
+[api/account.ts:47](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L47)
 
 ---
 
@@ -821,7 +821,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:90](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L90)
+[api/account.ts:90](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L90)
 
 ---
 
@@ -861,7 +861,7 @@ the records.
 
 #### Defined in
 
-[api/utils/parallel.ts:72](https://github.com/ozum/3commas/blob/c644d07/src/api/utils/parallel.ts#L72)
+[api/utils/parallel.ts:72](https://github.com/ozum/3commas/blob/b88be19/src/api/utils/parallel.ts#L72)
 
 ---
 
@@ -888,7 +888,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:43](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L43)
+[api/account.ts:43](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L43)
 
 ---
 
@@ -915,7 +915,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:35](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L35)
+[api/bot.ts:35](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L35)
 
 ---
 
@@ -944,7 +944,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:43](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L43)
+[api/bot.ts:43](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L43)
 
 ---
 
@@ -971,7 +971,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:136](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L136)
+[api/bot.ts:136](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L136)
 
 ---
 
@@ -1001,7 +1001,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:96](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L96)
+[api/bot.ts:96](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L96)
 
 ---
 
@@ -1028,7 +1028,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:39](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L39)
+[api/bot.ts:39](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L39)
 
 ---
 
@@ -1054,7 +1054,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:55](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L55)
+[api/account.ts:55](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L55)
 
 ---
 
@@ -1082,7 +1082,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:78](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L78)
+[api/account.ts:78](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L78)
 
 ---
 
@@ -1107,7 +1107,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:36](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L36)
+[api/account.ts:36](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L36)
 
 ---
 
@@ -1133,7 +1133,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:92](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L92)
+[api/bot.ts:92](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L92)
 
 ---
 
@@ -1162,7 +1162,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:104](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L104)
+[api/bot.ts:104](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L104)
 
 ---
 
@@ -1190,7 +1190,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:84](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L84)
+[api/bot.ts:84](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L84)
 
 ---
 
@@ -1220,7 +1220,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:77](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L77)
+[api/bot.ts:77](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L77)
 
 ---
 
@@ -1248,7 +1248,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:88](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L88)
+[api/bot.ts:88](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L88)
 
 ---
 
@@ -1285,7 +1285,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/utils/parallel.ts:98](https://github.com/ozum/3commas/blob/c644d07/src/api/utils/parallel.ts#L98)
+[api/utils/parallel.ts:98](https://github.com/ozum/3commas/blob/b88be19/src/api/utils/parallel.ts#L98)
 
 ---
 
@@ -1314,7 +1314,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/account.ts:71](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L71)
+[api/account.ts:71](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L71)
 
 ---
 
@@ -1341,7 +1341,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:128](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L128)
+[api/bot.ts:128](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L128)
 
 ---
 
@@ -1368,7 +1368,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:69](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L69)
+[api/bot.ts:69](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L69)
 
 ---
 
@@ -1400,7 +1400,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:111](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L111)
+[api/bot.ts:111](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L111)
 
 ---
 
@@ -1427,7 +1427,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:73](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L73)
+[api/bot.ts:73](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L73)
 
 ---
 
@@ -1454,7 +1454,7 @@ Transfers coins between accounts.
 
 #### Defined in
 
-[api/account.ts:29](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L29)
+[api/account.ts:29](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L29)
 
 ---
 
@@ -1481,7 +1481,7 @@ Transfers coins between accounts.
 
 #### Defined in
 
-[api/account.ts:63](https://github.com/ozum/3commas/blob/c644d07/src/api/account.ts#L63)
+[api/account.ts:63](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L63)
 
 ---
 
@@ -1508,4 +1508,4 @@ Transfers coins between accounts.
 
 #### Defined in
 
-[api/bot.ts:61](https://github.com/ozum/3commas/blob/c644d07/src/api/bot.ts#L61)
+[api/bot.ts:61](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L61)

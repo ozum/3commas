@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable @typescript-eslint/no-unsafe-assignment */
 import winston from "winston";
+import crypto from "node:crypto";
 import type { ThreeCommasError, Data, Response, AugmentedThreeCommasError } from "./types/index.js";
 import { toData, toDto } from "./utils/convert.js";
 
@@ -179,12 +180,26 @@ export class Client<CN extends boolean = true> {
   }
 
   async #getSignature(message: string): Promise<string> {
+    return this.#apiSecret.startsWith("-----BEGIN") ? this.#getSignaturePrivateKey(message) : this.#getSignatureApiSecret(message);
+  }
+
+  async #getSignatureApiSecret(message: string): Promise<string> {
     const { subtle } = globalThis.crypto;
     const enc = new TextEncoder();
     const secret = enc.encode(this.#apiSecret);
     const key = await subtle.importKey("raw", secret, { name: "HMAC", hash: { name: "SHA-256" } }, false, ["sign", "verify"]);
     const signature = await subtle.sign("HMAC", key, enc.encode(message));
     return [...new Uint8Array(signature)].map((x) => x.toString(16).padStart(2, "0")).join("");
+  }
+
+  // TODO: I could not find a way to use Web API crypto (`globalThis.crypto`) for this function. It uses `node:crypto`, so is not compatible with browsers.
+  #getSignaturePrivateKey(message: string): string {
+    // Replace raw \n character with the newline character. Probably you get the key as raw data from your environment and \n character in the raw is not treated as a newline character.
+    const privateKey = this.#apiSecret.split(String.raw`\n`).join("\n");
+    const payload = message;
+    const sign = crypto.createSign("RSA-SHA256");
+    sign.update(payload);
+    return sign.sign(privateKey, "base64");
   }
 
   static #getSignatureUrl(method: Method, url: string, params?: QueryParams): string {
