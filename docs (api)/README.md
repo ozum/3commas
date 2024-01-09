@@ -54,7 +54,6 @@
 - [DealDto](README.md#dealdto)
 - [DealStatus](README.md#dealstatus)
 - [DealStrDto](README.md#dealstrdto)
-- [Id](README.md#id)
 - [MarketCode](README.md#marketcode)
 - [Numerify](README.md#numerify)
 - [Pair](README.md#pair)
@@ -63,6 +62,10 @@
 - [ProfitStrDto](README.md#profitstrdto)
 - [QuoteCurrency](README.md#quotecurrency)
 - [RawData](README.md#rawdata)
+- [RelaxInput](README.md#relaxinput)
+- [RelaxKey](README.md#relaxkey)
+- [RelaxObject](README.md#relaxobject)
+- [RelaxValue](README.md#relaxvalue)
 - [Response](README.md#response)
 - [SellInfoDto](README.md#sellinfodto)
 - [SellInfoStrDto](README.md#sellinfostrdto)
@@ -124,7 +127,7 @@
 
 #### Defined in
 
-[api/types/account.ts:74](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L74)
+[api/types/account.ts:74](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L74)
 
 ---
 
@@ -134,7 +137,7 @@
 
 #### Defined in
 
-[api/types/account.ts:75](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L75)
+[api/types/account.ts:75](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L75)
 
 ---
 
@@ -144,7 +147,7 @@
 
 #### Defined in
 
-[api/types/index.ts:66](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L66)
+[api/types/index.ts:70](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L70)
 
 ---
 
@@ -154,7 +157,7 @@
 
 #### Defined in
 
-[api/types/deal-stats.ts:17](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal-stats.ts#L17)
+[api/types/deal-stats.ts:17](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal-stats.ts#L17)
 
 ---
 
@@ -164,7 +167,7 @@
 
 #### Defined in
 
-[api/types/deal-stats.ts:16](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal-stats.ts#L16)
+[api/types/deal-stats.ts:16](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal-stats.ts#L16)
 
 ---
 
@@ -174,7 +177,7 @@
 
 #### Defined in
 
-[api/types/bot.ts:73](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot.ts#L73)
+[api/types/bot.ts:73](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L73)
 
 ---
 
@@ -184,7 +187,7 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:20](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot-stat.ts#L20)
+[api/types/bot-stat.ts:20](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot-stat.ts#L20)
 
 ---
 
@@ -194,7 +197,7 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:19](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot-stat.ts#L19)
+[api/types/bot-stat.ts:19](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot-stat.ts#L19)
 
 ---
 
@@ -204,7 +207,7 @@
 
 #### Defined in
 
-[api/types/bot.ts:74](https://github.com/ozum/3commas/blob/b88be19/src/api/types/bot.ts#L74)
+[api/types/bot.ts:74](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L74)
 
 ---
 
@@ -214,7 +217,7 @@
 
 #### Defined in
 
-[api/types/index.ts:37](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L37)
+[api/types/index.ts:41](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L41)
 
 ---
 
@@ -233,7 +236,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:62](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L62)
+[api/types/index.ts:66](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L66)
 
 ---
 
@@ -243,7 +246,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/deal.ts:99](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal.ts#L99)
+[api/types/deal.ts:99](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L99)
 
 ---
 
@@ -253,7 +256,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/deal.ts:3](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal.ts#L3)
+[api/types/deal.ts:3](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L3)
 
 ---
 
@@ -263,17 +266,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/deal.ts:98](https://github.com/ozum/3commas/blob/b88be19/src/api/types/deal.ts#L98)
-
----
-
-### Id
-
-Ƭ **Id**: \{ `id`: `number` } \| `number`
-
-#### Defined in
-
-[api/types/index.ts:20](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L20)
+[api/types/deal.ts:98](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L98)
 
 ---
 
@@ -283,7 +276,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/market.ts:7](https://github.com/ozum/3commas/blob/b88be19/src/api/types/market.ts#L7)
+[api/types/market.ts:7](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L7)
 
 ---
 
@@ -299,7 +292,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:50](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L50)
+[api/types/index.ts:54](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L54)
 
 ---
 
@@ -309,7 +302,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:76](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L76)
+[api/types/index.ts:80](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L80)
 
 ---
 
@@ -319,7 +312,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:74](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L74)
+[api/types/index.ts:78](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L78)
 
 ---
 
@@ -329,7 +322,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/profit.ts:12](https://github.com/ozum/3commas/blob/b88be19/src/api/types/profit.ts#L12)
+[api/types/profit.ts:12](https://github.com/ozum/3commas/blob/a66959b/src/api/types/profit.ts#L12)
 
 ---
 
@@ -339,7 +332,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/profit.ts:11](https://github.com/ozum/3commas/blob/b88be19/src/api/types/profit.ts#L11)
+[api/types/profit.ts:11](https://github.com/ozum/3commas/blob/a66959b/src/api/types/profit.ts#L11)
 
 ---
 
@@ -349,7 +342,7 @@ Converted type from convertible or already converted type.
 
 #### Defined in
 
-[api/types/index.ts:65](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L65)
+[api/types/index.ts:69](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L69)
 
 ---
 
@@ -367,7 +360,74 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:59](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L59)
+[api/types/index.ts:63](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L63)
+
+---
+
+### RelaxInput
+
+Ƭ **RelaxInput**\<`T`, `K`\>: `T` \| `T`[`K`]
+
+#### Type parameters
+
+| Name | Type              |
+| :--- | :---------------- |
+| `T`  | `T`               |
+| `K`  | extends keyof `T` |
+
+#### Defined in
+
+[api/types/index.ts:22](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L22)
+
+---
+
+### RelaxKey
+
+Ƭ **RelaxKey**\<`T`\>: `T` extends `object` ? keyof `T` : `string`
+
+#### Type parameters
+
+| Name |
+| :--- |
+| `T`  |
+
+#### Defined in
+
+[api/types/index.ts:21](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L21)
+
+---
+
+### RelaxObject
+
+Ƭ **RelaxObject**\<`T`, `K`\>: `T` extends `object` ? `T` : \{ [P in K]: T }
+
+#### Type parameters
+
+| Name | Type                                            |
+| :--- | :---------------------------------------------- |
+| `T`  | `T`                                             |
+| `K`  | extends [`RelaxKey`](README.md#relaxkey)\<`T`\> |
+
+#### Defined in
+
+[api/types/index.ts:23](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L23)
+
+---
+
+### RelaxValue
+
+Ƭ **RelaxValue**\<`T`, `K`\>: `T` extends `object` ? `K` extends keyof `T` ? `T`[`K`] : `never` : `T`
+
+#### Type parameters
+
+| Name | Type                                            |
+| :--- | :---------------------------------------------- |
+| `T`  | `T`                                             |
+| `K`  | extends [`RelaxKey`](README.md#relaxkey)\<`T`\> |
+
+#### Defined in
+
+[api/types/index.ts:24](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L24)
 
 ---
 
@@ -384,7 +444,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:63](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L63)
+[api/types/index.ts:67](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L67)
 
 ---
 
@@ -394,7 +454,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:44](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L44)
+[api/types/trade-info.ts:44](https://github.com/ozum/3commas/blob/a66959b/src/api/types/trade-info.ts#L44)
 
 ---
 
@@ -404,7 +464,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:43](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L43)
+[api/types/trade-info.ts:43](https://github.com/ozum/3commas/blob/a66959b/src/api/types/trade-info.ts#L43)
 
 ---
 
@@ -414,7 +474,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:35](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L35)
+[api/types/index.ts:39](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L39)
 
 ---
 
@@ -424,7 +484,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:132](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L132)
+[api/types/strategy.ts:132](https://github.com/ozum/3commas/blob/a66959b/src/api/types/strategy.ts#L132)
 
 ---
 
@@ -434,7 +494,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:160](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L160)
+[api/types/strategy.ts:160](https://github.com/ozum/3commas/blob/a66959b/src/api/types/strategy.ts#L160)
 
 ---
 
@@ -444,7 +504,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:142](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L142)
+[api/types/strategy.ts:142](https://github.com/ozum/3commas/blob/a66959b/src/api/types/strategy.ts#L142)
 
 ---
 
@@ -454,7 +514,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/strategy.ts:159](https://github.com/ozum/3commas/blob/b88be19/src/api/types/strategy.ts#L159)
+[api/types/strategy.ts:159](https://github.com/ozum/3commas/blob/a66959b/src/api/types/strategy.ts#L159)
 
 ---
 
@@ -470,7 +530,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:51](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L51)
+[api/types/index.ts:55](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L55)
 
 ---
 
@@ -480,7 +540,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:41](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L41)
+[api/types/trade-info.ts:41](https://github.com/ozum/3commas/blob/a66959b/src/api/types/trade-info.ts#L41)
 
 ---
 
@@ -490,7 +550,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/trade-info.ts:40](https://github.com/ozum/3commas/blob/b88be19/src/api/types/trade-info.ts#L40)
+[api/types/trade-info.ts:40](https://github.com/ozum/3commas/blob/a66959b/src/api/types/trade-info.ts#L40)
 
 ---
 
@@ -500,7 +560,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/user-balance.ts:47](https://github.com/ozum/3commas/blob/b88be19/src/api/types/user-balance.ts#L47)
+[api/types/user-balance.ts:47](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L47)
 
 ---
 
@@ -510,7 +570,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/user-balance.ts:46](https://github.com/ozum/3commas/blob/b88be19/src/api/types/user-balance.ts#L46)
+[api/types/user-balance.ts:46](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L46)
 
 ---
 
@@ -520,7 +580,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/types/index.ts:78](https://github.com/ozum/3commas/blob/b88be19/src/api/types/index.ts#L78)
+[api/types/index.ts:82](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L82)
 
 ## Functions
 
@@ -538,7 +598,7 @@ Converitble type from converted type.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -547,7 +607,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:132](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L132)
+[api/bot.ts:142](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L142)
 
 ---
 
@@ -578,7 +638,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:54](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L54)
+[api/bot.ts:58](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L58)
 
 ---
 
@@ -605,7 +665,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:59](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L59)
+[api/account.ts:61](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L61)
 
 ---
 
@@ -632,7 +692,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:50](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L50)
+[api/bot.ts:54](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L54)
 
 ---
 
@@ -650,7 +710,7 @@ Converitble type from converted type.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -659,7 +719,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:67](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L67)
+[api/account.ts:69](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L69)
 
 ---
 
@@ -677,7 +737,7 @@ Converitble type from converted type.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -686,7 +746,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/bot.ts:65](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L65)
+[api/bot.ts:69](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L69)
 
 ---
 
@@ -704,7 +764,7 @@ Converitble type from converted type.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -713,7 +773,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:51](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L51)
+[api/account.ts:53](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L53)
 
 ---
 
@@ -731,7 +791,7 @@ Converitble type from converted type.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -740,7 +800,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:86](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L86)
+[api/account.ts:91](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L91)
 
 ---
 
@@ -758,7 +818,7 @@ Converitble type from converted type.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -767,7 +827,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:82](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L82)
+[api/account.ts:87](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L87)
 
 ---
 
@@ -794,7 +854,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:47](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L47)
+[api/account.ts:49](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L49)
 
 ---
 
@@ -812,7 +872,7 @@ Converitble type from converted type.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -821,7 +881,7 @@ Converitble type from converted type.
 
 #### Defined in
 
-[api/account.ts:90](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L90)
+[api/account.ts:95](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L95)
 
 ---
 
@@ -861,7 +921,7 @@ the records.
 
 #### Defined in
 
-[api/utils/parallel.ts:72](https://github.com/ozum/3commas/blob/b88be19/src/api/utils/parallel.ts#L72)
+[api/utils/parallel.ts:72](https://github.com/ozum/3commas/blob/a66959b/src/api/utils/parallel.ts#L72)
 
 ---
 
@@ -888,7 +948,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:43](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L43)
+[api/account.ts:45](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L45)
 
 ---
 
@@ -915,7 +975,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:35](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L35)
+[api/bot.ts:38](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L38)
 
 ---
 
@@ -931,12 +991,10 @@ the records.
 
 #### Parameters
 
-| Name                    | Type                                  | Default value          |
-| :---------------------- | :------------------------------------ | :--------------------- |
-| `params`                | `Object`                              | `undefined`            |
-| `params.id`             | `number`                              | `undefined`            |
-| `params.includeEvents?` | `boolean`                             | `undefined`            |
-| `client`                | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
+| Name     | Type                                                                                              | Default value          |
+| :------- | :------------------------------------------------------------------------------------------------ | :--------------------- |
+| `params` | [`RelaxInput`](README.md#relaxinput)\<\{ `id`: `number` ; `includeEvents?`: `boolean` }, `"id"`\> | `undefined`            |
+| `client` | [`Client`](classes/Client.md)\<`CN`\>                                                             | `Client.defaultClient` |
 
 #### Returns
 
@@ -944,7 +1002,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:43](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L43)
+[api/bot.ts:46](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L46)
 
 ---
 
@@ -962,7 +1020,7 @@ the records.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -971,7 +1029,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:136](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L136)
+[api/bot.ts:146](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L146)
 
 ---
 
@@ -987,13 +1045,10 @@ the records.
 
 #### Parameters
 
-| Name                | Type                                  | Default value          |
-| :------------------ | :------------------------------------ | :--------------------- |
-| `params`            | `Object`                              | `{}`                   |
-| `params.accountId?` | `number`                              | `undefined`            |
-| `params.date?`      | `string`                              | `undefined`            |
-| `params.id?`        | `number`                              | `undefined`            |
-| `client`            | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
+| Name     | Type                                                                                                              | Default value          |
+| :------- | :---------------------------------------------------------------------------------------------------------------- | :--------------------- |
+| `params` | [`RelaxInput`](README.md#relaxinput)\<\{ `accountId?`: `number` ; `date?`: `string` ; `id?`: `number` }, `"id"`\> | `{}`                   |
+| `client` | [`Client`](classes/Client.md)\<`CN`\>                                                                             | `Client.defaultClient` |
 
 #### Returns
 
@@ -1001,7 +1056,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:96](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L96)
+[api/bot.ts:100](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L100)
 
 ---
 
@@ -1028,7 +1083,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:39](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L39)
+[api/bot.ts:42](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L42)
 
 ---
 
@@ -1054,7 +1109,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:55](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L55)
+[api/account.ts:57](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L57)
 
 ---
 
@@ -1070,11 +1125,10 @@ the records.
 
 #### Parameters
 
-| Name                | Type                                  | Default value          |
-| :------------------ | :------------------------------------ | :--------------------- |
-| `params`            | `Object`                              | `undefined`            |
-| `params.marketCode` | `string`                              | `undefined`            |
-| `client`            | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
+| Name     | Type                                                                                                            | Default value          |
+| :------- | :-------------------------------------------------------------------------------------------------------------- | :--------------------- |
+| `params` | [`RelaxInput`](README.md#relaxinput)\<\{ `marketCode`: [`MarketCode`](README.md#marketcode) }, `"marketCode"`\> | `undefined`            |
+| `client` | [`Client`](classes/Client.md)\<`CN`\>                                                                           | `Client.defaultClient` |
 
 #### Returns
 
@@ -1082,7 +1136,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:78](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L78)
+[api/account.ts:80](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L80)
 
 ---
 
@@ -1107,7 +1161,7 @@ the records.
 
 #### Defined in
 
-[api/account.ts:36](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L36)
+[api/account.ts:38](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L38)
 
 ---
 
@@ -1133,7 +1187,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:92](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L92)
+[api/bot.ts:96](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L96)
 
 ---
 
@@ -1149,12 +1203,10 @@ the records.
 
 #### Parameters
 
-| Name           | Type                                  | Default value          |
-| :------------- | :------------------------------------ | :--------------------- |
-| `params`       | `Object`                              | `undefined`            |
-| `params.days?` | `number`                              | `undefined`            |
-| `params.id`    | `number`                              | `undefined`            |
-| `client`       | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
+| Name     | Type                                                                                    | Default value          |
+| :------- | :-------------------------------------------------------------------------------------- | :--------------------- |
+| `params` | [`RelaxInput`](README.md#relaxinput)\<\{ `days?`: `number` ; `id`: `number` }, `"id"`\> | `undefined`            |
+| `client` | [`Client`](classes/Client.md)\<`CN`\>                                                   | `Client.defaultClient` |
 
 #### Returns
 
@@ -1162,7 +1214,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:104](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L104)
+[api/bot.ts:109](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L109)
 
 ---
 
@@ -1178,11 +1230,10 @@ the records.
 
 #### Parameters
 
-| Name               | Type                                  | Default value          |
-| :----------------- | :------------------------------------ | :--------------------- |
-| `params`           | `Object`                              | `undefined`            |
-| `params.accountId` | `number`                              | `undefined`            |
-| `client`           | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
+| Name     | Type                                  | Default value          |
+| :------- | :------------------------------------ | :--------------------- |
+| `params` | `AccountId`                           | `undefined`            |
+| `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
 
@@ -1190,7 +1241,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:84](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L84)
+[api/bot.ts:88](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L88)
 
 ---
 
@@ -1220,7 +1271,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:77](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L77)
+[api/bot.ts:81](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L81)
 
 ---
 
@@ -1236,11 +1287,10 @@ the records.
 
 #### Parameters
 
-| Name               | Type                                  | Default value          |
-| :----------------- | :------------------------------------ | :--------------------- |
-| `params`           | `Object`                              | `undefined`            |
-| `params.accountId` | `number`                              | `undefined`            |
-| `client`           | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
+| Name     | Type                                  | Default value          |
+| :------- | :------------------------------------ | :--------------------- |
+| `params` | `AccountId`                           | `undefined`            |
+| `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
 
@@ -1248,7 +1298,7 @@ the records.
 
 #### Defined in
 
-[api/bot.ts:88](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L88)
+[api/bot.ts:92](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L92)
 
 ---
 
@@ -1285,7 +1335,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/utils/parallel.ts:98](https://github.com/ozum/3commas/blob/b88be19/src/api/utils/parallel.ts#L98)
+[api/utils/parallel.ts:98](https://github.com/ozum/3commas/blob/a66959b/src/api/utils/parallel.ts#L98)
 
 ---
 
@@ -1314,7 +1364,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/account.ts:71](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L71)
+[api/account.ts:73](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L73)
 
 ---
 
@@ -1332,7 +1382,7 @@ results off all jobs as an array.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -1341,7 +1391,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:128](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L128)
+[api/bot.ts:138](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L138)
 
 ---
 
@@ -1359,7 +1409,7 @@ results off all jobs as an array.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -1368,7 +1418,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:69](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L69)
+[api/bot.ts:73](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L73)
 
 ---
 
@@ -1384,15 +1434,10 @@ results off all jobs as an array.
 
 #### Parameters
 
-| Name                          | Type                                  | Default value          | Description                                                                                                                          |
-| :---------------------------- | :------------------------------------ | :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
-| `params`                      | `Object`                              | `undefined`            | -                                                                                                                                    |
-| `params.id`                   | `number`                              | `undefined`            | -                                                                                                                                    |
-| `params.onlyForEnabled?`      | `boolean`                             | `undefined`            | If set true and bot disabled will return error(422 code), if false and bot disabled then enable it                                   |
-| `params.pair?`                | `string`                              | `undefined`            | Used for multi pair Can be omitted for simple bots.                                                                                  |
-| `params.skipOpenDealsChecks?` | `boolean`                             | `undefined`            | If true then you will be allowed to open more then one deal per pair in composite bot                                                |
-| `params.skipSignalChecks?`    | `boolean`                             | `undefined`            | If false or not specified then all paramaters like signals or volume filters will be checked. If true - those checks will be skipped |
-| `client`                      | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` | -                                                                                                                                    |
+| Name     | Type                                                                                                                                                                                        | Default value          |
+| :------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------- |
+| `params` | [`RelaxInput`](README.md#relaxinput)\<\{ `id`: `number` ; `onlyForEnabled?`: `boolean` ; `pair?`: `string` ; `skipOpenDealsChecks?`: `boolean` ; `skipSignalChecks?`: `boolean` }, `"id"`\> | `undefined`            |
+| `client` | [`Client`](classes/Client.md)\<`CN`\>                                                                                                                                                       | `Client.defaultClient` |
 
 #### Returns
 
@@ -1400,7 +1445,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:111](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L111)
+[api/bot.ts:117](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L117)
 
 ---
 
@@ -1418,7 +1463,7 @@ results off all jobs as an array.
 
 | Name     | Type                                  | Default value          |
 | :------- | :------------------------------------ | :--------------------- |
-| `params` | [`Id`](README.md#id)                  | `undefined`            |
+| `params` | `Id`                                  | `undefined`            |
 | `client` | [`Client`](classes/Client.md)\<`CN`\> | `Client.defaultClient` |
 
 #### Returns
@@ -1427,7 +1472,7 @@ results off all jobs as an array.
 
 #### Defined in
 
-[api/bot.ts:73](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L73)
+[api/bot.ts:77](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L77)
 
 ---
 
@@ -1454,7 +1499,7 @@ Transfers coins between accounts.
 
 #### Defined in
 
-[api/account.ts:29](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L29)
+[api/account.ts:31](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L31)
 
 ---
 
@@ -1481,7 +1526,7 @@ Transfers coins between accounts.
 
 #### Defined in
 
-[api/account.ts:63](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L63)
+[api/account.ts:65](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L65)
 
 ---
 
@@ -1508,4 +1553,4 @@ Transfers coins between accounts.
 
 #### Defined in
 
-[api/bot.ts:61](https://github.com/ozum/3commas/blob/b88be19/src/api/bot.ts#L61)
+[api/bot.ts:65](https://github.com/ozum/3commas/blob/a66959b/src/api/bot.ts#L65)

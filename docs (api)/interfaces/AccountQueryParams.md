@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[api/account.ts:15](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L15)
+[api/account.ts:15](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L15)
 
 ---
 
@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[api/account.ts:16](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L16)
+[api/account.ts:16](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L16)
 
 ---
 
@@ -38,4 +38,4 @@
 
 #### Defined in
 
-[api/account.ts:17](https://github.com/ozum/3commas/blob/b88be19/src/api/account.ts#L17)
+[api/account.ts:17](https://github.com/ozum/3commas/blob/a66959b/src/api/account.ts#L17)

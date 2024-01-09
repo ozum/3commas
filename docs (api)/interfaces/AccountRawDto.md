@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[api/types/account.ts:68](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L68)
+[api/types/account.ts:68](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L68)
 
 ---
 
@@ -98,7 +98,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:7](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L7)
+[api/types/account.ts:7](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L7)
 
 ---
 
@@ -108,7 +108,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:39](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L39)
+[api/types/account.ts:39](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L39)
 
 ---
 
@@ -118,7 +118,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:17](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L17)
+[api/types/account.ts:17](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L17)
 
 ---
 
@@ -128,7 +128,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:51](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L51)
+[api/types/account.ts:51](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L51)
 
 ---
 
@@ -138,7 +138,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:50](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L50)
+[api/types/account.ts:50](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L50)
 
 ---
 
@@ -148,7 +148,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:15](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L15)
+[api/types/account.ts:15](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L15)
 
 ---
 
@@ -158,7 +158,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:69](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L69)
+[api/types/account.ts:69](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L69)
 
 ---
 
@@ -168,7 +168,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:16](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L16)
+[api/types/account.ts:16](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L16)
 
 ---
 
@@ -178,7 +178,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:18](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L18)
+[api/types/account.ts:18](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L18)
 
 ---
 
@@ -188,7 +188,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:23](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L23)
+[api/types/account.ts:23](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L23)
 
 ---
 
@@ -198,7 +198,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:49](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L49)
+[api/types/account.ts:49](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L49)
 
 ---
 
@@ -208,7 +208,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:29](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L29)
+[api/types/account.ts:29](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L29)
 
 ---
 
@@ -218,7 +218,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:31](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L31)
+[api/types/account.ts:31](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L31)
 
 ---
 
@@ -228,7 +228,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:30](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L30)
+[api/types/account.ts:30](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L30)
 
 ---
 
@@ -238,7 +238,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:53](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L53)
+[api/types/account.ts:53](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L53)
 
 ---
 
@@ -248,7 +248,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:59](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L59)
+[api/types/account.ts:59](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L59)
 
 ---
 
@@ -258,7 +258,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:62](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L62)
+[api/types/account.ts:62](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L62)
 
 ---
 
@@ -268,7 +268,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:28](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L28)
+[api/types/account.ts:28](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L28)
 
 ---
 
@@ -278,7 +278,7 @@ Required.apiKey
 
 #### Defined in
 
-[api/types/account.ts:34](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L34)
+[api/types/account.ts:34](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L34)
 
 ---
 
@@ -292,7 +292,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:8](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L8)
+[api/types/account.ts:8](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L8)
 
 ---
 
@@ -302,7 +302,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:55](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L55)
+[api/types/account.ts:55](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L55)
 
 ---
 
@@ -312,7 +312,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:57](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L57)
+[api/types/account.ts:57](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L57)
 
 ---
 
@@ -322,7 +322,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:46](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L46)
+[api/types/account.ts:46](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L46)
 
 ---
 
@@ -332,7 +332,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:45](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L45)
+[api/types/account.ts:45](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L45)
 
 ---
 
@@ -342,7 +342,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:56](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L56)
+[api/types/account.ts:56](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L56)
 
 ---
 
@@ -352,7 +352,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:58](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L58)
+[api/types/account.ts:58](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L58)
 
 ---
 
@@ -362,7 +362,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:41](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L41)
+[api/types/account.ts:41](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L41)
 
 ---
 
@@ -372,7 +372,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:66](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L66)
+[api/types/account.ts:66](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L66)
 
 ---
 
@@ -382,7 +382,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:37](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L37)
+[api/types/account.ts:37](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L37)
 
 ---
 
@@ -392,7 +392,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:32](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L32)
+[api/types/account.ts:32](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L32)
 
 ---
 
@@ -402,7 +402,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:38](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L38)
+[api/types/account.ts:38](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L38)
 
 ---
 
@@ -412,7 +412,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:19](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L19)
+[api/types/account.ts:19](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L19)
 
 ---
 
@@ -422,7 +422,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:20](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L20)
+[api/types/account.ts:20](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L20)
 
 ---
 
@@ -432,7 +432,7 @@ Required.customerId
 
 #### Defined in
 
-[api/types/account.ts:14](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L14)
+[api/types/account.ts:14](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L14)
 
 ---
 
@@ -446,7 +446,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:10](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L10)
+[api/types/account.ts:10](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L10)
 
 ---
 
@@ -456,7 +456,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:21](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L21)
+[api/types/account.ts:21](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L21)
 
 ---
 
@@ -466,7 +466,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:36](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L36)
+[api/types/account.ts:36](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L36)
 
 ---
 
@@ -476,7 +476,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:52](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L52)
+[api/types/account.ts:52](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L52)
 
 ---
 
@@ -486,7 +486,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:26](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L26)
+[api/types/account.ts:26](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L26)
 
 ---
 
@@ -496,7 +496,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:67](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L67)
+[api/types/account.ts:67](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L67)
 
 ---
 
@@ -506,7 +506,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:40](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L40)
+[api/types/account.ts:40](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L40)
 
 ---
 
@@ -516,7 +516,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:27](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L27)
+[api/types/account.ts:27](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L27)
 
 ---
 
@@ -526,7 +526,7 @@ Required.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:33](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L33)
+[api/types/account.ts:33](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L33)
 
 ---
 
@@ -540,7 +540,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:6](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L6)
+[api/types/account.ts:6](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L6)
 
 ---
 
@@ -550,7 +550,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:71](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L71)
+[api/types/account.ts:71](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L71)
 
 ---
 
@@ -560,7 +560,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:65](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L65)
+[api/types/account.ts:65](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L65)
 
 ---
 
@@ -570,7 +570,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:47](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L47)
+[api/types/account.ts:47](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L47)
 
 ---
 
@@ -580,7 +580,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:44](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L44)
+[api/types/account.ts:44](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L44)
 
 ---
 
@@ -590,7 +590,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:43](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L43)
+[api/types/account.ts:43](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L43)
 
 ---
 
@@ -600,7 +600,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:70](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L70)
+[api/types/account.ts:70](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L70)
 
 ---
 
@@ -610,7 +610,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:22](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L22)
+[api/types/account.ts:22](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L22)
 
 ---
 
@@ -620,7 +620,7 @@ Required.name
 
 #### Defined in
 
-[api/types/account.ts:24](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L24)
+[api/types/account.ts:24](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L24)
 
 ---
 
@@ -634,7 +634,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:9](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L9)
+[api/types/account.ts:9](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L9)
 
 ---
 
@@ -644,7 +644,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:42](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L42)
+[api/types/account.ts:42](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L42)
 
 ---
 
@@ -654,7 +654,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:63](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L63)
+[api/types/account.ts:63](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L63)
 
 ---
 
@@ -664,7 +664,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:48](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L48)
+[api/types/account.ts:48](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L48)
 
 ---
 
@@ -674,7 +674,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:64](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L64)
+[api/types/account.ts:64](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L64)
 
 ---
 
@@ -684,7 +684,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:25](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L25)
+[api/types/account.ts:25](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L25)
 
 ---
 
@@ -694,7 +694,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:35](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L35)
+[api/types/account.ts:35](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L35)
 
 ---
 
@@ -704,7 +704,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:54](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L54)
+[api/types/account.ts:54](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L54)
 
 ---
 
@@ -714,7 +714,7 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:60](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L60)
+[api/types/account.ts:60](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L60)
 
 ---
 
@@ -724,4 +724,4 @@ Required.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:61](https://github.com/ozum/3commas/blob/b88be19/src/api/types/account.ts#L61)
+[api/types/account.ts:61](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L61)

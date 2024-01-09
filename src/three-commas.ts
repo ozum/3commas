@@ -24,7 +24,7 @@ import type {
 } from "./api/index.js";
 import { Account } from "./account.js";
 import { Bot } from "./bot.js";
-import { getId } from "./api/utils/get-id.js";
+import { getRelaxValue } from "./api/utils/relax.js";
 import { ClientOptions } from "./api/client.js";
 import { toPairObject, toPairArray, toPairString } from "./api/utils/pair-functions.js";
 import { parallelSettled } from "./api/utils/parallel.js";
@@ -90,7 +90,7 @@ export class ThreeCommas {
    * @param accountOrId is the id of the account instance to delete.
    */
   public async deleteAccount(idOrAccount: number | Account): Promise<void> {
-    const id = getId(idOrAccount);
+    const id = getRelaxValue(idOrAccount, "id");
     await deleteAccount({ id }, this.client);
     this.#accounts.delete(id);
   }
@@ -170,7 +170,7 @@ export class ThreeCommas {
    * @param botOrId is the id of the bot instance to delete.
    */
   public async deleteBot(botOrId: number | Bot): Promise<void> {
-    const id = getId(botOrId);
+    const id = getRelaxValue(botOrId, "id");
     await deleteBot(id, this.client);
     this.#bots.delete(id);
   }

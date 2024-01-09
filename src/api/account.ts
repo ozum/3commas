@@ -1,21 +1,23 @@
 import { Client } from "./client.js";
 import type {
-  Id,
   AccountCreateDto,
   AccountRawDto,
   AccountUpdateDto,
   MarketCode,
   MarketDto,
+  RelaxInput,
   UserBalanaceChartRawDto,
   UserBalanceTableDto,
 } from "./types/index.js";
-import { getAll, getId } from "./utils/index.js";
+import { getAll, getRelaxObject, getRelaxValue } from "./utils/index.js";
 
 export interface AccountQueryParams {
   apiKey?: string; // Filter by api key
   page?: number;
   perPage?: number; // Page size, from 1 to 100
 }
+
+type Id = RelaxInput<{ id: number }, "id">;
 
 /**
  * Transfers coins between accounts.
@@ -49,7 +51,7 @@ export async function getAccounts<CN extends boolean = true>(params?: AccountQue
 }
 
 export async function getAccount<CN extends boolean = true>(params: Id, client: Client<CN> = Client.defaultClient) {
-  return client.get<AccountRawDto>(`/ver1/accounts/${getId(params)}`);
+  return client.get<AccountRawDto>(`/ver1/accounts/${getRelaxValue(params, "id")}`);
 }
 
 export async function getMarketList<CN extends boolean = true>(client: Client<CN> = Client.defaultClient) {
@@ -65,7 +67,7 @@ export async function updateAccount<CN extends boolean = true>(params: AccountUp
 }
 
 export async function deleteAccount<CN extends boolean = true>(params: Id, client: Client<CN> = Client.defaultClient) {
-  return client.post<boolean>(`/ver1/accounts/${getId(params)}/remove`);
+  return client.post<boolean>(`/ver1/accounts/${getRelaxValue(params, "id")}/remove`);
 }
 
 export async function renameAccount<CN extends boolean = true>(
@@ -75,18 +77,21 @@ export async function renameAccount<CN extends boolean = true>(
   return client.post<AccountRawDto>(`/ver1/accounts/${params.id}/rename`, params);
 }
 
-export async function getMarketPairs<CN extends boolean = true>(params: { marketCode: string }, client: Client<CN> = Client.defaultClient) {
-  return client.get<string[]>("/v2/accounts/market_pairs", params);
+export async function getMarketPairs<CN extends boolean = true>(
+  params: RelaxInput<{ marketCode: MarketCode }, "marketCode">,
+  client: Client<CN> = Client.defaultClient,
+) {
+  return client.get<string[]>("/v2/accounts/market_pairs", getRelaxObject(params, "marketCode"));
 }
 
 export async function getAccountTable<CN extends boolean = true>(params: Id, client: Client<CN> = Client.defaultClient) {
-  return client.post<UserBalanceTableDto>(`/ver1/accounts/${getId(params)}/account_table_data`);
+  return client.post<UserBalanceTableDto>(`/ver1/accounts/${getRelaxValue(params, "id")}/account_table_data`);
 }
 
 export async function getAccountChart<CN extends boolean = true>(params: Id, client: Client<CN> = Client.defaultClient) {
-  return client.post<UserBalanaceChartRawDto>(`/ver1/accounts/${getId(params)}/pie_chart_data`);
+  return client.post<UserBalanaceChartRawDto>(`/ver1/accounts/${getRelaxValue(params, "id")}/pie_chart_data`);
 }
 
 export async function getActiveTradingEntities<CN extends boolean = true>(params: Id, client: Client<CN> = Client.defaultClient) {
-  return client.get<string[]>(`/ver1/accounts/${getId(params)}/active_trading_entities`);
+  return client.get<string[]>(`/ver1/accounts/${getRelaxValue(params, "id")}/active_trading_entities`);
 }
