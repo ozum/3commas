@@ -16,14 +16,14 @@
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `activeBotsCount` | `number` |
-| `activeDealsCount` | `number` |
-| `activeGridBotsCount` | `number` |
-| `activeOrdersCount` | `number` |
+| Name                     | Type     |
+| :----------------------- | :------- |
+| `activeBotsCount`        | `number` |
+| `activeDealsCount`       | `number` |
+| `activeGridBotsCount`    | `number` |
+| `activeOrdersCount`      | `number` |
 | `activeSmartTradesCount` | `number` |
 
 #### Defined in
 
-[api/types/trading-entiities.ts:2](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/trading-entiities.ts#L2)
+[api/types/trading-entiities.ts:2](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/trading-entiities.ts#L2)

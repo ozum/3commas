@@ -20,9 +20,9 @@
 
 #### Defined in
 
-[api/types/index.ts:89](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L89)
+[api/types/index.ts:89](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L89)
 
-___
+---
 
 ### safetyCount
 
@@ -30,9 +30,9 @@ ___
 
 #### Defined in
 
-[api/types/index.ts:87](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L87)
+[api/types/index.ts:87](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L87)
 
-___
+---
 
 ### safetyPercent
 
@@ -40,9 +40,9 @@ ___
 
 #### Defined in
 
-[api/types/index.ts:86](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L86)
+[api/types/index.ts:86](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L86)
 
-___
+---
 
 ### safetyVolumeScale
 
@@ -50,9 +50,9 @@ ___
 
 #### Defined in
 
-[api/types/index.ts:88](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L88)
+[api/types/index.ts:88](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L88)
 
-___
+---
 
 ### totalPercent
 
@@ -60,4 +60,4 @@ ___
 
 #### Defined in
 
-[api/types/index.ts:85](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L85)
+[api/types/index.ts:85](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L85)

@@ -19,9 +19,9 @@
 
 #### Defined in
 
-[api/types/portfolio.ts:6](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/portfolio.ts#L6)
+[api/types/portfolio.ts:6](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L6)
 
-___
+---
 
 ### id
 
@@ -29,9 +29,9 @@ ___
 
 #### Defined in
 
-[api/types/portfolio.ts:5](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/portfolio.ts#L5)
+[api/types/portfolio.ts:5](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L5)
 
-___
+---
 
 ### name
 
@@ -39,9 +39,9 @@ ___
 
 #### Defined in
 
-[api/types/portfolio.ts:4](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/portfolio.ts#L4)
+[api/types/portfolio.ts:4](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L4)
 
-___
+---
 
 ### portfolioEntries
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[api/types/portfolio.ts:7](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/portfolio.ts#L7)
+[api/types/portfolio.ts:7](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L7)

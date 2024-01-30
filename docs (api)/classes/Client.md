@@ -26,9 +26,9 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 ## Type parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `CN` | extends `boolean` = ``true`` | if `true` all numeric fields represented as a string in 3Commas API responses are converted to numbers. No conversion needed in requests. |
+| Name | Type                       | Description                                                                                                                               |
+| :--- | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| `CN` | extends `boolean` = `true` | if `true` all numeric fields represented as a string in 3Commas API responses are converted to numbers. No conversion needed in requests. |
 
 ## Table of contents
 
@@ -74,14 +74,14 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Type parameters
 
-| Name | Type |
-| :------ | :------ |
-| `CN` | extends `boolean` = ``true`` |
+| Name | Type                       |
+| :--- | :------------------------- |
+| `CN` | extends `boolean` = `true` |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name             | Type                    |
+| :--------------- | :---------------------- |
 | `«destructured»` | `ClientOptions`\<`CN`\> |
 
 #### Returns
@@ -90,7 +90,7 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:64](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L64)
+[api/client.ts:64](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L64)
 
 ## Properties
 
@@ -100,9 +100,9 @@ Client.defaultClient = new Client({ apiKey: "abc", apiSecret: "abc" }); //
 
 #### Defined in
 
-[api/client.ts:57](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L57)
+[api/client.ts:57](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L57)
 
-___
+---
 
 ### #apiSecret
 
@@ -110,9 +110,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:58](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L58)
+[api/client.ts:58](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L58)
 
-___
+---
 
 ### #convertNumeric
 
@@ -120,9 +120,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:61](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L61)
+[api/client.ts:61](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L61)
 
-___
+---
 
 ### #dry
 
@@ -130,19 +130,19 @@ ___
 
 #### Defined in
 
-[api/client.ts:60](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L60)
+[api/client.ts:60](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L60)
 
-___
+---
 
 ### #forcedMode
 
-• `Private` `Readonly` **#forcedMode**: ``"real"`` \| ``"paper"``
+• `Private` `Readonly` **#forcedMode**: `"real"` \| `"paper"`
 
 #### Defined in
 
-[api/client.ts:59](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L59)
+[api/client.ts:59](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L59)
 
-___
+---
 
 ### logger
 
@@ -150,33 +150,33 @@ ___
 
 #### Defined in
 
-[api/client.ts:62](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L62)
+[api/client.ts:62](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L62)
 
-___
+---
 
 ### #defaultClient
 
-▪ `Static` `Private` `Optional` **#defaultClient**: [`Client`](Client.md)\<``true``\>
+▪ `Static` `Private` `Optional` **#defaultClient**: [`Client`](Client.md)\<`true`\>
 
 #### Defined in
 
-[api/client.ts:56](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L56)
+[api/client.ts:56](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L56)
 
 ## Accessors
 
 ### defaultClient
 
-• `get` **defaultClient**(): [`Client`](Client.md)\<``true``\>
+• `get` **defaultClient**(): [`Client`](Client.md)\<`true`\>
 
 Lazily loaded static default Client.
 
 #### Returns
 
-[`Client`](Client.md)\<``true``\>
+[`Client`](Client.md)\<`true`\>
 
 #### Defined in
 
-[api/client.ts:88](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L88)
+[api/client.ts:88](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L88)
 
 ## Methods
 
@@ -186,8 +186,8 @@ Lazily loaded static default Client.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type     |
+| :-------- | :------- |
 | `message` | `string` |
 
 #### Returns
@@ -196,9 +196,9 @@ Lazily loaded static default Client.
 
 #### Defined in
 
-[api/client.ts:185](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L185)
+[api/client.ts:185](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L185)
 
-___
+---
 
 ### #getSignatureApiSecret
 
@@ -206,8 +206,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type     |
+| :-------- | :------- |
 | `message` | `string` |
 
 #### Returns
@@ -216,9 +216,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:189](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L189)
+[api/client.ts:189](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L189)
 
-___
+---
 
 ### #getSignaturePrivateKey
 
@@ -226,8 +226,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type     |
+| :-------- | :------- |
 | `message` | `string` |
 
 #### Returns
@@ -236,9 +236,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:199](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L199)
+[api/client.ts:199](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L199)
 
-___
+---
 
 ### #request
 
@@ -249,15 +249,15 @@ Requests data from the given 3Commas API URL path, using the given parameters an
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `method` | `Method` | is the HTTP method. |
-| `path` | `string` | is the path of the 3Commas API URL. |
+| Name      | Type          | Description                                    |
+| :-------- | :------------ | :--------------------------------------------- |
+| `method`  | `Method`      | is the HTTP method.                            |
+| `path`    | `string`      | is the path of the 3Commas API URL.            |
 | `params?` | `QueryParams` | are the parameters for the requested endpoint. |
 
 #### Returns
@@ -272,9 +272,9 @@ Error if request fails or 3Commas responses with a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:138](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L138)
+[api/client.ts:138](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L138)
 
-___
+---
 
 ### delete
 
@@ -283,14 +283,14 @@ ___
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `path` | `string` |
+| Name      | Type          |
+| :-------- | :------------ |
+| `path`    | `string`      |
 | `params?` | `QueryParams` |
 
 #### Returns
@@ -299,9 +299,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:101](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L101)
+[api/client.ts:101](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L101)
 
-___
+---
 
 ### get
 
@@ -310,14 +310,14 @@ ___
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `path` | `string` |
+| Name      | Type          |
+| :-------- | :------------ |
+| `path`    | `string`      |
 | `params?` | `QueryParams` |
 
 #### Returns
@@ -326,9 +326,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:93](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L93)
+[api/client.ts:93](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L93)
 
-___
+---
 
 ### patch
 
@@ -337,14 +337,14 @@ ___
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `path` | `string` |
+| Name      | Type          |
+| :-------- | :------------ |
+| `path`    | `string`      |
 | `params?` | `QueryParams` |
 
 #### Returns
@@ -353,9 +353,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:105](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L105)
+[api/client.ts:105](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L105)
 
-___
+---
 
 ### post
 
@@ -364,14 +364,14 @@ ___
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `path` | `string` |
+| Name      | Type          |
+| :-------- | :------------ |
+| `path`    | `string`      |
 | `params?` | `QueryParams` |
 
 #### Returns
@@ -380,9 +380,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:97](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L97)
+[api/client.ts:97](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L97)
 
-___
+---
 
 ### #assertResponse
 
@@ -393,17 +393,17 @@ Asserts that data is result of a successful request by throwing error if given d
 #### Type parameters
 
 | Name |
-| :------ |
-| `T` |
+| :--- |
+| `T`  |
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `data` | [`ThreeCommasError`](../interfaces/ThreeCommasError.md) \| `T` | is the data to check. |
-| `method` | `Method` | is the request method. |
-| `path` | `string` | is the path of the request. |
-| `params` | `QueryParams` | are the parameters sent to end point. |
+| Name     | Type                                                           | Description                           |
+| :------- | :------------------------------------------------------------- | :------------------------------------ |
+| `data`   | [`ThreeCommasError`](../interfaces/ThreeCommasError.md) \| `T` | is the data to check.                 |
+| `method` | `Method`                                                       | is the request method.                |
+| `path`   | `string`                                                       | is the path of the request.           |
+| `params` | `QueryParams`                                                  | are the parameters sent to end point. |
 
 #### Returns
 
@@ -415,9 +415,9 @@ Error if data is a 3Commas error.
 
 #### Defined in
 
-[api/client.ts:166](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L166)
+[api/client.ts:166](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L166)
 
-___
+---
 
 ### #createLogger
 
@@ -427,10 +427,10 @@ Returns logger to be used by this client.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `logLevel` | `LogLevel` | is the log level used by default logger. |
-| `logger?` | `Logger` | is the custom logger. If provided created client use this custom logger. |
+| Name       | Type       | Description                                                              |
+| :--------- | :--------- | :----------------------------------------------------------------------- |
+| `logLevel` | `LogLevel` | is the log level used by default logger.                                 |
+| `logger?`  | `Logger`   | is the custom logger. If provided created client use this custom logger. |
 
 #### Returns
 
@@ -440,9 +440,9 @@ winston logger.
 
 #### Defined in
 
-[api/client.ts:116](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L116)
+[api/client.ts:116](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L116)
 
-___
+---
 
 ### #getRequestUrl
 
@@ -450,10 +450,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `method` | `Method` |
-| `url` | `string` |
+| Name      | Type          |
+| :-------- | :------------ |
+| `method`  | `Method`      |
+| `url`     | `string`      |
 | `params?` | `QueryParams` |
 
 #### Returns
@@ -462,9 +462,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:214](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L214)
+[api/client.ts:214](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L214)
 
-___
+---
 
 ### #getSignatureUrl
 
@@ -472,10 +472,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `method` | `Method` |
-| `url` | `string` |
+| Name      | Type          |
+| :-------- | :------------ |
+| `method`  | `Method`      |
+| `url`     | `string`      |
 | `params?` | `QueryParams` |
 
 #### Returns
@@ -484,9 +484,9 @@ ___
 
 #### Defined in
 
-[api/client.ts:208](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L208)
+[api/client.ts:208](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L208)
 
-___
+---
 
 ### #stringify
 
@@ -494,8 +494,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name   | Type                                                                   |
+| :----- | :--------------------------------------------------------------------- |
 | `data` | `Record`\<`string`, `string` \| `number` \| `string`[] \| `number`[]\> |
 
 #### Returns
@@ -504,4 +504,4 @@ ___
 
 #### Defined in
 
-[api/client.ts:180](https://github.com/ozum/3commas/blob/b3896a3/src/api/client.ts#L180)
+[api/client.ts:180](https://github.com/ozum/3commas/blob/d6773ef/src/api/client.ts#L180)

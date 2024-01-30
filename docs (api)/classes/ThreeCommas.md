@@ -55,9 +55,9 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `options` | `Omit`\<`ClientOptions`\<``true``\>, ``"convertNumeric"``\> |
+| Name      | Type                                                    |
+| :-------- | :------------------------------------------------------ |
+| `options` | `Omit`\<`ClientOptions`\<`true`\>, `"convertNumeric"`\> |
 
 #### Returns
 
@@ -65,7 +65,7 @@
 
 #### Defined in
 
-[three-commas.ts:43](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L43)
+[three-commas.ts:43](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L43)
 
 ## Properties
 
@@ -75,9 +75,9 @@
 
 #### Defined in
 
-[three-commas.ts:38](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L38)
+[three-commas.ts:38](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L38)
 
-___
+---
 
 ### #bots
 
@@ -85,29 +85,29 @@ ___
 
 #### Defined in
 
-[three-commas.ts:39](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L39)
+[three-commas.ts:39](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L39)
 
-___
+---
 
 ### #client
 
-• `Private` `Optional` **#client**: [`Client`](Client.md)\<``true``\>
+• `Private` `Optional` **#client**: [`Client`](Client.md)\<`true`\>
 
 #### Defined in
 
-[three-commas.ts:40](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L40)
+[three-commas.ts:40](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L40)
 
-___
+---
 
 ### #clientOptions
 
-• `Private` `Readonly` **#clientOptions**: `ClientOptions`\<``true``\>
+• `Private` `Readonly` **#clientOptions**: `ClientOptions`\<`true`\>
 
 #### Defined in
 
-[three-commas.ts:41](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L41)
+[three-commas.ts:41](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L41)
 
-___
+---
 
 ### #marketPairs
 
@@ -115,7 +115,7 @@ ___
 
 #### Defined in
 
-[three-commas.ts:36](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L36)
+[three-commas.ts:36](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L36)
 
 ## Accessors
 
@@ -131,9 +131,9 @@ All loaded accounts.
 
 #### Defined in
 
-[three-commas.ts:111](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L111)
+[three-commas.ts:111](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L111)
 
-___
+---
 
 ### bots
 
@@ -147,23 +147,23 @@ All loaded bots.
 
 #### Defined in
 
-[three-commas.ts:207](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L207)
+[three-commas.ts:207](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L207)
 
-___
+---
 
 ### client
 
-• `get` **client**(): [`Client`](Client.md)\<``true``\>
+• `get` **client**(): [`Client`](Client.md)\<`true`\>
 
 Lazily loaded 3Commas Client instance.
 
 #### Returns
 
-[`Client`](Client.md)\<``true``\>
+[`Client`](Client.md)\<`true`\>
 
 #### Defined in
 
-[three-commas.ts:48](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L48)
+[three-commas.ts:48](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L48)
 
 ## Methods
 
@@ -175,8 +175,8 @@ Clears (unloads) accounts from memory and return their ids. Does NOT delete acco
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name        | Type                                  | Description                                                                                                 |
+| :---------- | :------------------------------------ | :---------------------------------------------------------------------------------------------------------- |
 | `selector?` | `Selector`\<[`Account`](Account.md)\> | is the id or select function to select items to delete. If undefined, all accounts are deleted from memory. |
 
 #### Returns
@@ -185,9 +185,9 @@ Clears (unloads) accounts from memory and return their ids. Does NOT delete acco
 
 #### Defined in
 
-[three-commas.ts:340](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L340)
+[three-commas.ts:340](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L340)
 
-___
+---
 
 ### createAndSaveAccount
 
@@ -197,8 +197,8 @@ Creates an account and saves it to the 3Commas server and loads it.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name     | Type                                                    | Description                           |
+| :------- | :------------------------------------------------------ | :------------------------------------ |
 | `params` | [`AccountCreateDto`](../interfaces/AccountCreateDto.md) | are the parameters to create the bot. |
 
 #### Returns
@@ -209,9 +209,9 @@ the created bot.
 
 #### Defined in
 
-[three-commas.ts:81](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L81)
+[three-commas.ts:81](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L81)
 
-___
+---
 
 ### createAndSaveBot
 
@@ -221,8 +221,8 @@ Creates a bot and saves it to the 3Commas server. If account of the created bot 
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name     | Type                                            | Description                           |
+| :------- | :---------------------------------------------- | :------------------------------------ |
 | `params` | [`BotCreateDto`](../interfaces/BotCreateDto.md) | are the parameters to create the bot. |
 
 #### Returns
@@ -237,9 +237,9 @@ Error if related account is not loaded.
 
 #### Defined in
 
-[three-commas.ts:165](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L165)
+[three-commas.ts:165](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L165)
 
-___
+---
 
 ### createBot
 
@@ -251,8 +251,8 @@ values from 3Commas.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name     | Type                                            | Description                           |
+| :------- | :---------------------------------------------- | :------------------------------------ |
 | `params` | [`BotCreateDto`](../interfaces/BotCreateDto.md) | are the parameters to create the bot. |
 
 #### Returns
@@ -267,9 +267,9 @@ Error if related account is not loaded.
 
 #### Defined in
 
-[three-commas.ts:151](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L151)
+[three-commas.ts:151](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L151)
 
-___
+---
 
 ### deleteAccount
 
@@ -279,8 +279,8 @@ Deletes account from 3Commas.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name          | Type                                |
+| :------------ | :---------------------------------- |
 | `idOrAccount` | `number` \| [`Account`](Account.md) |
 
 #### Returns
@@ -289,9 +289,9 @@ Deletes account from 3Commas.
 
 #### Defined in
 
-[three-commas.ts:92](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L92)
+[three-commas.ts:92](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L92)
 
-___
+---
 
 ### deleteBot
 
@@ -301,8 +301,8 @@ Deletes bot from 3Commas.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name      | Type                        | Description                              |
+| :-------- | :-------------------------- | :--------------------------------------- |
 | `botOrId` | `number` \| [`Bot`](Bot.md) | is the id of the bot instance to delete. |
 
 #### Returns
@@ -311,9 +311,9 @@ Deletes bot from 3Commas.
 
 #### Defined in
 
-[three-commas.ts:175](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L175)
+[three-commas.ts:175](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L175)
 
-___
+---
 
 ### deleteBots
 
@@ -323,8 +323,8 @@ Deletes bots meeting the filter criteria.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name     | Type                          | Description                                                                                   |
+| :------- | :---------------------------- | :-------------------------------------------------------------------------------------------- |
 | `filter` | `Selector`\<[`Bot`](Bot.md)\> | is either an id, or array of ids, or a filter function to filter bots after they were loaded. |
 
 #### Returns
@@ -333,9 +333,9 @@ Deletes bots meeting the filter criteria.
 
 #### Defined in
 
-[three-commas.ts:186](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L186)
+[three-commas.ts:186](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L186)
 
-___
+---
 
 ### getAccount
 
@@ -345,8 +345,8 @@ Gets an account from loaded accounts.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name | Type     | Description                  |
+| :--- | :------- | :--------------------------- |
 | `id` | `number` | is id of the account to get. |
 
 #### Returns
@@ -357,9 +357,9 @@ the account.
 
 #### Defined in
 
-[three-commas.ts:104](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L104)
+[three-commas.ts:104](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L104)
 
-___
+---
 
 ### getBot
 
@@ -369,8 +369,8 @@ Gets a bot from loaded bots.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name | Type     | Description              |
+| :--- | :------- | :----------------------- |
 | `id` | `number` | is id of the bot to get. |
 
 #### Returns
@@ -381,9 +381,9 @@ the bot.
 
 #### Defined in
 
-[three-commas.ts:200](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L200)
+[three-commas.ts:200](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L200)
 
-___
+---
 
 ### loadAccounts
 
@@ -393,9 +393,9 @@ Loads accounts. Parameters are the 3Commas API query parameters and some additio
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `params` | [`AccountQueryParams`](../interfaces/AccountQueryParams.md) & \{ `filter?`: `Selector`\<[`Account`](Account.md)\> ; `reload?`: `boolean` ; `replaceAll?`: `boolean`  } |
+| Name     | Type                                                                                                                                                                  |
+| :------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `params` | [`AccountQueryParams`](../interfaces/AccountQueryParams.md) & \{ `filter?`: `Selector`\<[`Account`](Account.md)\> ; `reload?`: `boolean` ; `replaceAll?`: `boolean` } |
 
 #### Returns
 
@@ -405,9 +405,9 @@ newly loaded accounts.
 
 #### Defined in
 
-[three-commas.ts:61](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L61)
+[three-commas.ts:61](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L61)
 
-___
+---
 
 ### loadBots
 
@@ -418,9 +418,9 @@ If no accounts are loaded previously, loads all accounts first.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `params` | `Omit`\<[`BotQueryParams`](../interfaces/BotQueryParams.md), ``"accountId"``\> & \{ `filter?`: `Selector`\<[`Bot`](Bot.md)\>  } |
+| Name     | Type                                                                                                                         |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| `params` | `Omit`\<[`BotQueryParams`](../interfaces/BotQueryParams.md), `"accountId"`\> & \{ `filter?`: `Selector`\<[`Bot`](Bot.md)\> } |
 
 #### Returns
 
@@ -430,9 +430,9 @@ newly loaded bots.
 
 #### Defined in
 
-[three-commas.ts:122](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L122)
+[three-commas.ts:122](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L122)
 
-___
+---
 
 ### loadPairs
 
@@ -442,9 +442,9 @@ Loads market pairs for currently loaded accounts.
 
 #### Parameters
 
-| Name | Type | Default value |
-| :------ | :------ | :------ |
-| `additionalMarketCodes` | [`MarketCode`](../README.md#marketcode)[] | `[]` |
+| Name                    | Type                                      | Default value |
+| :---------------------- | :---------------------------------------- | :------------ |
+| `additionalMarketCodes` | [`MarketCode`](../README.md#marketcode)[] | `[]`          |
 
 #### Returns
 
@@ -452,9 +452,9 @@ Loads market pairs for currently loaded accounts.
 
 #### Defined in
 
-[three-commas.ts:212](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L212)
+[three-commas.ts:212](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L212)
 
-___
+---
 
 ### saveBots
 
@@ -468,9 +468,9 @@ Saves all dirty and unsaved bots.
 
 #### Defined in
 
-[three-commas.ts:138](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L138)
+[three-commas.ts:138](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L138)
 
-___
+---
 
 ### #clearItems
 
@@ -480,16 +480,16 @@ Clears (unloads) items from memory and return their ids. Does NOT delete items i
 
 #### Type parameters
 
-| Name | Type |
-| :------ | :------ |
-| `T` | extends `Object` |
+| Name | Type             |
+| :--- | :--------------- |
+| `T`  | extends `Object` |
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
-| `items` | `Map`\<`number`, `T`\> | are the items to clear. |
-| `selector?` | `Selector`\<`T`\> | is the id or select function to select items to delete. If undefined, all items are deleted from memory. |
+| Name        | Type                   | Description                                                                                              |
+| :---------- | :--------------------- | :------------------------------------------------------------------------------------------------------- |
+| `items`     | `Map`\<`number`, `T`\> | are the items to clear.                                                                                  |
+| `selector?` | `Selector`\<`T`\>      | is the id or select function to select items to delete. If undefined, all items are deleted from memory. |
 
 #### Returns
 
@@ -499,9 +499,9 @@ the ids of deleted items.
 
 #### Defined in
 
-[three-commas.ts:324](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L324)
+[three-commas.ts:324](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L324)
 
-___
+---
 
 ### #parseFilter
 
@@ -511,14 +511,14 @@ Examines given selector and returns an `id` or a filter function.
 
 #### Type parameters
 
-| Name | Type |
-| :------ | :------ |
-| `T` | extends `Object` |
+| Name | Type             |
+| :--- | :--------------- |
+| `T`  | extends `Object` |
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name        | Type              | Description                                             |
+| :---------- | :---------------- | :------------------------------------------------------ |
 | `selector?` | `Selector`\<`T`\> | is either an id, or array of ids, or a filter function. |
 
 #### Returns
@@ -527,10 +527,10 @@ Examines given selector and returns an `id` or a filter function.
 
 a single id if the selector is an id, or filter function if available.
 
-| Name | Type |
-| :------ | :------ |
+| Name              | Type                      |
+| :---------------- | :------------------------ |
 | `filterFunction?` | `SelectorFunction`\<`T`\> |
-| `id?` | `number` |
+| `id?`             | `number`                  |
 
 **`Example`**
 
@@ -543,9 +543,9 @@ this.#parseFilter(() => {...});  // { filterFunction: () => {...} }
 
 #### Defined in
 
-[three-commas.ts:306](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L306)
+[three-commas.ts:306](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L306)
 
-___
+---
 
 ### getPairArrays
 
@@ -555,8 +555,8 @@ Gets pairs as arrays for a loaded account. If no account is loaded for the given
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name         | Type                                    | Description                             |
+| :----------- | :-------------------------------------- | :-------------------------------------- |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) | is the market code of a loaded account. |
 
 #### Returns
@@ -572,14 +572,14 @@ error if no pairs are loaded for the given market code.
 **`Example`**
 
 ```ts
-const pairs = threeCommas.getPairsAsString('binance_futures'); // [["BTC", "USDT"], ["ETH", "USDT"], ...]
+const pairs = threeCommas.getPairsAsString("binance_futures"); // [["BTC", "USDT"], ["ETH", "USDT"], ...]
 ```
 
 #### Defined in
 
-[three-commas.ts:262](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L262)
+[three-commas.ts:262](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L262)
 
-___
+---
 
 ### getPairObjects
 
@@ -589,8 +589,8 @@ Gets pairs as objects for a loaded account. If no account is loaded for the give
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name         | Type                                    | Description                             |
+| :----------- | :-------------------------------------- | :-------------------------------------- |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) | is the market code of a loaded account. |
 
 #### Returns
@@ -606,14 +606,14 @@ error if no pairs are loaded for the given market code.
 **`Example`**
 
 ```ts
-const pairs = threeCommas.getPairsAsString('binance_futures'); // [{ base: "BTC", quote: "USDT" }, ...]
+const pairs = threeCommas.getPairsAsString("binance_futures"); // [{ base: "BTC", quote: "USDT" }, ...]
 ```
 
 #### Defined in
 
-[three-commas.ts:247](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L247)
+[three-commas.ts:247](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L247)
 
-___
+---
 
 ### getPairStrings
 
@@ -623,8 +623,8 @@ Gets pairs as strings for a loaded account. If no account is loaded for the give
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name         | Type                                    | Description                             |
+| :----------- | :-------------------------------------- | :-------------------------------------- |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) | is the market code of a loaded account. |
 
 #### Returns
@@ -640,14 +640,14 @@ error if no pairs are loaded for the given market code.
 **`Example`**
 
 ```ts
-const pairs = threeCommas.getPairsAsString('binance_futures'); // ['USDT_BTCUSDT', ...]
+const pairs = threeCommas.getPairsAsString("binance_futures"); // ['USDT_BTCUSDT', ...]
 ```
 
 #### Defined in
 
-[three-commas.ts:230](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L230)
+[three-commas.ts:230](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L230)
 
-___
+---
 
 ### hasPair
 
@@ -657,10 +657,10 @@ Checks if given pair is available for the given market code.
 
 #### Parameters
 
-| Name | Type | Description |
-| :------ | :------ | :------ |
+| Name         | Type                                    | Description                           |
+| :----------- | :-------------------------------------- | :------------------------------------ |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) | is the market code to check pair for. |
-| `pair` | [`Pair`](../README.md#pair) | is the pair to check. |
+| `pair`       | [`Pair`](../README.md#pair)             | is the pair to check.                 |
 
 #### Returns
 
@@ -674,9 +674,9 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[three-commas.ts:275](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L275)
+[three-commas.ts:275](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L275)
 
-___
+---
 
 ### toPairArray
 
@@ -684,10 +684,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name         | Type                                    |
+| :----------- | :-------------------------------------- |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) |
-| `pair` | [`Pair`](../README.md#pair) |
+| `pair`       | [`Pair`](../README.md#pair)             |
 
 #### Returns
 
@@ -695,9 +695,9 @@ ___
 
 #### Defined in
 
-[three-commas.ts:290](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L290)
+[three-commas.ts:290](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L290)
 
-___
+---
 
 ### toPairObject
 
@@ -705,10 +705,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name         | Type                                    |
+| :----------- | :-------------------------------------- |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) |
-| `pair` | [`Pair`](../README.md#pair) |
+| `pair`       | [`Pair`](../README.md#pair)             |
 
 #### Returns
 
@@ -716,9 +716,9 @@ ___
 
 #### Defined in
 
-[three-commas.ts:286](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L286)
+[three-commas.ts:286](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L286)
 
-___
+---
 
 ### toPairString
 
@@ -726,10 +726,10 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name         | Type                                    |
+| :----------- | :-------------------------------------- |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) |
-| `pair` | [`Pair`](../README.md#pair) |
+| `pair`       | [`Pair`](../README.md#pair)             |
 
 #### Returns
 
@@ -737,4 +737,4 @@ ___
 
 #### Defined in
 
-[three-commas.ts:282](https://github.com/ozum/3commas/blob/b3896a3/src/three-commas.ts#L282)
+[three-commas.ts:282](https://github.com/ozum/3commas/blob/d6773ef/src/three-commas.ts#L282)

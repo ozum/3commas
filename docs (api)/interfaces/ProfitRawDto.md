@@ -12,8 +12,8 @@
 
 ### data
 
-• **data**: \{ `profit`: \{ `btc`: ``"CONVERTIBLE"`` ; `usd`: ``"CONVERTIBLE"``  } ; `sDate`: `string` ; `unixTimestamp`: `number`  }[]
+• **data**: \{ `profit`: \{ `btc`: `"CONVERTIBLE"` ; `usd`: `"CONVERTIBLE"` } ; `sDate`: `string` ; `unixTimestamp`: `number` }[]
 
 #### Defined in
 
-[api/types/profit.ts:4](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/profit.ts#L4)
+[api/types/profit.ts:4](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/profit.ts#L4)

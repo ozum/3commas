@@ -18,9 +18,9 @@
 
 #### Defined in
 
-[api/types/bot-stat.ts:9](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot-stat.ts#L9)
+[api/types/bot-stat.ts:9](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot-stat.ts#L9)
 
-___
+---
 
 ### profitsInUsd
 
@@ -28,18 +28,18 @@ ___
 
 #### Type declaration
 
-| Name | Type |
-| :------ | :------ |
-| `activeDealsUsdProfit` | `number` |
+| Name                       | Type     |
+| :------------------------- | :------- |
+| `activeDealsUsdProfit`     | `number` |
 | `fundsLockedInActiveDeals` | `number` |
-| `overallUsdProfit` | `number` |
-| `todayUsdProfit` | `number` |
+| `overallUsdProfit`         | `number` |
+| `todayUsdProfit`           | `number` |
 
 #### Defined in
 
-[api/types/bot-stat.ts:11](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot-stat.ts#L11)
+[api/types/bot-stat.ts:11](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot-stat.ts#L11)
 
-___
+---
 
 ### todayStats
 
@@ -47,4 +47,4 @@ ___
 
 #### Defined in
 
-[api/types/bot-stat.ts:10](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot-stat.ts#L10)
+[api/types/bot-stat.ts:10](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot-stat.ts#L10)

@@ -99,9 +99,9 @@
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `root` | [`ThreeCommas`](ThreeCommas.md) |
+| Name   | Type                                            |
+| :----- | :---------------------------------------------- |
+| `root` | [`ThreeCommas`](ThreeCommas.md)                 |
 | `data` | [`BotCreateDto`](../interfaces/BotCreateDto.md) |
 
 #### Returns
@@ -110,7 +110,7 @@
 
 #### Defined in
 
-[bot.ts:15](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L15)
+[bot.ts:15](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L15)
 
 ## Properties
 
@@ -120,9 +120,9 @@
 
 #### Defined in
 
-[bot.ts:12](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L12)
+[bot.ts:12](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L12)
 
-___
+---
 
 ### #dirtyChecker
 
@@ -130,9 +130,9 @@ ___
 
 #### Defined in
 
-[bot.ts:13](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L13)
+[bot.ts:13](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L13)
 
-___
+---
 
 ### #root
 
@@ -140,23 +140,23 @@ ___
 
 #### Defined in
 
-[bot.ts:11](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L11)
+[bot.ts:11](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L11)
 
 ## Accessors
 
 ### #client
 
-• `get` **#client**(): [`Client`](Client.md)\<``true``\>
+• `get` **#client**(): [`Client`](Client.md)\<`true`\>
 
 #### Returns
 
-[`Client`](Client.md)\<``true``\>
+[`Client`](Client.md)\<`true`\>
 
 #### Defined in
 
-[bot.ts:21](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L21)
+[bot.ts:21](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L21)
 
-___
+---
 
 ### accountId
 
@@ -168,9 +168,9 @@ ___
 
 #### Defined in
 
-[bot.ts:140](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L140)
+[bot.ts:140](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L140)
 
-___
+---
 
 ### accountName
 
@@ -182,14 +182,14 @@ ___
 
 #### Defined in
 
-[bot.ts:500](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L500)
+[bot.ts:500](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L500)
 
 • `set` **accountName**(`accountName`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name          | Type     |
+| :------------ | :------- |
 | `accountName` | `string` |
 
 #### Returns
@@ -198,9 +198,9 @@ ___
 
 #### Defined in
 
-[bot.ts:504](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L504)
+[bot.ts:504](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L504)
 
-___
+---
 
 ### activeDealsCount
 
@@ -212,14 +212,14 @@ ___
 
 #### Defined in
 
-[bot.ts:216](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L216)
+[bot.ts:216](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L216)
 
 • `set` **activeDealsCount**(`activeDealsCount`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name               | Type     |
+| :----------------- | :------- |
 | `activeDealsCount` | `number` |
 
 #### Returns
@@ -228,9 +228,9 @@ ___
 
 #### Defined in
 
-[bot.ts:220](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L220)
+[bot.ts:220](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L220)
 
-___
+---
 
 ### activeDealsUsdProfit
 
@@ -242,14 +242,14 @@ ___
 
 #### Defined in
 
-[bot.ts:556](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L556)
+[bot.ts:556](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L556)
 
 • `set` **activeDealsUsdProfit**(`activeDealsUsdProfit`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                   | Type     |
+| :--------------------- | :------- |
 | `activeDealsUsdProfit` | `number` |
 
 #### Returns
@@ -258,9 +258,9 @@ ___
 
 #### Defined in
 
-[bot.ts:560](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L560)
+[bot.ts:560](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L560)
 
-___
+---
 
 ### activeSafetyOrdersCount
 
@@ -272,14 +272,14 @@ ___
 
 #### Defined in
 
-[bot.ts:160](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L160)
+[bot.ts:160](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L160)
 
 • `set` **activeSafetyOrdersCount**(`activeSafetyOrdersCount`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                      | Type     |
+| :------------------------ | :------- |
 | `activeSafetyOrdersCount` | `number` |
 
 #### Returns
@@ -288,29 +288,29 @@ ___
 
 #### Defined in
 
-[bot.ts:164](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L164)
+[bot.ts:164](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L164)
 
-___
+---
 
 ### allowedDealsOnSamePair
 
-• `get` **allowedDealsOnSamePair**(): ``null`` \| `number`
+• `get` **allowedDealsOnSamePair**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:292](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L292)
+[bot.ts:292](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L292)
 
 • `set` **allowedDealsOnSamePair**(`allowedDealsOnSamePair`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `allowedDealsOnSamePair` | ``null`` \| `number` |
+| Name                     | Type               |
+| :----------------------- | :----------------- |
+| `allowedDealsOnSamePair` | `null` \| `number` |
 
 #### Returns
 
@@ -318,9 +318,9 @@ ___
 
 #### Defined in
 
-[bot.ts:296](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L296)
+[bot.ts:296](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L296)
 
-___
+---
 
 ### baseOrderVolume
 
@@ -332,14 +332,14 @@ ___
 
 #### Defined in
 
-[bot.ts:348](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L348)
+[bot.ts:348](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L348)
 
 • `set` **baseOrderVolume**(`baseOrderVolume`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name              | Type     |
+| :---------------- | :------- |
 | `baseOrderVolume` | `number` |
 
 #### Returns
@@ -348,9 +348,9 @@ ___
 
 #### Defined in
 
-[bot.ts:352](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L352)
+[bot.ts:352](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L352)
 
-___
+---
 
 ### baseOrderVolumeType
 
@@ -362,14 +362,14 @@ ___
 
 #### Defined in
 
-[bot.ts:492](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L492)
+[bot.ts:492](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L492)
 
 • `set` **baseOrderVolumeType**(`baseOrderVolumeType`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                  | Type                                    |
+| :-------------------- | :-------------------------------------- |
 | `baseOrderVolumeType` | [`VolumeType`](../README.md#volumetype) |
 
 #### Returns
@@ -378,9 +378,9 @@ ___
 
 #### Defined in
 
-[bot.ts:496](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L496)
+[bot.ts:496](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L496)
 
-___
+---
 
 ### btcPriceLimit
 
@@ -392,14 +392,14 @@ ___
 
 #### Defined in
 
-[bot.ts:428](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L428)
+[bot.ts:428](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L428)
 
 • `set` **btcPriceLimit**(`btcPriceLimit`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name            | Type     |
+| :-------------- | :------- |
 | `btcPriceLimit` | `number` |
 
 #### Returns
@@ -408,29 +408,29 @@ ___
 
 #### Defined in
 
-[bot.ts:432](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L432)
+[bot.ts:432](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L432)
 
-___
+---
 
 ### closeDealsTimeout
 
-• `get` **closeDealsTimeout**(): ``null`` \| `number`
+• `get` **closeDealsTimeout**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:308](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L308)
+[bot.ts:308](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L308)
 
 • `set` **closeDealsTimeout**(`closeDealsTimeout`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `closeDealsTimeout` | ``null`` \| `number` |
+| Name                | Type               |
+| :------------------ | :----------------- |
+| `closeDealsTimeout` | `null` \| `number` |
 
 #### Returns
 
@@ -438,9 +438,9 @@ ___
 
 #### Defined in
 
-[bot.ts:312](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L312)
+[bot.ts:312](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L312)
 
-___
+---
 
 ### closeStrategyList
 
@@ -452,14 +452,14 @@ ___
 
 #### Defined in
 
-[bot.ts:200](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L200)
+[bot.ts:200](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L200)
 
 • `set` **closeStrategyList**(`closeStrategyList`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                | Type                                                                     |
+| :------------------ | :----------------------------------------------------------------------- |
 | `closeStrategyList` | `Convert`\<[`StrategyRawDto`](../README.md#strategyrawdto), `number`\>[] |
 
 #### Returns
@@ -468,9 +468,9 @@ ___
 
 #### Defined in
 
-[bot.ts:204](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L204)
+[bot.ts:204](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L204)
 
-___
+---
 
 ### cooldown
 
@@ -482,14 +482,14 @@ ___
 
 #### Defined in
 
-[bot.ts:420](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L420)
+[bot.ts:420](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L420)
 
 • `set` **cooldown**(`cooldown`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name       | Type     |
+| :--------- | :------- |
 | `cooldown` | `number` |
 
 #### Returns
@@ -498,9 +498,9 @@ ___
 
 #### Defined in
 
-[bot.ts:424](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L424)
+[bot.ts:424](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L424)
 
-___
+---
 
 ### createdAt
 
@@ -512,29 +512,29 @@ ___
 
 #### Defined in
 
-[bot.ts:228](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L228)
+[bot.ts:228](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L228)
 
-___
+---
 
 ### dealStartDelaySeconds
 
-• `get` **dealStartDelaySeconds**(): ``null`` \| `number`
+• `get` **dealStartDelaySeconds**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:252](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L252)
+[bot.ts:252](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L252)
 
 • `set` **dealStartDelaySeconds**(`dealStartDelaySeconds`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `dealStartDelaySeconds` | ``null`` \| `number` |
+| Name                    | Type               |
+| :---------------------- | :----------------- |
+| `dealStartDelaySeconds` | `null` \| `number` |
 
 #### Returns
 
@@ -542,29 +542,29 @@ ___
 
 #### Defined in
 
-[bot.ts:256](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L256)
+[bot.ts:256](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L256)
 
-___
+---
 
 ### dealsCounter
 
-• `get` **dealsCounter**(): ``null`` \| `number`
+• `get` **dealsCounter**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:284](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L284)
+[bot.ts:284](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L284)
 
 • `set` **dealsCounter**(`dealsCounter`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `dealsCounter` | ``null`` \| `number` |
+| Name           | Type               |
+| :------------- | :----------------- |
+| `dealsCounter` | `null` \| `number` |
 
 #### Returns
 
@@ -572,9 +572,9 @@ ___
 
 #### Defined in
 
-[bot.ts:288](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L288)
+[bot.ts:288](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L288)
 
-___
+---
 
 ### deletable
 
@@ -586,29 +586,29 @@ ___
 
 #### Defined in
 
-[bot.ts:224](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L224)
+[bot.ts:224](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L224)
 
-___
+---
 
 ### disableAfterDealsCount
 
-• `get` **disableAfterDealsCount**(): ``null`` \| `number`
+• `get` **disableAfterDealsCount**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:276](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L276)
+[bot.ts:276](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L276)
 
 • `set` **disableAfterDealsCount**(`disableAfterDealsCount`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `disableAfterDealsCount` | ``null`` \| `number` |
+| Name                     | Type               |
+| :----------------------- | :----------------- |
+| `disableAfterDealsCount` | `null` \| `number` |
 
 #### Returns
 
@@ -616,9 +616,9 @@ ___
 
 #### Defined in
 
-[bot.ts:280](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L280)
+[bot.ts:280](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L280)
 
-___
+---
 
 ### easyFormSupported
 
@@ -630,14 +630,14 @@ ___
 
 #### Defined in
 
-[bot.ts:300](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L300)
+[bot.ts:300](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L300)
 
 • `set` **easyFormSupported**(`easyFormSupported`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                | Type      |
+| :------------------ | :-------- |
 | `easyFormSupported` | `boolean` |
 
 #### Returns
@@ -646,9 +646,9 @@ ___
 
 #### Defined in
 
-[bot.ts:304](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L304)
+[bot.ts:304](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L304)
 
-___
+---
 
 ### finishedDealsCount
 
@@ -660,14 +660,14 @@ ___
 
 #### Defined in
 
-[bot.ts:524](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L524)
+[bot.ts:524](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L524)
 
 • `set` **finishedDealsCount**(`finishedDealsCount`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                 | Type     |
+| :------------------- | :------- |
 | `finishedDealsCount` | `number` |
 
 #### Returns
@@ -676,9 +676,9 @@ ___
 
 #### Defined in
 
-[bot.ts:528](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L528)
+[bot.ts:528](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L528)
 
-___
+---
 
 ### finishedDealsProfitUsd
 
@@ -690,14 +690,14 @@ ___
 
 #### Defined in
 
-[bot.ts:516](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L516)
+[bot.ts:516](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L516)
 
 • `set` **finishedDealsProfitUsd**(`finishedDealsProfitUsd`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                     | Type     |
+| :----------------------- | :------- |
 | `finishedDealsProfitUsd` | `number` |
 
 #### Returns
@@ -706,9 +706,9 @@ ___
 
 #### Defined in
 
-[bot.ts:520](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L520)
+[bot.ts:520](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L520)
 
-___
+---
 
 ### id
 
@@ -720,9 +720,9 @@ ___
 
 #### Defined in
 
-[bot.ts:127](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L127)
+[bot.ts:127](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L127)
 
-___
+---
 
 ### isEnabled
 
@@ -734,14 +734,14 @@ ___
 
 #### Defined in
 
-[bot.ts:144](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L144)
+[bot.ts:144](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L144)
 
 • `set` **isEnabled**(`isEnabled`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name        | Type      |
+| :---------- | :-------- |
 | `isEnabled` | `boolean` |
 
 #### Returns
@@ -750,29 +750,29 @@ ___
 
 #### Defined in
 
-[bot.ts:148](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L148)
+[bot.ts:148](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L148)
 
-___
+---
 
 ### leverageCustomValue
 
-• `get` **leverageCustomValue**(): ``null`` \| `number`
+• `get` **leverageCustomValue**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:540](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L540)
+[bot.ts:540](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L540)
 
 • `set` **leverageCustomValue**(`leverageCustomValue`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `leverageCustomValue` | ``null`` \| `number` |
+| Name                  | Type               |
+| :-------------------- | :----------------- |
+| `leverageCustomValue` | `null` \| `number` |
 
 #### Returns
 
@@ -780,29 +780,29 @@ ___
 
 #### Defined in
 
-[bot.ts:544](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L544)
+[bot.ts:544](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L544)
 
-___
+---
 
 ### leverageType
 
-• `get` **leverageType**(): ``"isolated"`` \| ``"custom"`` \| ``"cross"`` \| ``"not_specified"``
+• `get` **leverageType**(): `"isolated"` \| `"custom"` \| `"cross"` \| `"not_specified"`
 
 #### Returns
 
-``"isolated"`` \| ``"custom"`` \| ``"cross"`` \| ``"not_specified"``
+`"isolated"` \| `"custom"` \| `"cross"` \| `"not_specified"`
 
 #### Defined in
 
-[bot.ts:532](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L532)
+[bot.ts:532](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L532)
 
 • `set` **leverageType**(`leverageType`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `leverageType` | ``"isolated"`` \| ``"custom"`` \| ``"cross"`` \| ``"not_specified"`` |
+| Name           | Type                                                         |
+| :------------- | :----------------------------------------------------------- |
+| `leverageType` | `"isolated"` \| `"custom"` \| `"cross"` \| `"not_specified"` |
 
 #### Returns
 
@@ -810,9 +810,9 @@ ___
 
 #### Defined in
 
-[bot.ts:536](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L536)
+[bot.ts:536](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L536)
 
-___
+---
 
 ### martingaleStepCoefficient
 
@@ -824,14 +824,14 @@ ___
 
 #### Defined in
 
-[bot.ts:404](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L404)
+[bot.ts:404](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L404)
 
 • `set` **martingaleStepCoefficient**(`martingaleStepCoefficient`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                        | Type     |
+| :-------------------------- | :------- |
 | `martingaleStepCoefficient` | `number` |
 
 #### Returns
@@ -840,9 +840,9 @@ ___
 
 #### Defined in
 
-[bot.ts:408](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L408)
+[bot.ts:408](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L408)
 
-___
+---
 
 ### martingaleVolumeCoefficient
 
@@ -854,14 +854,14 @@ ___
 
 #### Defined in
 
-[bot.ts:396](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L396)
+[bot.ts:396](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L396)
 
 • `set` **martingaleVolumeCoefficient**(`martingaleVolumeCoefficient`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                          | Type     |
+| :---------------------------- | :------- |
 | `martingaleVolumeCoefficient` | `number` |
 
 #### Returns
@@ -870,9 +870,9 @@ ___
 
 #### Defined in
 
-[bot.ts:400](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L400)
+[bot.ts:400](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L400)
 
-___
+---
 
 ### maxActiveDeals
 
@@ -884,14 +884,14 @@ ___
 
 #### Defined in
 
-[bot.ts:208](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L208)
+[bot.ts:208](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L208)
 
 • `set` **maxActiveDeals**(`maxActiveDeals`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name             | Type     |
+| :--------------- | :------- |
 | `maxActiveDeals` | `number` |
 
 #### Returns
@@ -900,29 +900,29 @@ ___
 
 #### Defined in
 
-[bot.ts:212](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L212)
+[bot.ts:212](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L212)
 
-___
+---
 
 ### maxPrice
 
-• `get` **maxPrice**(): ``null`` \| `number`
+• `get` **maxPrice**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:468](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L468)
+[bot.ts:468](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L468)
 
 • `set` **maxPrice**(`maxPrice`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `maxPrice` | ``null`` \| `number` |
+| Name       | Type               |
+| :--------- | :----------------- |
+| `maxPrice` | `null` \| `number` |
 
 #### Returns
 
@@ -930,29 +930,29 @@ ___
 
 #### Defined in
 
-[bot.ts:472](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L472)
+[bot.ts:472](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L472)
 
-___
+---
 
 ### maxPricePercentage
 
-• `get` **maxPricePercentage**(): ``null`` \| `number`
+• `get` **maxPricePercentage**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:596](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L596)
+[bot.ts:596](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L596)
 
 • `set` **maxPricePercentage**(`maxPricePercentage`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `maxPricePercentage` | ``null`` \| `number` |
+| Name                 | Type               |
+| :------------------- | :----------------- |
+| `maxPricePercentage` | `null` \| `number` |
 
 #### Returns
 
@@ -960,9 +960,9 @@ ___
 
 #### Defined in
 
-[bot.ts:600](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L600)
+[bot.ts:600](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L600)
 
-___
+---
 
 ### maxSafetyOrders
 
@@ -974,14 +974,14 @@ ___
 
 #### Defined in
 
-[bot.ts:152](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L152)
+[bot.ts:152](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L152)
 
 • `set` **maxSafetyOrders**(`maxSafetyOrders`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name              | Type     |
+| :---------------- | :------- |
 | `maxSafetyOrders` | `number` |
 
 #### Returns
@@ -990,29 +990,29 @@ ___
 
 #### Defined in
 
-[bot.ts:156](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L156)
+[bot.ts:156](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L156)
 
-___
+---
 
 ### minPrice
 
-• `get` **minPrice**(): ``null`` \| `number`
+• `get` **minPrice**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:460](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L460)
+[bot.ts:460](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L460)
 
 • `set` **minPrice**(`minPrice`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `minPrice` | ``null`` \| `number` |
+| Name       | Type               |
+| :--------- | :----------------- |
+| `minPrice` | `null` \| `number` |
 
 #### Returns
 
@@ -1020,29 +1020,29 @@ ___
 
 #### Defined in
 
-[bot.ts:464](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L464)
+[bot.ts:464](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L464)
 
-___
+---
 
 ### minPricePercentage
 
-• `get` **minPricePercentage**(): ``null`` \| `number`
+• `get` **minPricePercentage**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:588](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L588)
+[bot.ts:588](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L588)
 
 • `set` **minPricePercentage**(`minPricePercentage`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `minPricePercentage` | ``null`` \| `number` |
+| Name                 | Type               |
+| :------------------- | :----------------- |
+| `minPricePercentage` | `null` \| `number` |
 
 #### Returns
 
@@ -1050,29 +1050,29 @@ ___
 
 #### Defined in
 
-[bot.ts:592](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L592)
+[bot.ts:592](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L592)
 
-___
+---
 
 ### minProfitPercentage
 
-• `get` **minProfitPercentage**(): ``null`` \| `number`
+• `get` **minProfitPercentage**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:340](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L340)
+[bot.ts:340](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L340)
 
 • `set` **minProfitPercentage**(`minProfitPercentage`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `minProfitPercentage` | ``null`` \| `number` |
+| Name                  | Type               |
+| :-------------------- | :----------------- |
+| `minProfitPercentage` | `null` \| `number` |
 
 #### Returns
 
@@ -1080,29 +1080,29 @@ ___
 
 #### Defined in
 
-[bot.ts:344](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L344)
+[bot.ts:344](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L344)
 
-___
+---
 
 ### minProfitType
 
-• `get` **minProfitType**(): ``null`` \| ``"base_order_volume"`` \| ``"total_bought_volume"``
+• `get` **minProfitType**(): `null` \| `"base_order_volume"` \| `"total_bought_volume"`
 
 #### Returns
 
-``null`` \| ``"base_order_volume"`` \| ``"total_bought_volume"``
+`null` \| `"base_order_volume"` \| `"total_bought_volume"`
 
 #### Defined in
 
-[bot.ts:380](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L380)
+[bot.ts:380](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L380)
 
 • `set` **minProfitType**(`minProfitType`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `minProfitType` | ``null`` \| ``"base_order_volume"`` \| ``"total_bought_volume"`` |
+| Name            | Type                                                       |
+| :-------------- | :--------------------------------------------------------- |
+| `minProfitType` | `null` \| `"base_order_volume"` \| `"total_bought_volume"` |
 
 #### Returns
 
@@ -1110,9 +1110,9 @@ ___
 
 #### Defined in
 
-[bot.ts:384](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L384)
+[bot.ts:384](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L384)
 
-___
+---
 
 ### minVolumeBtc24H
 
@@ -1124,14 +1124,14 @@ ___
 
 #### Defined in
 
-[bot.ts:444](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L444)
+[bot.ts:444](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L444)
 
 • `set` **minVolumeBtc24H**(`minVolumeBtc24h`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name              | Type     |
+| :---------------- | :------- |
 | `minVolumeBtc24h` | `number` |
 
 #### Returns
@@ -1140,9 +1140,9 @@ ___
 
 #### Defined in
 
-[bot.ts:448](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L448)
+[bot.ts:448](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L448)
 
-___
+---
 
 ### name
 
@@ -1154,14 +1154,14 @@ ___
 
 #### Defined in
 
-[bot.ts:324](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L324)
+[bot.ts:324](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L324)
 
 • `set` **name**(`name`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name   | Type     |
+| :----- | :------- |
 | `name` | `string` |
 
 #### Returns
@@ -1170,9 +1170,9 @@ ___
 
 #### Defined in
 
-[bot.ts:328](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L328)
+[bot.ts:328](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L328)
 
-___
+---
 
 ### pairs
 
@@ -1184,14 +1184,14 @@ ___
 
 #### Defined in
 
-[bot.ts:168](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L168)
+[bot.ts:168](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L168)
 
 • `set` **pairs**(`pairs`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name    | Type                   |
+| :------ | :--------------------- |
 | `pairs` | `string` \| `string`[] |
 
 #### Returns
@@ -1200,29 +1200,29 @@ ___
 
 #### Defined in
 
-[bot.ts:172](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L172)
+[bot.ts:172](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L172)
 
-___
+---
 
 ### profitCurrency
 
-• `get` **profitCurrency**(): ``"quote_currency"`` \| ``"base_currency"``
+• `get` **profitCurrency**(): `"quote_currency"` \| `"base_currency"`
 
 #### Returns
 
-``"quote_currency"`` \| ``"base_currency"``
+`"quote_currency"` \| `"base_currency"`
 
 #### Defined in
 
-[bot.ts:452](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L452)
+[bot.ts:452](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L452)
 
 • `set` **profitCurrency**(`profitCurrency`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `profitCurrency` | ``"quote_currency"`` \| ``"base_currency"`` |
+| Name             | Type                                    |
+| :--------------- | :-------------------------------------- |
+| `profitCurrency` | `"quote_currency"` \| `"base_currency"` |
 
 #### Returns
 
@@ -1230,29 +1230,29 @@ ___
 
 #### Defined in
 
-[bot.ts:456](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L456)
+[bot.ts:456](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L456)
 
-___
+---
 
 ### reinvestedVolumeUsd
 
-• `get` **reinvestedVolumeUsd**(): ``null`` \| `number`
+• `get` **reinvestedVolumeUsd**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:580](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L580)
+[bot.ts:580](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L580)
 
 • `set` **reinvestedVolumeUsd**(`reinvestedVolumeUsd`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `reinvestedVolumeUsd` | ``null`` \| `number` |
+| Name                  | Type               |
+| :-------------------- | :----------------- |
+| `reinvestedVolumeUsd` | `null` \| `number` |
 
 #### Returns
 
@@ -1260,29 +1260,29 @@ ___
 
 #### Defined in
 
-[bot.ts:584](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L584)
+[bot.ts:584](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L584)
 
-___
+---
 
 ### reinvestingPercentage
 
-• `get` **reinvestingPercentage**(): ``null`` \| `number`
+• `get` **reinvestingPercentage**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:564](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L564)
+[bot.ts:564](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L564)
 
 • `set` **reinvestingPercentage**(`reinvestingPercentage`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `reinvestingPercentage` | ``null`` \| `number` |
+| Name                    | Type               |
+| :---------------------- | :----------------- |
+| `reinvestingPercentage` | `null` \| `number` |
 
 #### Returns
 
@@ -1290,29 +1290,29 @@ ___
 
 #### Defined in
 
-[bot.ts:568](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L568)
+[bot.ts:568](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L568)
 
-___
+---
 
 ### riskReductionPercentage
 
-• `get` **riskReductionPercentage**(): ``null`` \| `number`
+• `get` **riskReductionPercentage**(): `null` \| `number`
 
 #### Returns
 
-``null`` \| `number`
+`null` \| `number`
 
 #### Defined in
 
-[bot.ts:572](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L572)
+[bot.ts:572](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L572)
 
 • `set` **riskReductionPercentage**(`riskReductionPercentage`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `riskReductionPercentage` | ``null`` \| `number` |
+| Name                      | Type               |
+| :------------------------ | :----------------- |
+| `riskReductionPercentage` | `null` \| `number` |
 
 #### Returns
 
@@ -1320,9 +1320,9 @@ ___
 
 #### Defined in
 
-[bot.ts:576](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L576)
+[bot.ts:576](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L576)
 
-___
+---
 
 ### safetyOrderStepPercentage
 
@@ -1334,14 +1334,14 @@ ___
 
 #### Defined in
 
-[bot.ts:364](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L364)
+[bot.ts:364](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L364)
 
 • `set` **safetyOrderStepPercentage**(`safetyOrderStepPercentage`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                        | Type     |
+| :-------------------------- | :------- |
 | `safetyOrderStepPercentage` | `number` |
 
 #### Returns
@@ -1350,9 +1350,9 @@ ___
 
 #### Defined in
 
-[bot.ts:368](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L368)
+[bot.ts:368](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L368)
 
-___
+---
 
 ### safetyOrderVolume
 
@@ -1364,14 +1364,14 @@ ___
 
 #### Defined in
 
-[bot.ts:356](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L356)
+[bot.ts:356](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L356)
 
 • `set` **safetyOrderVolume**(`safetyOrderVolume`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                | Type     |
+| :------------------ | :------- |
 | `safetyOrderVolume` | `number` |
 
 #### Returns
@@ -1380,9 +1380,9 @@ ___
 
 #### Defined in
 
-[bot.ts:360](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L360)
+[bot.ts:360](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L360)
 
-___
+---
 
 ### safetyOrderVolumeType
 
@@ -1394,14 +1394,14 @@ ___
 
 #### Defined in
 
-[bot.ts:484](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L484)
+[bot.ts:484](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L484)
 
 • `set` **safetyOrderVolumeType**(`safetyOrderVolumeType`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                    | Type                                    |
+| :---------------------- | :-------------------------------------- |
 | `safetyOrderVolumeType` | [`VolumeType`](../README.md#volumetype) |
 
 #### Returns
@@ -1410,29 +1410,29 @@ ___
 
 #### Defined in
 
-[bot.ts:488](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L488)
+[bot.ts:488](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L488)
 
-___
+---
 
 ### startOrderType
 
-• `get` **startOrderType**(): ``"limit"`` \| ``"market"``
+• `get` **startOrderType**(): `"limit"` \| `"market"`
 
 #### Returns
 
-``"limit"`` \| ``"market"``
+`"limit"` \| `"market"`
 
 #### Defined in
 
-[bot.ts:548](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L548)
+[bot.ts:548](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L548)
 
 • `set` **startOrderType**(`startOrderType`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `startOrderType` | ``"limit"`` \| ``"market"`` |
+| Name             | Type                    |
+| :--------------- | :---------------------- |
+| `startOrderType` | `"limit"` \| `"market"` |
 
 #### Returns
 
@@ -1440,9 +1440,9 @@ ___
 
 #### Defined in
 
-[bot.ts:552](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L552)
+[bot.ts:552](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L552)
 
-___
+---
 
 ### stopLossPercentage
 
@@ -1454,14 +1454,14 @@ ___
 
 #### Defined in
 
-[bot.ts:412](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L412)
+[bot.ts:412](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L412)
 
 • `set` **stopLossPercentage**(`stopLossPercentage`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                 | Type     |
+| :------------------- | :------- |
 | `stopLossPercentage` | `number` |
 
 #### Returns
@@ -1470,9 +1470,9 @@ ___
 
 #### Defined in
 
-[bot.ts:416](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L416)
+[bot.ts:416](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L416)
 
-___
+---
 
 ### stopLossTimeoutEnabled
 
@@ -1484,14 +1484,14 @@ ___
 
 #### Defined in
 
-[bot.ts:260](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L260)
+[bot.ts:260](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L260)
 
 • `set` **stopLossTimeoutEnabled**(`stopLossTimeoutEnabled`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                     | Type      |
+| :----------------------- | :-------- |
 | `stopLossTimeoutEnabled` | `boolean` |
 
 #### Returns
@@ -1500,9 +1500,9 @@ ___
 
 #### Defined in
 
-[bot.ts:264](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L264)
+[bot.ts:264](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L264)
 
-___
+---
 
 ### stopLossTimeoutInSeconds
 
@@ -1514,14 +1514,14 @@ ___
 
 #### Defined in
 
-[bot.ts:268](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L268)
+[bot.ts:268](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L268)
 
 • `set` **stopLossTimeoutInSeconds**(`stopLossTimeoutInSeconds`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                       | Type     |
+| :------------------------- | :------- |
 | `stopLossTimeoutInSeconds` | `number` |
 
 #### Returns
@@ -1530,29 +1530,29 @@ ___
 
 #### Defined in
 
-[bot.ts:272](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L272)
+[bot.ts:272](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L272)
 
-___
+---
 
 ### stopLossType
 
-• `get` **stopLossType**(): ``"stop_loss"`` \| ``"stop_loss_and_disable_bot"``
+• `get` **stopLossType**(): `"stop_loss"` \| `"stop_loss_and_disable_bot"`
 
 #### Returns
 
-``"stop_loss"`` \| ``"stop_loss_and_disable_bot"``
+`"stop_loss"` \| `"stop_loss_and_disable_bot"`
 
 #### Defined in
 
-[bot.ts:476](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L476)
+[bot.ts:476](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L476)
 
 • `set` **stopLossType**(`stopLossType`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `stopLossType` | ``"stop_loss"`` \| ``"stop_loss_and_disable_bot"`` |
+| Name           | Type                                           |
+| :------------- | :--------------------------------------------- |
+| `stopLossType` | `"stop_loss"` \| `"stop_loss_and_disable_bot"` |
 
 #### Returns
 
@@ -1560,9 +1560,9 @@ ___
 
 #### Defined in
 
-[bot.ts:480](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L480)
+[bot.ts:480](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L480)
 
-___
+---
 
 ### strategy
 
@@ -1574,14 +1574,14 @@ ___
 
 #### Defined in
 
-[bot.ts:436](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L436)
+[bot.ts:436](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L436)
 
 • `set` **strategy**(`strategy`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name       | Type                                |
+| :--------- | :---------------------------------- |
 | `strategy` | [`Strategy`](../README.md#strategy) |
 
 #### Returns
@@ -1590,9 +1590,9 @@ ___
 
 #### Defined in
 
-[bot.ts:440](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L440)
+[bot.ts:440](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L440)
 
-___
+---
 
 ### strategyList
 
@@ -1604,14 +1604,14 @@ ___
 
 #### Defined in
 
-[bot.ts:192](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L192)
+[bot.ts:192](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L192)
 
 • `set` **strategyList**(`strategyList`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name           | Type                                                                     |
+| :------------- | :----------------------------------------------------------------------- |
 | `strategyList` | `Convert`\<[`StrategyRawDto`](../README.md#strategyrawdto), `number`\>[] |
 
 #### Returns
@@ -1620,9 +1620,9 @@ ___
 
 #### Defined in
 
-[bot.ts:196](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L196)
+[bot.ts:196](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L196)
 
-___
+---
 
 ### takeProfit
 
@@ -1634,14 +1634,14 @@ ___
 
 #### Defined in
 
-[bot.ts:332](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L332)
+[bot.ts:332](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L332)
 
 • `set` **takeProfit**(`takeProfit`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name         | Type     |
+| :----------- | :------- |
 | `takeProfit` | `number` |
 
 #### Returns
@@ -1650,29 +1650,29 @@ ___
 
 #### Defined in
 
-[bot.ts:336](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L336)
+[bot.ts:336](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L336)
 
-___
+---
 
 ### takeProfitType
 
-• `get` **takeProfitType**(): ``"base"`` \| ``"total"``
+• `get` **takeProfitType**(): `"base"` \| `"total"`
 
 #### Returns
 
-``"base"`` \| ``"total"``
+`"base"` \| `"total"`
 
 #### Defined in
 
-[bot.ts:372](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L372)
+[bot.ts:372](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L372)
 
 • `set` **takeProfitType**(`takeProfitType`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `takeProfitType` | ``"base"`` \| ``"total"`` |
+| Name             | Type                  |
+| :--------------- | :-------------------- |
+| `takeProfitType` | `"base"` \| `"total"` |
 
 #### Returns
 
@@ -1680,9 +1680,9 @@ ___
 
 #### Defined in
 
-[bot.ts:376](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L376)
+[bot.ts:376](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L376)
 
-___
+---
 
 ### tempId
 
@@ -1694,14 +1694,14 @@ ___
 
 #### Defined in
 
-[bot.ts:131](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L131)
+[bot.ts:131](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L131)
 
 • `set` **tempId**(`tempId`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name     | Type     |
+| :------- | :------- |
 | `tempId` | `number` |
 
 #### Returns
@@ -1710,9 +1710,9 @@ ___
 
 #### Defined in
 
-[bot.ts:135](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L135)
+[bot.ts:135](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L135)
 
-___
+---
 
 ### trailingDeviation
 
@@ -1724,14 +1724,14 @@ ___
 
 #### Defined in
 
-[bot.ts:508](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L508)
+[bot.ts:508](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L508)
 
 • `set` **trailingDeviation**(`trailingDeviation`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name                | Type     |
+| :------------------ | :------- |
 | `trailingDeviation` | `number` |
 
 #### Returns
@@ -1740,29 +1740,29 @@ ___
 
 #### Defined in
 
-[bot.ts:512](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L512)
+[bot.ts:512](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L512)
 
-___
+---
 
 ### trailingEnabled
 
-• `get` **trailingEnabled**(): ``null`` \| `boolean`
+• `get` **trailingEnabled**(): `null` \| `boolean`
 
 #### Returns
 
-``null`` \| `boolean`
+`null` \| `boolean`
 
 #### Defined in
 
-[bot.ts:236](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L236)
+[bot.ts:236](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L236)
 
 • `set` **trailingEnabled**(`trailingEnabled`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `trailingEnabled` | ``null`` \| `boolean` |
+| Name              | Type                |
+| :---------------- | :------------------ |
+| `trailingEnabled` | `null` \| `boolean` |
 
 #### Returns
 
@@ -1770,9 +1770,9 @@ ___
 
 #### Defined in
 
-[bot.ts:240](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L240)
+[bot.ts:240](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L240)
 
-___
+---
 
 ### tslEnabled
 
@@ -1784,14 +1784,14 @@ ___
 
 #### Defined in
 
-[bot.ts:244](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L244)
+[bot.ts:244](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L244)
 
 • `set` **tslEnabled**(`tslEnabled`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name         | Type      |
+| :----------- | :-------- |
 | `tslEnabled` | `boolean` |
 
 #### Returns
@@ -1800,29 +1800,29 @@ ___
 
 #### Defined in
 
-[bot.ts:248](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L248)
+[bot.ts:248](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L248)
 
-___
+---
 
 ### type
 
-• `get` **type**(): ``"Bot::MultiBot"`` \| ``"Bot::SingleBot"`` \| ``"Bot::SwitchBot"``
+• `get` **type**(): `"Bot::MultiBot"` \| `"Bot::SingleBot"` \| `"Bot::SwitchBot"`
 
 #### Returns
 
-``"Bot::MultiBot"`` \| ``"Bot::SingleBot"`` \| ``"Bot::SwitchBot"``
+`"Bot::MultiBot"` \| `"Bot::SingleBot"` \| `"Bot::SwitchBot"`
 
 #### Defined in
 
-[bot.ts:388](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L388)
+[bot.ts:388](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L388)
 
 • `set` **type**(`type`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `type` | ``"Bot::MultiBot"`` \| ``"Bot::SingleBot"`` \| ``"Bot::SwitchBot"`` |
+| Name   | Type                                                          |
+| :----- | :------------------------------------------------------------ |
+| `type` | `"Bot::MultiBot"` \| `"Bot::SingleBot"` \| `"Bot::SwitchBot"` |
 
 #### Returns
 
@@ -1830,9 +1830,9 @@ ___
 
 #### Defined in
 
-[bot.ts:392](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L392)
+[bot.ts:392](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L392)
 
-___
+---
 
 ### updatedAt
 
@@ -1844,9 +1844,9 @@ ___
 
 #### Defined in
 
-[bot.ts:232](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L232)
+[bot.ts:232](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L232)
 
-___
+---
 
 ### urlSecret
 
@@ -1858,14 +1858,14 @@ ___
 
 #### Defined in
 
-[bot.ts:316](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L316)
+[bot.ts:316](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L316)
 
 • `set` **urlSecret**(`urlSecret`): `void`
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name        | Type     |
+| :---------- | :------- |
 | `urlSecret` | `string` |
 
 #### Returns
@@ -1874,7 +1874,7 @@ ___
 
 #### Defined in
 
-[bot.ts:320](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L320)
+[bot.ts:320](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L320)
 
 ## Methods
 
@@ -1884,8 +1884,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name   | Type                                                             |
+| :----- | :--------------------------------------------------------------- |
 | `data` | `Convert`\<[`BotRawDto`](../interfaces/BotRawDto.md), `number`\> |
 
 #### Returns
@@ -1894,9 +1894,9 @@ ___
 
 #### Defined in
 
-[bot.ts:85](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L85)
+[bot.ts:85](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L85)
 
-___
+---
 
 ### delete
 
@@ -1908,9 +1908,9 @@ ___
 
 #### Defined in
 
-[bot.ts:112](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L112)
+[bot.ts:112](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L112)
 
-___
+---
 
 ### getAccount
 
@@ -1922,9 +1922,9 @@ ___
 
 #### Defined in
 
-[bot.ts:123](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L123)
+[bot.ts:123](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L123)
 
-___
+---
 
 ### save
 
@@ -1932,8 +1932,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name    | Type                                                                          |
+| :------ | :---------------------------------------------------------------------------- |
 | `data?` | `Partial`\<`Convert`\<[`BotRawDto`](../interfaces/BotRawDto.md), `number`\>\> |
 
 #### Returns
@@ -1942,9 +1942,9 @@ ___
 
 #### Defined in
 
-[bot.ts:116](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L116)
+[bot.ts:116](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L116)
 
-___
+---
 
 ### setOrderVolumes
 
@@ -1960,8 +1960,8 @@ We want to spend total of 50% USDT and give 50% of 50% to the safety.)
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name      | Type                                                        |
+| :-------- | :---------------------------------------------------------- |
 | `options` | [`OrderVolumeOptions`](../interfaces/OrderVolumeOptions.md) |
 
 #### Returns
@@ -1970,9 +1970,9 @@ We want to spend total of 50% USDT and give 50% of 50% to the safety.)
 
 #### Defined in
 
-[bot.ts:76](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L76)
+[bot.ts:76](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L76)
 
-___
+---
 
 ### start
 
@@ -1984,9 +1984,9 @@ ___
 
 #### Defined in
 
-[bot.ts:104](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L104)
+[bot.ts:104](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L104)
 
-___
+---
 
 ### stop
 
@@ -1998,9 +1998,9 @@ ___
 
 #### Defined in
 
-[bot.ts:108](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L108)
+[bot.ts:108](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L108)
 
-___
+---
 
 ### update
 
@@ -2008,8 +2008,8 @@ ___
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name   | Type                                                                          |
+| :----- | :---------------------------------------------------------------------------- |
 | `data` | `Partial`\<`Convert`\<[`BotRawDto`](../interfaces/BotRawDto.md), `number`\>\> |
 
 #### Returns
@@ -2018,9 +2018,9 @@ ___
 
 #### Defined in
 
-[bot.ts:93](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L93)
+[bot.ts:93](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L93)
 
-___
+---
 
 ### #getEquivalentStrategyList
 
@@ -2032,9 +2032,9 @@ dirty checker from marking the data unnecessarily dirty.
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `strategyList` | `Convert`\<[`StrategyRawDto`](../README.md#strategyrawdto), `number`\>[] |
+| Name              | Type                                                                     |
+| :---------------- | :----------------------------------------------------------------------- |
+| `strategyList`    | `Convert`\<[`StrategyRawDto`](../README.md#strategyrawdto), `number`\>[] |
 | `oldStrategyList` | `Convert`\<[`StrategyRawDto`](../README.md#strategyrawdto), `number`\>[] |
 
 #### Returns
@@ -2043,9 +2043,9 @@ dirty checker from marking the data unnecessarily dirty.
 
 #### Defined in
 
-[bot.ts:181](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L181)
+[bot.ts:181](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L181)
 
-___
+---
 
 ### calculateOrderVolumes
 
@@ -2061,8 +2061,8 @@ We want to spend total of 50% USDT and give 50% of 50% to the safety.)
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
+| Name             | Type                                                        |
+| :--------------- | :---------------------------------------------------------- |
 | `«destructured»` | [`OrderVolumeOptions`](../interfaces/OrderVolumeOptions.md) |
 
 #### Returns
@@ -2071,19 +2071,23 @@ We want to spend total of 50% USDT and give 50% of 50% to the safety.)
 
 volumes to be sent to 3Commas API.
 
-| Name | Type |
-| :------ | :------ |
-| `baseOrderVolume` | `number` |
-| `baseOrderVolumeType` | [`VolumeType`](../README.md#volumetype) |
-| `safetyOrderVolume` | `number` |
+| Name                    | Type                                    |
+| :---------------------- | :-------------------------------------- |
+| `baseOrderVolume`       | `number`                                |
+| `baseOrderVolumeType`   | [`VolumeType`](../README.md#volumetype) |
+| `safetyOrderVolume`     | `number`                                |
 | `safetyOrderVolumeType` | [`VolumeType`](../README.md#volumetype) |
 
 **`Example`**
 
 ```ts
-Bot.calculateOrderVolumes(10, { safetyPercent: 50, safetyCount: 2, safetyVolumeScale: 1.3 });
+Bot.calculateOrderVolumes(10, {
+  safetyPercent: 50,
+  safetyCount: 2,
+  safetyVolumeScale: 1.3,
+});
 ```
 
 #### Defined in
 
-[bot.ts:44](https://github.com/ozum/3commas/blob/b3896a3/src/bot.ts#L44)
+[bot.ts:44](https://github.com/ozum/3commas/blob/d6773ef/src/bot.ts#L44)

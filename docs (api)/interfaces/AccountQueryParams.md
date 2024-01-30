@@ -18,9 +18,9 @@
 
 #### Defined in
 
-[api/account.ts:15](https://github.com/ozum/3commas/blob/b3896a3/src/api/account.ts#L15)
+[api/account.ts:15](https://github.com/ozum/3commas/blob/d6773ef/src/api/account.ts#L15)
 
-___
+---
 
 ### page
 
@@ -28,9 +28,9 @@ ___
 
 #### Defined in
 
-[api/account.ts:16](https://github.com/ozum/3commas/blob/b3896a3/src/api/account.ts#L16)
+[api/account.ts:16](https://github.com/ozum/3commas/blob/d6773ef/src/api/account.ts#L16)
 
-___
+---
 
 ### perPage
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[api/account.ts:17](https://github.com/ozum/3commas/blob/b3896a3/src/api/account.ts#L17)
+[api/account.ts:17](https://github.com/ozum/3commas/blob/d6773ef/src/api/account.ts#L17)

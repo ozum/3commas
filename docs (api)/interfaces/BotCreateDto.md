@@ -66,9 +66,9 @@
 
 #### Defined in
 
-[api/types/bot.ts:77](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L77)
+[api/types/bot.ts:77](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L77)
 
-___
+---
 
 ### activeSafetyOrdersCount
 
@@ -80,13 +80,13 @@ Numerify.activeSafetyOrdersCount
 
 #### Defined in
 
-[api/types/bot.ts:17](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L17)
+[api/types/bot.ts:17](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L17)
 
-___
+---
 
 ### allowedDealsOnSamePair
 
-• `Optional` **allowedDealsOnSamePair**: ``null`` \| `number`
+• `Optional` **allowedDealsOnSamePair**: `null` \| `number`
 
 #### Inherited from
 
@@ -94,9 +94,9 @@ Numerify.allowedDealsOnSamePair
 
 #### Defined in
 
-[api/types/bot.ts:40](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L40)
+[api/types/bot.ts:40](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L40)
 
-___
+---
 
 ### baseOrderVolume
 
@@ -108,9 +108,9 @@ Numerify.baseOrderVolume
 
 #### Defined in
 
-[api/types/bot.ts:9](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L9)
+[api/types/bot.ts:9](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L9)
 
-___
+---
 
 ### baseOrderVolumeType
 
@@ -122,9 +122,9 @@ Numerify.baseOrderVolumeType
 
 #### Defined in
 
-[api/types/bot.ts:10](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L10)
+[api/types/bot.ts:10](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L10)
 
-___
+---
 
 ### btcPriceLimit
 
@@ -136,13 +136,13 @@ Numerify.btcPriceLimit
 
 #### Defined in
 
-[api/types/bot.ts:22](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L22)
+[api/types/bot.ts:22](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L22)
 
-___
+---
 
 ### closeDealsTimeout
 
-• `Optional` **closeDealsTimeout**: ``null`` \| `number`
+• `Optional` **closeDealsTimeout**: `null` \| `number`
 
 #### Inherited from
 
@@ -150,9 +150,9 @@ Numerify.closeDealsTimeout
 
 #### Defined in
 
-[api/types/bot.ts:41](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L41)
+[api/types/bot.ts:41](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L41)
 
-___
+---
 
 ### closeStrategyList
 
@@ -164,9 +164,9 @@ Numerify.closeStrategyList
 
 #### Defined in
 
-[api/types/bot.ts:44](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L44)
+[api/types/bot.ts:44](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L44)
 
-___
+---
 
 ### cooldown
 
@@ -178,13 +178,13 @@ Numerify.cooldown
 
 #### Defined in
 
-[api/types/bot.ts:19](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L19)
+[api/types/bot.ts:19](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L19)
 
-___
+---
 
 ### dealStartDelaySeconds
 
-• `Optional` **dealStartDelaySeconds**: ``null`` \| `number`
+• `Optional` **dealStartDelaySeconds**: `null` \| `number`
 
 #### Inherited from
 
@@ -192,13 +192,13 @@ Numerify.dealStartDelaySeconds
 
 #### Defined in
 
-[api/types/bot.ts:35](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L35)
+[api/types/bot.ts:35](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L35)
 
-___
+---
 
 ### disableAfterDealsCount
 
-• `Optional` **disableAfterDealsCount**: ``null`` \| `number`
+• `Optional` **disableAfterDealsCount**: `null` \| `number`
 
 #### Inherited from
 
@@ -206,13 +206,13 @@ Numerify.disableAfterDealsCount
 
 #### Defined in
 
-[api/types/bot.ts:39](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L39)
+[api/types/bot.ts:39](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L39)
 
-___
+---
 
 ### leverageCustomValue
 
-• `Optional` **leverageCustomValue**: ``null`` \| `number`
+• `Optional` **leverageCustomValue**: `null` \| `number`
 
 #### Inherited from
 
@@ -220,13 +220,13 @@ Numerify.leverageCustomValue
 
 #### Defined in
 
-[api/types/bot.ts:28](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L28)
+[api/types/bot.ts:28](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L28)
 
-___
+---
 
 ### leverageType
 
-• `Optional` **leverageType**: ``"isolated"`` \| ``"custom"`` \| ``"cross"`` \| ``"not_specified"``
+• `Optional` **leverageType**: `"isolated"` \| `"custom"` \| `"cross"` \| `"not_specified"`
 
 #### Inherited from
 
@@ -234,9 +234,9 @@ Numerify.leverageType
 
 #### Defined in
 
-[api/types/bot.ts:27](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L27)
+[api/types/bot.ts:27](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L27)
 
-___
+---
 
 ### martingaleStepCoefficient
 
@@ -248,9 +248,9 @@ Numerify.martingaleStepCoefficient
 
 #### Defined in
 
-[api/types/bot.ts:14](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L14)
+[api/types/bot.ts:14](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L14)
 
-___
+---
 
 ### martingaleVolumeCoefficient
 
@@ -262,9 +262,9 @@ Numerify.martingaleVolumeCoefficient
 
 #### Defined in
 
-[api/types/bot.ts:15](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L15)
+[api/types/bot.ts:15](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L15)
 
-___
+---
 
 ### maxActiveDeals
 
@@ -276,13 +276,13 @@ Numerify.maxActiveDeals
 
 #### Defined in
 
-[api/types/bot.ts:8](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L8)
+[api/types/bot.ts:8](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L8)
 
-___
+---
 
 ### maxPrice
 
-• `Optional` **maxPrice**: ``null`` \| `number`
+• `Optional` **maxPrice**: `null` \| `number`
 
 #### Inherited from
 
@@ -290,13 +290,13 @@ Numerify.maxPrice
 
 #### Defined in
 
-[api/types/bot.ts:30](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L30)
+[api/types/bot.ts:30](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L30)
 
-___
+---
 
 ### maxPricePercentage
 
-• `Optional` **maxPricePercentage**: ``null`` \| `number`
+• `Optional` **maxPricePercentage**: `null` \| `number`
 
 #### Inherited from
 
@@ -304,9 +304,9 @@ Numerify.maxPricePercentage
 
 #### Defined in
 
-[api/types/bot.ts:49](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L49)
+[api/types/bot.ts:49](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L49)
 
-___
+---
 
 ### maxSafetyOrders
 
@@ -318,13 +318,13 @@ Numerify.maxSafetyOrders
 
 #### Defined in
 
-[api/types/bot.ts:16](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L16)
+[api/types/bot.ts:16](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L16)
 
-___
+---
 
 ### minPrice
 
-• `Optional` **minPrice**: ``null`` \| `number`
+• `Optional` **minPrice**: `null` \| `number`
 
 #### Inherited from
 
@@ -332,13 +332,13 @@ Numerify.minPrice
 
 #### Defined in
 
-[api/types/bot.ts:29](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L29)
+[api/types/bot.ts:29](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L29)
 
-___
+---
 
 ### minPricePercentage
 
-• `Optional` **minPricePercentage**: ``null`` \| `number`
+• `Optional` **minPricePercentage**: `null` \| `number`
 
 #### Inherited from
 
@@ -346,13 +346,13 @@ Numerify.minPricePercentage
 
 #### Defined in
 
-[api/types/bot.ts:48](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L48)
+[api/types/bot.ts:48](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L48)
 
-___
+---
 
 ### minProfitPercentage
 
-• `Optional` **minProfitPercentage**: ``null`` \| `number`
+• `Optional` **minProfitPercentage**: `null` \| `number`
 
 #### Inherited from
 
@@ -360,13 +360,13 @@ Numerify.minProfitPercentage
 
 #### Defined in
 
-[api/types/bot.ts:42](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L42)
+[api/types/bot.ts:42](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L42)
 
-___
+---
 
 ### minProfitType
 
-• `Optional` **minProfitType**: ``null`` \| ``"base_order_volume"`` \| ``"total_bought_volume"``
+• `Optional` **minProfitType**: `null` \| `"base_order_volume"` \| `"total_bought_volume"`
 
 #### Inherited from
 
@@ -374,9 +374,9 @@ Numerify.minProfitType
 
 #### Defined in
 
-[api/types/bot.ts:43](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L43)
+[api/types/bot.ts:43](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L43)
 
-___
+---
 
 ### minVolumeBtc24h
 
@@ -388,9 +388,9 @@ Numerify.minVolumeBtc24h
 
 #### Defined in
 
-[api/types/bot.ts:33](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L33)
+[api/types/bot.ts:33](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L33)
 
-___
+---
 
 ### name
 
@@ -402,9 +402,9 @@ Numerify.name
 
 #### Defined in
 
-[api/types/bot.ts:6](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L6)
+[api/types/bot.ts:6](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L6)
 
-___
+---
 
 ### pairs
 
@@ -416,13 +416,13 @@ Numerify.pairs
 
 #### Defined in
 
-[api/types/bot.ts:7](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L7)
+[api/types/bot.ts:7](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L7)
 
-___
+---
 
 ### profitCurrency
 
-• `Optional` **profitCurrency**: ``"quote_currency"`` \| ``"base_currency"``
+• `Optional` **profitCurrency**: `"quote_currency"` \| `"base_currency"`
 
 #### Inherited from
 
@@ -430,13 +430,13 @@ Numerify.profitCurrency
 
 #### Defined in
 
-[api/types/bot.ts:36](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L36)
+[api/types/bot.ts:36](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L36)
 
-___
+---
 
 ### reinvestedVolumeUsd
 
-• `Optional` **reinvestedVolumeUsd**: ``null`` \| `number`
+• `Optional` **reinvestedVolumeUsd**: `null` \| `number`
 
 #### Inherited from
 
@@ -444,13 +444,13 @@ Numerify.reinvestedVolumeUsd
 
 #### Defined in
 
-[api/types/bot.ts:47](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L47)
+[api/types/bot.ts:47](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L47)
 
-___
+---
 
 ### reinvestingPercentage
 
-• `Optional` **reinvestingPercentage**: ``null`` \| `number`
+• `Optional` **reinvestingPercentage**: `null` \| `number`
 
 #### Inherited from
 
@@ -458,13 +458,13 @@ Numerify.reinvestingPercentage
 
 #### Defined in
 
-[api/types/bot.ts:46](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L46)
+[api/types/bot.ts:46](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L46)
 
-___
+---
 
 ### riskReductionPercentage
 
-• `Optional` **riskReductionPercentage**: ``null`` \| `number`
+• `Optional` **riskReductionPercentage**: `null` \| `number`
 
 #### Inherited from
 
@@ -472,9 +472,9 @@ Numerify.riskReductionPercentage
 
 #### Defined in
 
-[api/types/bot.ts:45](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L45)
+[api/types/bot.ts:45](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L45)
 
-___
+---
 
 ### safetyOrderStepPercentage
 
@@ -486,9 +486,9 @@ Numerify.safetyOrderStepPercentage
 
 #### Defined in
 
-[api/types/bot.ts:24](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L24)
+[api/types/bot.ts:24](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L24)
 
-___
+---
 
 ### safetyOrderVolume
 
@@ -500,9 +500,9 @@ Numerify.safetyOrderVolume
 
 #### Defined in
 
-[api/types/bot.ts:12](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L12)
+[api/types/bot.ts:12](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L12)
 
-___
+---
 
 ### safetyOrderVolumeType
 
@@ -514,13 +514,13 @@ Numerify.safetyOrderVolumeType
 
 #### Defined in
 
-[api/types/bot.ts:13](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L13)
+[api/types/bot.ts:13](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L13)
 
-___
+---
 
 ### startOrderType
 
-• `Optional` **startOrderType**: ``"limit"`` \| ``"market"``
+• `Optional` **startOrderType**: `"limit"` \| `"market"`
 
 #### Inherited from
 
@@ -528,9 +528,9 @@ Numerify.startOrderType
 
 #### Defined in
 
-[api/types/bot.ts:37](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L37)
+[api/types/bot.ts:37](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L37)
 
-___
+---
 
 ### stopLossPercentage
 
@@ -542,9 +542,9 @@ Numerify.stopLossPercentage
 
 #### Defined in
 
-[api/types/bot.ts:18](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L18)
+[api/types/bot.ts:18](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L18)
 
-___
+---
 
 ### stopLossTimeoutEnabled
 
@@ -556,9 +556,9 @@ Numerify.stopLossTimeoutEnabled
 
 #### Defined in
 
-[api/types/bot.ts:31](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L31)
+[api/types/bot.ts:31](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L31)
 
-___
+---
 
 ### stopLossTimeoutInSeconds
 
@@ -570,13 +570,13 @@ Numerify.stopLossTimeoutInSeconds
 
 #### Defined in
 
-[api/types/bot.ts:32](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L32)
+[api/types/bot.ts:32](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L32)
 
-___
+---
 
 ### stopLossType
 
-• `Optional` **stopLossType**: ``"stop_loss"`` \| ``"stop_loss_and_disable_bot"``
+• `Optional` **stopLossType**: `"stop_loss"` \| `"stop_loss_and_disable_bot"`
 
 #### Inherited from
 
@@ -584,9 +584,9 @@ Numerify.stopLossType
 
 #### Defined in
 
-[api/types/bot.ts:38](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L38)
+[api/types/bot.ts:38](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L38)
 
-___
+---
 
 ### strategy
 
@@ -598,9 +598,9 @@ Numerify.strategy
 
 #### Defined in
 
-[api/types/bot.ts:23](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L23)
+[api/types/bot.ts:23](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L23)
 
-___
+---
 
 ### strategyList
 
@@ -612,9 +612,9 @@ Numerify.strategyList
 
 #### Defined in
 
-[api/types/bot.ts:26](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L26)
+[api/types/bot.ts:26](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L26)
 
-___
+---
 
 ### takeProfit
 
@@ -626,13 +626,13 @@ Numerify.takeProfit
 
 #### Defined in
 
-[api/types/bot.ts:11](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L11)
+[api/types/bot.ts:11](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L11)
 
-___
+---
 
 ### takeProfitType
 
-• **takeProfitType**: ``"base"`` \| ``"total"``
+• **takeProfitType**: `"base"` \| `"total"`
 
 #### Inherited from
 
@@ -640,9 +640,9 @@ Numerify.takeProfitType
 
 #### Defined in
 
-[api/types/bot.ts:25](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L25)
+[api/types/bot.ts:25](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L25)
 
-___
+---
 
 ### trailingDeviation
 
@@ -654,13 +654,13 @@ Numerify.trailingDeviation
 
 #### Defined in
 
-[api/types/bot.ts:21](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L21)
+[api/types/bot.ts:21](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L21)
 
-___
+---
 
 ### trailingEnabled
 
-• `Optional` **trailingEnabled**: ``null`` \| `boolean`
+• `Optional` **trailingEnabled**: `null` \| `boolean`
 
 #### Inherited from
 
@@ -668,9 +668,9 @@ Numerify.trailingEnabled
 
 #### Defined in
 
-[api/types/bot.ts:20](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L20)
+[api/types/bot.ts:20](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L20)
 
-___
+---
 
 ### tslEnabled
 
@@ -682,4 +682,4 @@ Numerify.tslEnabled
 
 #### Defined in
 
-[api/types/bot.ts:34](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L34)
+[api/types/bot.ts:34](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/bot.ts#L34)

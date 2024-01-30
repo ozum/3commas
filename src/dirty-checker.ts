@@ -26,11 +26,6 @@ export class DirtyChecker<T> {
     this.#immutableKeys = new Set(immutableKeys);
   }
 
-  public debug(): void {
-    console.info(this.#createdKeys);
-    console.info(this.#changedData);
-  }
-
   /** Whether the object is dirty (changed). */
   public get isDirty(): boolean {
     return Object.keys(this.#changedData).length > 0 || this.#createdKeys.size > 0;

@@ -42,9 +42,9 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:29](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L29)
+[api/types/user-balance.ts:29](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L29)
 
-___
+---
 
 ### availableLong
 
@@ -52,9 +52,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:25](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L25)
+[api/types/user-balance.ts:25](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L25)
 
-___
+---
 
 ### availableShort
 
@@ -62,9 +62,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:26](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L26)
+[api/types/user-balance.ts:26](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L26)
 
-___
+---
 
 ### availableWithLeverageLong
 
@@ -72,9 +72,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:27](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L27)
+[api/types/user-balance.ts:27](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L27)
 
-___
+---
 
 ### availableWithLeverageShort
 
@@ -82,9 +82,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:28](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L28)
+[api/types/user-balance.ts:28](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L28)
 
-___
+---
 
 ### borrowed
 
@@ -92,9 +92,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:12](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L12)
+[api/types/user-balance.ts:12](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L12)
 
-___
+---
 
 ### btcValue
 
@@ -102,9 +102,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:23](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L23)
+[api/types/user-balance.ts:23](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L23)
 
-___
+---
 
 ### currencyCode
 
@@ -112,9 +112,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:4](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L4)
+[api/types/user-balance.ts:4](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L4)
 
-___
+---
 
 ### currencyIcon
 
@@ -122,9 +122,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:6](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L6)
+[api/types/user-balance.ts:6](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L6)
 
-___
+---
 
 ### currencyName
 
@@ -132,9 +132,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:5](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L5)
+[api/types/user-balance.ts:5](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L5)
 
-___
+---
 
 ### currencySlug
 
@@ -142,9 +142,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:7](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L7)
+[api/types/user-balance.ts:7](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L7)
 
-___
+---
 
 ### currentPrice
 
@@ -152,9 +152,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:18](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L18)
+[api/types/user-balance.ts:18](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L18)
 
-___
+---
 
 ### currentPriceUsd
 
@@ -162,9 +162,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:19](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L19)
+[api/types/user-balance.ts:19](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L19)
 
-___
+---
 
 ### dayChangePercent
 
@@ -172,9 +172,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:20](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L20)
+[api/types/user-balance.ts:20](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L20)
 
-___
+---
 
 ### dayChangePercentBtc
 
@@ -182,9 +182,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:21](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L21)
+[api/types/user-balance.ts:21](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L21)
 
-___
+---
 
 ### dayChangePercentUsd
 
@@ -192,9 +192,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:22](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L22)
+[api/types/user-balance.ts:22](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L22)
 
-___
+---
 
 ### equity
 
@@ -202,9 +202,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:17](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L17)
+[api/types/user-balance.ts:17](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L17)
 
-___
+---
 
 ### isWallet
 
@@ -212,9 +212,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:30](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L30)
+[api/types/user-balance.ts:30](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L30)
 
-___
+---
 
 ### onOrders
 
@@ -222,9 +222,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:13](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L13)
+[api/types/user-balance.ts:13](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L13)
 
-___
+---
 
 ### onOrdersLong
 
@@ -232,9 +232,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:15](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L15)
+[api/types/user-balance.ts:15](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L15)
 
-___
+---
 
 ### onOrdersShort
 
@@ -242,9 +242,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:16](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L16)
+[api/types/user-balance.ts:16](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L16)
 
-___
+---
 
 ### onOrdersWithLeverage
 
@@ -252,9 +252,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:14](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L14)
+[api/types/user-balance.ts:14](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L14)
 
-___
+---
 
 ### percentage
 
@@ -262,9 +262,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:8](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L8)
+[api/types/user-balance.ts:8](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L8)
 
-___
+---
 
 ### position
 
@@ -272,9 +272,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:9](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L9)
+[api/types/user-balance.ts:9](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L9)
 
-___
+---
 
 ### positionAvailable
 
@@ -282,9 +282,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:10](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L10)
+[api/types/user-balance.ts:10](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L10)
 
-___
+---
 
 ### positionType
 
@@ -292,9 +292,9 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:11](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L11)
+[api/types/user-balance.ts:11](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L11)
 
-___
+---
 
 ### usdValue
 
@@ -302,4 +302,4 @@ ___
 
 #### Defined in
 
-[api/types/user-balance.ts:24](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L24)
+[api/types/user-balance.ts:24](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/user-balance.ts#L24)
