@@ -102,9 +102,9 @@
 
 #### Parameters
 
-| Name   | Type                                                                     |
-| :----- | :----------------------------------------------------------------------- |
-| `root` | [`ThreeCommas`](ThreeCommas.md)                                          |
+| Name | Type |
+| :------ | :------ |
+| `root` | [`ThreeCommas`](ThreeCommas.md) |
 | `data` | `Convert`\<[`AccountRawDto`](../interfaces/AccountRawDto.md), `number`\> |
 
 #### Returns
@@ -113,7 +113,7 @@
 
 #### Defined in
 
-[account.ts:13](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L13)
+[account.ts:13](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L13)
 
 ## Properties
 
@@ -123,9 +123,9 @@
 
 #### Defined in
 
-[account.ts:10](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L10)
+[account.ts:10](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L10)
 
----
+___
 
 ### #dirtyChecker
 
@@ -133,9 +133,9 @@
 
 #### Defined in
 
-[account.ts:11](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L11)
+[account.ts:11](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L11)
 
----
+___
 
 ### #root
 
@@ -143,23 +143,23 @@
 
 #### Defined in
 
-[account.ts:9](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L9)
+[account.ts:9](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L9)
 
 ## Accessors
 
 ### #client
 
-• `get` **#client**(): [`Client`](Client.md)\<`true`\>
+• `get` **#client**(): [`Client`](Client.md)\<``true``\>
 
 #### Returns
 
-[`Client`](Client.md)\<`true`\>
+[`Client`](Client.md)\<``true``\>
 
 #### Defined in
 
-[account.ts:36](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L36)
+[account.ts:36](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L36)
 
----
+___
 
 ### address
 
@@ -171,14 +171,14 @@
 
 #### Defined in
 
-[account.ts:93](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L93)
+[account.ts:93](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L93)
 
 • `set` **address**(`address`): `void`
 
 #### Parameters
 
-| Name      | Type                    |
-| :-------- | :---------------------- |
+| Name | Type |
+| :------ | :------ |
 | `address` | `undefined` \| `string` |
 
 #### Returns
@@ -187,9 +187,9 @@
 
 #### Defined in
 
-[account.ts:97](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L97)
+[account.ts:97](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L97)
 
----
+___
 
 ### apiKey
 
@@ -201,14 +201,14 @@
 
 #### Defined in
 
-[account.ts:249](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L249)
+[account.ts:249](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L249)
 
 • `set` **apiKey**(`apiKey`): `void`
 
 #### Parameters
 
-| Name     | Type     |
-| :------- | :------- |
+| Name | Type |
+| :------ | :------ |
 | `apiKey` | `string` |
 
 #### Returns
@@ -217,9 +217,9 @@
 
 #### Defined in
 
-[account.ts:253](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L253)
+[account.ts:253](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L253)
 
----
+___
 
 ### apiKeyInvalid
 
@@ -231,51 +231,51 @@
 
 #### Defined in
 
-[account.ts:197](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L197)
+[account.ts:197](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L197)
 
----
+___
 
 ### autoBalanceCurrencyChangeLimit
 
-• `get` **autoBalanceCurrencyChangeLimit**(): `null` \| `number`
+• `get` **autoBalanceCurrencyChangeLimit**(): ``null`` \| `number`
 
 #### Returns
 
-`null` \| `number`
+``null`` \| `number`
 
 #### Defined in
 
-[account.ts:109](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L109)
+[account.ts:109](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L109)
 
----
+___
 
 ### autoBalanceError
 
-• `get` **autoBalanceError**(): `null` \| `string`
+• `get` **autoBalanceError**(): ``null`` \| `string`
 
 #### Returns
 
-`null` \| `string`
+``null`` \| `string`
 
 #### Defined in
 
-[account.ts:269](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L269)
+[account.ts:269](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L269)
 
----
+___
 
 ### autoBalanceMethod
 
-• `get` **autoBalanceMethod**(): `null` \| `string`
+• `get` **autoBalanceMethod**(): ``null`` \| `string`
 
 #### Returns
 
-`null` \| `string`
+``null`` \| `string`
 
 #### Defined in
 
-[account.ts:265](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L265)
+[account.ts:265](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L265)
 
----
+___
 
 ### autoBalancePeriod
 
@@ -287,23 +287,23 @@
 
 #### Defined in
 
-[account.ts:101](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L101)
+[account.ts:101](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L101)
 
----
+___
 
 ### autoBalancePortfolioId
 
-• `get` **autoBalancePortfolioId**(): `null` \| `number`
+• `get` **autoBalancePortfolioId**(): ``null`` \| `number`
 
 #### Returns
 
-`null` \| `number`
+``null`` \| `number`
 
 #### Defined in
 
-[account.ts:105](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L105)
+[account.ts:105](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L105)
 
----
+___
 
 ### autobalanceEnabled
 
@@ -315,9 +315,9 @@
 
 #### Defined in
 
-[account.ts:113](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L113)
+[account.ts:113](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L113)
 
----
+___
 
 ### availableForTrading
 
@@ -329,9 +329,9 @@
 
 #### Defined in
 
-[account.ts:133](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L133)
+[account.ts:133](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L133)
 
----
+___
 
 ### availableIncludeInSummary
 
@@ -343,9 +343,9 @@
 
 #### Defined in
 
-[account.ts:245](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L245)
+[account.ts:245](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L245)
 
----
+___
 
 ### bots
 
@@ -357,9 +357,9 @@
 
 #### Defined in
 
-[account.ts:40](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L40)
+[account.ts:40](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L40)
 
----
+___
 
 ### botsAllowed
 
@@ -371,9 +371,9 @@
 
 #### Defined in
 
-[account.ts:157](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L157)
+[account.ts:157](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L157)
 
----
+___
 
 ### botsTslAllowed
 
@@ -385,9 +385,9 @@
 
 #### Defined in
 
-[account.ts:165](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L165)
+[account.ts:165](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L165)
 
----
+___
 
 ### botsTtpAllowed
 
@@ -399,9 +399,9 @@
 
 #### Defined in
 
-[account.ts:161](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L161)
+[account.ts:161](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L161)
 
----
+___
 
 ### btcAmount
 
@@ -413,9 +413,9 @@
 
 #### Defined in
 
-[account.ts:293](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L293)
+[account.ts:293](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L293)
 
----
+___
 
 ### btcProfit
 
@@ -427,9 +427,9 @@
 
 #### Defined in
 
-[account.ts:317](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L317)
+[account.ts:317](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L317)
 
----
+___
 
 ### btcProfitPercentage
 
@@ -441,9 +441,9 @@
 
 #### Defined in
 
-[account.ts:329](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L329)
+[account.ts:329](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L329)
 
----
+___
 
 ### canShort
 
@@ -455,9 +455,9 @@
 
 #### Defined in
 
-[account.ts:44](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L44)
+[account.ts:44](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L44)
 
----
+___
 
 ### conditionalBuySupported
 
@@ -469,9 +469,9 @@
 
 #### Defined in
 
-[account.ts:153](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L153)
+[account.ts:153](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L153)
 
----
+___
 
 ### createdAt
 
@@ -483,29 +483,29 @@
 
 #### Defined in
 
-[account.ts:177](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L177)
+[account.ts:177](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L177)
 
----
+___
 
 ### customerId
 
-• `get` **customerId**(): `null` \| `string`
+• `get` **customerId**(): ``null`` \| `string`
 
 #### Returns
 
-`null` \| `string`
+``null`` \| `string`
 
 #### Defined in
 
-[account.ts:273](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L273)
+[account.ts:273](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L273)
 
 • `set` **customerId**(`customerId`): `void`
 
 #### Parameters
 
-| Name         | Type               |
-| :----------- | :----------------- |
-| `customerId` | `null` \| `string` |
+| Name | Type |
+| :------ | :------ |
+| `customerId` | ``null`` \| `string` |
 
 #### Returns
 
@@ -513,9 +513,9 @@
 
 #### Defined in
 
-[account.ts:277](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L277)
+[account.ts:277](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L277)
 
----
+___
 
 ### dayProfitBtc
 
@@ -527,9 +527,9 @@
 
 #### Defined in
 
-[account.ts:301](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L301)
+[account.ts:301](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L301)
 
----
+___
 
 ### dayProfitBtcPercentage
 
@@ -541,9 +541,9 @@
 
 #### Defined in
 
-[account.ts:309](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L309)
+[account.ts:309](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L309)
 
----
+___
 
 ### dayProfitPrimaryDisplayCurrency
 
@@ -555,9 +555,9 @@
 
 #### Defined in
 
-[account.ts:233](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L233)
+[account.ts:233](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L233)
 
----
+___
 
 ### dayProfitPrimaryDisplayCurrencyPercentage
 
@@ -569,9 +569,9 @@
 
 #### Defined in
 
-[account.ts:229](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L229)
+[account.ts:229](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L229)
 
----
+___
 
 ### dayProfitUsd
 
@@ -583,9 +583,9 @@
 
 #### Defined in
 
-[account.ts:305](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L305)
+[account.ts:305](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L305)
 
----
+___
 
 ### dayProfitUsdPercentage
 
@@ -597,9 +597,9 @@
 
 #### Defined in
 
-[account.ts:313](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L313)
+[account.ts:313](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L313)
 
----
+___
 
 ### depositEnabled
 
@@ -611,9 +611,9 @@
 
 #### Defined in
 
-[account.ts:205](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L205)
+[account.ts:205](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L205)
 
----
+___
 
 ### exchangeName
 
@@ -625,9 +625,9 @@
 
 #### Defined in
 
-[account.ts:345](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L345)
+[account.ts:345](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L345)
 
----
+___
 
 ### fastConvertAvailable
 
@@ -639,9 +639,9 @@
 
 #### Defined in
 
-[account.ts:189](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L189)
+[account.ts:189](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L189)
 
----
+___
 
 ### getPairs
 
@@ -655,9 +655,9 @@ All available pairs for the account as objects. i.e. `[{ base: "BTC", quote: "US
 
 #### Defined in
 
-[account.ts:66](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L66)
+[account.ts:66](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L66)
 
----
+___
 
 ### getStringPairs
 
@@ -671,9 +671,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:61](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L61)
+[account.ts:61](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L61)
 
----
+___
 
 ### gordonBotsAvailable
 
@@ -685,9 +685,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:169](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L169)
+[account.ts:169](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L169)
 
----
+___
 
 ### gridBotsAllowed
 
@@ -699,9 +699,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:193](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L193)
+[account.ts:193](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L193)
 
----
+___
 
 ### hedgeModeAvailable
 
@@ -713,9 +713,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:117](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L117)
+[account.ts:117](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L117)
 
----
+___
 
 ### hedgeModeEnabled
 
@@ -727,9 +727,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:121](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L121)
+[account.ts:121](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L121)
 
----
+___
 
 ### id
 
@@ -741,9 +741,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:89](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L89)
+[account.ts:89](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L89)
 
----
+___
 
 ### includeInSummary
 
@@ -755,14 +755,14 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:209](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L209)
+[account.ts:209](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L209)
 
 • `set` **includeInSummary**(`includeInSummary`): `void`
 
 #### Parameters
 
-| Name               | Type      |
-| :----------------- | :-------- |
+| Name | Type |
+| :------ | :------ |
 | `includeInSummary` | `boolean` |
 
 #### Returns
@@ -771,9 +771,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:213](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L213)
+[account.ts:213](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L213)
 
----
+___
 
 ### isLocked
 
@@ -785,37 +785,37 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:125](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L125)
+[account.ts:125](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L125)
 
----
+___
 
 ### lastAutoBalance
 
-• `get` **lastAutoBalance**(): `null` \| `number`
+• `get` **lastAutoBalance**(): ``null`` \| `number`
 
 #### Returns
 
-`null` \| `number`
+``null`` \| `number`
 
 #### Defined in
 
-[account.ts:185](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L185)
+[account.ts:185](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L185)
 
----
+___
 
 ### lockReason
 
-• `get` **lockReason**(): `null` \| `string`
+• `get` **lockReason**(): ``null`` \| `string`
 
 #### Returns
 
-`null` \| `string`
+``null`` \| `string`
 
 #### Defined in
 
-[account.ts:289](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L289)
+[account.ts:289](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L289)
 
----
+___
 
 ### marketBuySupported
 
@@ -827,9 +827,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:145](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L145)
+[account.ts:145](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L145)
 
----
+___
 
 ### marketCode
 
@@ -841,14 +841,14 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:349](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L349)
+[account.ts:349](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L349)
 
 • `set` **marketCode**(`marketCode`): `void`
 
 #### Parameters
 
-| Name         | Type                                    |
-| :----------- | :-------------------------------------- |
+| Name | Type |
+| :------ | :------ |
 | `marketCode` | [`MarketCode`](../README.md#marketcode) |
 
 #### Returns
@@ -857,9 +857,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:353](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L353)
+[account.ts:353](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L353)
 
----
+___
 
 ### marketIcon
 
@@ -871,9 +871,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:201](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L201)
+[account.ts:201](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L201)
 
----
+___
 
 ### marketSellSupported
 
@@ -885,9 +885,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:149](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L149)
+[account.ts:149](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L149)
 
----
+___
 
 ### multiBotsAllowed
 
@@ -899,9 +899,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:173](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L173)
+[account.ts:173](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L173)
 
----
+___
 
 ### name
 
@@ -913,14 +913,14 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:257](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L257)
+[account.ts:257](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L257)
 
 • `set` **name**(`name`): `void`
 
 #### Parameters
 
-| Name   | Type     |
-| :----- | :------- |
+| Name | Type |
+| :------ | :------ |
 | `name` | `string` |
 
 #### Returns
@@ -929,9 +929,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:261](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L261)
+[account.ts:261](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L261)
 
----
+___
 
 ### passphrase
 
@@ -939,8 +939,8 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Parameters
 
-| Name         | Type                    |
-| :----------- | :---------------------- |
+| Name | Type |
+| :------ | :------ |
 | `passphrase` | `undefined` \| `string` |
 
 #### Returns
@@ -949,9 +949,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:85](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L85)
+[account.ts:85](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L85)
 
----
+___
 
 ### prettyDisplayType
 
@@ -963,9 +963,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:341](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L341)
+[account.ts:341](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L341)
 
----
+___
 
 ### primaryDisplayCurrencyAmount
 
@@ -977,9 +977,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:237](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L237)
+[account.ts:237](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L237)
 
----
+___
 
 ### primaryDisplayCurrencyProfit
 
@@ -991,9 +991,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:225](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L225)
+[account.ts:225](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L225)
 
----
+___
 
 ### primaryDisplayCurrencyProfitPercentage
 
@@ -1005,9 +1005,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:221](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L221)
+[account.ts:221](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L221)
 
----
+___
 
 ### secret
 
@@ -1015,8 +1015,8 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Parameters
 
-| Name     | Type                    |
-| :------- | :---------------------- |
+| Name | Type |
+| :------ | :------ |
 | `secret` | `undefined` \| `string` |
 
 #### Returns
@@ -1025,9 +1025,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:81](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L81)
+[account.ts:81](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L81)
 
----
+___
 
 ### smartTradingSupported
 
@@ -1039,9 +1039,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:129](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L129)
+[account.ts:129](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L129)
 
----
+___
 
 ### statsSupported
 
@@ -1053,29 +1053,29 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:137](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L137)
+[account.ts:137](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L137)
 
----
+___
 
 ### subaccountName
 
-• `get` **subaccountName**(): `null` \| `string`
+• `get` **subaccountName**(): ``null`` \| `string`
 
 #### Returns
 
-`null` \| `string`
+``null`` \| `string`
 
 #### Defined in
 
-[account.ts:281](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L281)
+[account.ts:281](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L281)
 
 • `set` **subaccountName**(`subaccountName`): `void`
 
 #### Parameters
 
-| Name             | Type               |
-| :--------------- | :----------------- |
-| `subaccountName` | `null` \| `string` |
+| Name | Type |
+| :------ | :------ |
+| `subaccountName` | ``null`` \| `string` |
 
 #### Returns
 
@@ -1083,23 +1083,23 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:285](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L285)
+[account.ts:285](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L285)
 
----
+___
 
 ### supportedMarketTypes
 
-• `get` **supportedMarketTypes**(): (`"spot"` \| `"futures"`)[]
+• `get` **supportedMarketTypes**(): (``"spot"`` \| ``"futures"``)[]
 
 #### Returns
 
-(`"spot"` \| `"futures"`)[]
+(``"spot"`` \| ``"futures"``)[]
 
 #### Defined in
 
-[account.ts:217](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L217)
+[account.ts:217](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L217)
 
----
+___
 
 ### totalBtcProfit
 
@@ -1111,9 +1111,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:333](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L333)
+[account.ts:333](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L333)
 
----
+___
 
 ### totalPrimaryDisplayCurrencyProfit
 
@@ -1125,9 +1125,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:241](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L241)
+[account.ts:241](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L241)
 
----
+___
 
 ### totalUsdProfit
 
@@ -1139,9 +1139,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:337](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L337)
+[account.ts:337](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L337)
 
----
+___
 
 ### tradingSupported
 
@@ -1153,9 +1153,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:141](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L141)
+[account.ts:141](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L141)
 
----
+___
 
 ### updatedAt
 
@@ -1167,9 +1167,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:181](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L181)
+[account.ts:181](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L181)
 
----
+___
 
 ### usdAmount
 
@@ -1181,9 +1181,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:297](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L297)
+[account.ts:297](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L297)
 
----
+___
 
 ### usdProfit
 
@@ -1195,9 +1195,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:321](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L321)
+[account.ts:321](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L321)
 
----
+___
 
 ### usdProfitPercentage
 
@@ -1209,7 +1209,7 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:325](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L325)
+[account.ts:325](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L325)
 
 ## Methods
 
@@ -1219,8 +1219,8 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Parameters
 
-| Name   | Type                                                                     |
-| :----- | :----------------------------------------------------------------------- |
+| Name | Type |
+| :------ | :------ |
 | `data` | `Convert`\<[`AccountRawDto`](../interfaces/AccountRawDto.md), `number`\> |
 
 #### Returns
@@ -1229,9 +1229,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:19](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L19)
+[account.ts:19](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L19)
 
----
+___
 
 ### delete
 
@@ -1243,9 +1243,9 @@ All available pairs for the account as strings. i.e. `['USDT_BTCUSDT', ...]`
 
 #### Defined in
 
-[account.ts:32](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L32)
+[account.ts:32](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L32)
 
----
+___
 
 ### hasPair
 
@@ -1255,8 +1255,8 @@ Checks if given pair is available for this market..
 
 #### Parameters
 
-| Name   | Type                        | Description           |
-| :----- | :-------------------------- | :-------------------- |
+| Name | Type | Description |
+| :------ | :------ | :------ |
 | `pair` | [`Pair`](../README.md#pair) | is the pair to check. |
 
 #### Returns
@@ -1271,9 +1271,9 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[account.ts:77](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L77)
+[account.ts:77](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L77)
 
----
+___
 
 ### save
 
@@ -1281,11 +1281,11 @@ error if no pairs are loaded for the given market code.
 
 #### Parameters
 
-| Name                 | Type     |
-| :------------------- | :------- |
-| `params`             | `Object` |
+| Name | Type |
+| :------ | :------ |
+| `params` | `Object` |
 | `params.passphrase?` | `string` |
-| `params.secret?`     | `string` |
+| `params.secret?` | `string` |
 
 #### Returns
 
@@ -1293,9 +1293,9 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[account.ts:26](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L26)
+[account.ts:26](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L26)
 
----
+___
 
 ### toPairArray
 
@@ -1303,8 +1303,8 @@ error if no pairs are loaded for the given market code.
 
 #### Parameters
 
-| Name   | Type                        |
-| :----- | :-------------------------- |
+| Name | Type |
+| :------ | :------ |
 | `pair` | [`Pair`](../README.md#pair) |
 
 #### Returns
@@ -1313,9 +1313,9 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[account.ts:56](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L56)
+[account.ts:56](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L56)
 
----
+___
 
 ### toPairObject
 
@@ -1323,8 +1323,8 @@ error if no pairs are loaded for the given market code.
 
 #### Parameters
 
-| Name   | Type                        |
-| :----- | :-------------------------- |
+| Name | Type |
+| :------ | :------ |
 | `pair` | [`Pair`](../README.md#pair) |
 
 #### Returns
@@ -1333,9 +1333,9 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[account.ts:52](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L52)
+[account.ts:52](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L52)
 
----
+___
 
 ### toPairString
 
@@ -1343,8 +1343,8 @@ error if no pairs are loaded for the given market code.
 
 #### Parameters
 
-| Name   | Type                        |
-| :----- | :-------------------------- |
+| Name | Type |
+| :------ | :------ |
 | `pair` | [`Pair`](../README.md#pair) |
 
 #### Returns
@@ -1353,4 +1353,4 @@ error if no pairs are loaded for the given market code.
 
 #### Defined in
 
-[account.ts:48](https://github.com/ozum/3commas/blob/a66959b/src/account.ts#L48)
+[account.ts:48](https://github.com/ozum/3commas/blob/b3896a3/src/account.ts#L48)

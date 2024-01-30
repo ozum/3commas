@@ -28,9 +28,9 @@
 
 #### Defined in
 
-[api/types/market.ts:49](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L49)
+[api/types/market.ts:49](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L49)
 
----
+___
 
 ### connectionType
 
@@ -38,9 +38,9 @@
 
 #### Defined in
 
-[api/types/market.ts:48](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L48)
+[api/types/market.ts:48](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L48)
 
----
+___
 
 ### fastConnectActionName
 
@@ -48,9 +48,9 @@
 
 #### Defined in
 
-[api/types/market.ts:52](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L52)
+[api/types/market.ts:52](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L52)
 
----
+___
 
 ### formFields
 
@@ -58,16 +58,16 @@
 
 #### Type declaration
 
-| Name       | Type          |
-| :--------- | :------------ |
+| Name | Type |
+| :------ | :------ |
 | `optional` | `FormField`[] |
 | `required` | `FormField`[] |
 
 #### Defined in
 
-[api/types/market.ts:44](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L44)
+[api/types/market.ts:44](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L44)
 
----
+___
 
 ### helpLink
 
@@ -75,9 +75,9 @@
 
 #### Defined in
 
-[api/types/market.ts:41](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L41)
+[api/types/market.ts:41](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L41)
 
----
+___
 
 ### marketCode
 
@@ -85,9 +85,9 @@
 
 #### Defined in
 
-[api/types/market.ts:43](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L43)
+[api/types/market.ts:43](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L43)
 
----
+___
 
 ### marketIcon
 
@@ -95,9 +95,9 @@
 
 #### Defined in
 
-[api/types/market.ts:39](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L39)
+[api/types/market.ts:39](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L39)
 
----
+___
 
 ### marketName
 
@@ -105,9 +105,9 @@
 
 #### Defined in
 
-[api/types/market.ts:37](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L37)
+[api/types/market.ts:37](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L37)
 
----
+___
 
 ### marketTrustMessage
 
@@ -115,9 +115,9 @@
 
 #### Defined in
 
-[api/types/market.ts:40](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L40)
+[api/types/market.ts:40](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L40)
 
----
+___
 
 ### marketUrl
 
@@ -125,9 +125,9 @@
 
 #### Defined in
 
-[api/types/market.ts:38](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L38)
+[api/types/market.ts:38](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L38)
 
----
+___
 
 ### nomicsId
 
@@ -135,9 +135,9 @@
 
 #### Defined in
 
-[api/types/market.ts:42](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L42)
+[api/types/market.ts:42](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L42)
 
----
+___
 
 ### trustedIps
 
@@ -145,9 +145,9 @@
 
 #### Defined in
 
-[api/types/market.ts:50](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L50)
+[api/types/market.ts:50](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L50)
 
----
+___
 
 ### trustedIpsInputType
 
@@ -155,4 +155,4 @@
 
 #### Defined in
 
-[api/types/market.ts:51](https://github.com/ozum/3commas/blob/a66959b/src/api/types/market.ts#L51)
+[api/types/market.ts:51](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/market.ts#L51)

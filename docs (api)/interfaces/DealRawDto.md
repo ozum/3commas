@@ -84,9 +84,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:32](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L32)
+[api/types/deal.ts:32](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L32)
 
----
+___
 
 ### accountName
 
@@ -94,9 +94,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:83](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L83)
+[api/types/deal.ts:83](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L83)
 
----
+___
 
 ### activeManualSafetyOrders
 
@@ -104,9 +104,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:47](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L47)
+[api/types/deal.ts:47](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L47)
 
----
+___
 
 ### activeSafetyOrdersCount
 
@@ -114,59 +114,59 @@
 
 #### Defined in
 
-[api/types/deal.ts:33](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L33)
+[api/types/deal.ts:33](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L33)
 
----
+___
 
 ### actualProfit
 
-• **actualProfit**: `"CONVERTIBLE"`
+• **actualProfit**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:85](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L85)
+[api/types/deal.ts:85](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L85)
 
----
+___
 
 ### actualProfitPercentage
 
-• **actualProfitPercentage**: `"CONVERTIBLE"`
+• **actualProfitPercentage**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:81](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L81)
+[api/types/deal.ts:81](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L81)
 
----
+___
 
 ### actualUsdProfit
 
-• **actualUsdProfit**: `"CONVERTIBLE"`
+• **actualUsdProfit**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:86](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L86)
+[api/types/deal.ts:86](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L86)
 
----
+___
 
 ### baseOrderAveragePrice
 
-• **baseOrderAveragePrice**: `"CONVERTIBLE"`
+• **baseOrderAveragePrice**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:60](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L60)
+[api/types/deal.ts:60](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L60)
 
----
+___
 
 ### baseOrderVolume
 
-• **baseOrderVolume**: `"CONVERTIBLE"`
+• **baseOrderVolume**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:52](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L52)
+[api/types/deal.ts:52](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L52)
 
----
+___
 
 ### baseOrderVolumeType
 
@@ -174,9 +174,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:74](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L74)
+[api/types/deal.ts:74](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L74)
 
----
+___
 
 ### botId
 
@@ -184,9 +184,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:29](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L29)
+[api/types/deal.ts:29](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L29)
 
----
+___
 
 ### botName
 
@@ -194,39 +194,39 @@
 
 #### Defined in
 
-[api/types/deal.ts:82](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L82)
+[api/types/deal.ts:82](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L82)
 
----
+___
 
 ### boughtAmount
 
-• **boughtAmount**: `"CONVERTIBLE"`
+• **boughtAmount**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:57](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L57)
+[api/types/deal.ts:57](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L57)
 
----
+___
 
 ### boughtAveragePrice
 
-• **boughtAveragePrice**: `"CONVERTIBLE"`
+• **boughtAveragePrice**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:59](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L59)
+[api/types/deal.ts:59](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L59)
 
----
+___
 
 ### boughtVolume
 
-• **boughtVolume**: `"CONVERTIBLE"`
+• **boughtVolume**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:58](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L58)
+[api/types/deal.ts:58](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L58)
 
----
+___
 
 ### cancellable
 
@@ -234,9 +234,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:41](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L41)
+[api/types/deal.ts:41](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L41)
 
----
+___
 
 ### closedAt
 
@@ -244,9 +244,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:36](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L36)
+[api/types/deal.ts:36](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L36)
 
----
+___
 
 ### completedManualSafetyOrdersCount
 
@@ -254,9 +254,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:40](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L40)
+[api/types/deal.ts:40](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L40)
 
----
+___
 
 ### completedSafetyOrdersCount
 
@@ -264,9 +264,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:39](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L39)
+[api/types/deal.ts:39](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L39)
 
----
+___
 
 ### createdAt
 
@@ -274,9 +274,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:34](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L34)
+[api/types/deal.ts:34](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L34)
 
----
+___
 
 ### currentActiveSafetyOrdersCount
 
@@ -284,19 +284,19 @@
 
 #### Defined in
 
-[api/types/deal.ts:38](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L38)
+[api/types/deal.ts:38](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L38)
 
----
+___
 
 ### currentPrice
 
-• **currentPrice**: `"CONVERTIBLE"`
+• **currentPrice**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:77](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L77)
+[api/types/deal.ts:77](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L77)
 
----
+___
 
 ### dealHasError
 
@@ -304,9 +304,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:31](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L31)
+[api/types/deal.ts:31](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L31)
 
----
+___
 
 ### errorMessage
 
@@ -314,9 +314,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:70](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L70)
+[api/types/deal.ts:70](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L70)
 
----
+___
 
 ### failedMessage
 
@@ -324,29 +324,29 @@
 
 #### Defined in
 
-[api/types/deal.ts:87](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L87)
+[api/types/deal.ts:87](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L87)
 
----
+___
 
 ### finalProfit
 
-• **finalProfit**: `"CONVERTIBLE"`
+• **finalProfit**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:65](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L65)
+[api/types/deal.ts:65](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L65)
 
----
+___
 
 ### finalProfitPercentage
 
-• **finalProfitPercentage**: `"CONVERTIBLE"`
+• **finalProfitPercentage**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:80](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L80)
+[api/types/deal.ts:80](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L80)
 
----
+___
 
 ### finished
 
@@ -354,9 +354,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:37](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L37)
+[api/types/deal.ts:37](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L37)
 
----
+___
 
 ### fromCurrency
 
@@ -364,9 +364,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:75](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L75)
+[api/types/deal.ts:75](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L75)
 
----
+___
 
 ### id
 
@@ -374,29 +374,29 @@
 
 #### Defined in
 
-[api/types/deal.ts:27](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L27)
+[api/types/deal.ts:27](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L27)
 
----
+___
 
 ### leverageCustomValue
 
-• **leverageCustomValue**: `"CONVERTIBLE"`
+• **leverageCustomValue**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:56](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L56)
+[api/types/deal.ts:56](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L56)
 
----
+___
 
 ### leverageType
 
-• **leverageType**: `"isolated"`
+• **leverageType**: ``"isolated"``
 
 #### Defined in
 
-[api/types/deal.ts:55](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L55)
+[api/types/deal.ts:55](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L55)
 
----
+___
 
 ### localizedStatus
 
@@ -404,39 +404,39 @@
 
 #### Defined in
 
-[api/types/deal.ts:50](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L50)
+[api/types/deal.ts:50](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L50)
 
----
+___
 
 ### martingaleCoefficient
 
-• **martingaleCoefficient**: `"CONVERTIBLE"`
+• **martingaleCoefficient**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:66](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L66)
+[api/types/deal.ts:66](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L66)
 
----
+___
 
 ### martingaleStepCoefficient
 
-• **martingaleStepCoefficient**: `"CONVERTIBLE"`
+• **martingaleStepCoefficient**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:68](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L68)
+[api/types/deal.ts:68](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L68)
 
----
+___
 
 ### martingaleVolumeCoefficient
 
-• **martingaleVolumeCoefficient**: `"CONVERTIBLE"`
+• **martingaleVolumeCoefficient**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:67](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L67)
+[api/types/deal.ts:67](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L67)
 
----
+___
 
 ### maxSafetyOrders
 
@@ -444,9 +444,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:30](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L30)
+[api/types/deal.ts:30](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L30)
 
----
+___
 
 ### pair
 
@@ -454,9 +454,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:48](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L48)
+[api/types/deal.ts:48](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L48)
 
----
+___
 
 ### panicSellable
 
@@ -464,19 +464,19 @@
 
 #### Defined in
 
-[api/types/deal.ts:42](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L42)
+[api/types/deal.ts:42](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L42)
 
----
+___
 
 ### profitCurrency
 
-• **profitCurrency**: `"quote_currency"` \| `"base_currency"`
+• **profitCurrency**: ``"quote_currency"`` \| ``"base_currency"``
 
 #### Defined in
 
-[api/types/deal.ts:71](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L71)
+[api/types/deal.ts:71](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L71)
 
----
+___
 
 ### reservedBaseCoin
 
@@ -484,9 +484,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:88](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L88)
+[api/types/deal.ts:88](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L88)
 
----
+___
 
 ### reservedBaseFunds
 
@@ -494,9 +494,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:95](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L95)
+[api/types/deal.ts:95](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L95)
 
----
+___
 
 ### reservedQuoteFunds
 
@@ -504,9 +504,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:94](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L94)
+[api/types/deal.ts:94](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L94)
 
----
+___
 
 ### reservedSecondCoin
 
@@ -514,29 +514,29 @@
 
 #### Defined in
 
-[api/types/deal.ts:89](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L89)
+[api/types/deal.ts:89](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L89)
 
----
+___
 
 ### safetyOrderStepPercentage
 
-• **safetyOrderStepPercentage**: `"CONVERTIBLE"`
+• **safetyOrderStepPercentage**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:54](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L54)
+[api/types/deal.ts:54](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L54)
 
----
+___
 
 ### safetyOrderVolume
 
-• **safetyOrderVolume**: `"CONVERTIBLE"`
+• **safetyOrderVolume**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:53](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L53)
+[api/types/deal.ts:53](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L53)
 
----
+___
 
 ### safetyOrderVolumeType
 
@@ -544,39 +544,39 @@
 
 #### Defined in
 
-[api/types/deal.ts:73](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L73)
+[api/types/deal.ts:73](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L73)
 
----
+___
 
 ### soldAmount
 
-• **soldAmount**: `"CONVERTIBLE"`
+• **soldAmount**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:61](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L61)
+[api/types/deal.ts:61](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L61)
 
----
+___
 
 ### soldAveragePrice
 
-• **soldAveragePrice**: `"CONVERTIBLE"`
+• **soldAveragePrice**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:63](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L63)
+[api/types/deal.ts:63](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L63)
 
----
+___
 
 ### soldVolume
 
-• **soldVolume**: `"CONVERTIBLE"`
+• **soldVolume**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:62](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L62)
+[api/types/deal.ts:62](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L62)
 
----
+___
 
 ### status
 
@@ -584,29 +584,29 @@
 
 #### Defined in
 
-[api/types/deal.ts:49](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L49)
+[api/types/deal.ts:49](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L49)
 
----
+___
 
 ### stopLossPercentage
 
-• **stopLossPercentage**: `"CONVERTIBLE"`
+• **stopLossPercentage**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:69](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L69)
+[api/types/deal.ts:69](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L69)
 
----
+___
 
 ### stopLossPrice
 
-• **stopLossPrice**: `"CONVERTIBLE"`
+• **stopLossPrice**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:79](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L79)
+[api/types/deal.ts:79](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L79)
 
----
+___
 
 ### stopLossTimeoutEnabled
 
@@ -614,9 +614,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:45](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L45)
+[api/types/deal.ts:45](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L45)
 
----
+___
 
 ### stopLossTimeoutInSeconds
 
@@ -624,19 +624,19 @@
 
 #### Defined in
 
-[api/types/deal.ts:46](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L46)
+[api/types/deal.ts:46](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L46)
 
----
+___
 
 ### stopLossType
 
-• **stopLossType**: `"stop_loss"` \| `"stop_loss_and_disable_bot"`
+• **stopLossType**: ``"stop_loss"`` \| ``"stop_loss_and_disable_bot"``
 
 #### Defined in
 
-[api/types/deal.ts:72](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L72)
+[api/types/deal.ts:72](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L72)
 
----
+___
 
 ### strategy
 
@@ -644,39 +644,39 @@
 
 #### Defined in
 
-[api/types/deal.ts:93](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L93)
+[api/types/deal.ts:93](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L93)
 
----
+___
 
 ### takeProfit
 
-• **takeProfit**: `"CONVERTIBLE"`
+• **takeProfit**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:51](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L51)
+[api/types/deal.ts:51](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L51)
 
----
+___
 
 ### takeProfitPrice
 
-• **takeProfitPrice**: `"CONVERTIBLE"`
+• **takeProfitPrice**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:78](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L78)
+[api/types/deal.ts:78](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L78)
 
----
+___
 
 ### takeProfitType
 
-• **takeProfitType**: `"base"` \| `"total"`
+• **takeProfitType**: ``"base"`` \| ``"total"``
 
 #### Defined in
 
-[api/types/deal.ts:64](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L64)
+[api/types/deal.ts:64](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L64)
 
----
+___
 
 ### toCurrency
 
@@ -684,9 +684,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:76](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L76)
+[api/types/deal.ts:76](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L76)
 
----
+___
 
 ### trailingDeviation
 
@@ -694,9 +694,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:90](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L90)
+[api/types/deal.ts:90](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L90)
 
----
+___
 
 ### trailingEnabled
 
@@ -704,9 +704,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:43](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L43)
+[api/types/deal.ts:43](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L43)
 
----
+___
 
 ### trailingMaxPrice
 
@@ -714,9 +714,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:91](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L91)
+[api/types/deal.ts:91](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L91)
 
----
+___
 
 ### tslEnabled
 
@@ -724,9 +724,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:44](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L44)
+[api/types/deal.ts:44](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L44)
 
----
+___
 
 ### tslMaxPrice
 
@@ -734,9 +734,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:92](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L92)
+[api/types/deal.ts:92](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L92)
 
----
+___
 
 ### type
 
@@ -744,9 +744,9 @@
 
 #### Defined in
 
-[api/types/deal.ts:28](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L28)
+[api/types/deal.ts:28](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L28)
 
----
+___
 
 ### updatedAt
 
@@ -754,14 +754,14 @@
 
 #### Defined in
 
-[api/types/deal.ts:35](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L35)
+[api/types/deal.ts:35](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L35)
 
----
+___
 
 ### usdFinalProfit
 
-• **usdFinalProfit**: `"CONVERTIBLE"`
+• **usdFinalProfit**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/deal.ts:84](https://github.com/ozum/3commas/blob/a66959b/src/api/types/deal.ts#L84)
+[api/types/deal.ts:84](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/deal.ts#L84)

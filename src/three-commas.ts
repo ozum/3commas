@@ -122,9 +122,12 @@ export class ThreeCommas {
   public async loadBots(params: Omit<BotQueryParams, "accountId"> & { filter?: Selector<Bot> } = {}): Promise<Bot[]> {
     if (this.#accounts.size === 0) await this.loadAccounts();
     const { id, filterFunction } = ThreeCommas.#parseFilter(params.filter);
+
     const botDtos = id ? [await getBot({ id }, this.client)] : await getAllBots(params, this.client);
-    const bots = botDtos.map((dto) => new Bot(this, dto));
-    const filteredBots = (filterFunction ? bots.filter(filterFunction) : bots).filter((bot) => this.#accounts.has(bot.accountId)); // Only include bots of loaded accounts.
+    const loadedAccountBotDtos = botDtos.filter((dto) => this.#accounts.has(dto.accountId)); // Only include bots of loaded accounts.
+
+    const bots = loadedAccountBotDtos.map((dto) => new Bot(this, dto));
+    const filteredBots = filterFunction ? bots.filter(filterFunction) : bots;
 
     ThreeCommas.#clearItems(this.#bots);
     filteredBots.forEach((bot) => this.#bots.set(bot.id, bot));

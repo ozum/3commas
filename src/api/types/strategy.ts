@@ -2,6 +2,7 @@
 /* eslint-disable unicorn/no-null */
 // ─── Shared Options ──────────────────────────────────────────────────────────
 
+import { EmptyObject } from "type-fest";
 import { Convertible, Numerify, Stringify } from "./index.js";
 
 type StrategyTime = "1m" | "3m" | "5m" | "15m" | "30m" | "1h" | "2h" | "4h" | "8h" | "1d" | "3d" | "1w" | "1M" | "cumulative";
@@ -12,10 +13,12 @@ type StrategyTriggerCross = "crossing_above" | "crossing_below";
 
 interface StrategyGeneric {
   strategy: "manual" | "nonstop" | "tv_custom_signal" | "cqs_telegram";
+  options?: EmptyObject;
 }
 
 interface StrategyTAPreset {
   strategy: "ta_preset";
+  options?: EmptyObject;
   time: StrategyTime;
   type:
     | "BB-20-1-LB"

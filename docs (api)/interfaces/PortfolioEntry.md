@@ -17,9 +17,9 @@
 
 #### Defined in
 
-[api/types/portfolio-entry.ts:3](https://github.com/ozum/3commas/blob/a66959b/src/api/types/portfolio-entry.ts#L3)
+[api/types/portfolio-entry.ts:3](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/portfolio-entry.ts#L3)
 
----
+___
 
 ### targetPercentage
 
@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[api/types/portfolio-entry.ts:2](https://github.com/ozum/3commas/blob/a66959b/src/api/types/portfolio-entry.ts#L2)
+[api/types/portfolio-entry.ts:2](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/portfolio-entry.ts#L2)

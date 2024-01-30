@@ -29,9 +29,9 @@
 
 #### Defined in
 
-[api/types/account.ts:85](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L85)
+[api/types/account.ts:85](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L85)
 
----
+___
 
 ### apiKey
 
@@ -43,13 +43,13 @@ Numerify.apiKey
 
 #### Defined in
 
-[api/types/account.ts:7](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L7)
+[api/types/account.ts:7](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L7)
 
----
+___
 
 ### customerId
 
-• `Optional` **customerId**: `null` \| `string`
+• `Optional` **customerId**: ``null`` \| `string`
 
 #### Inherited from
 
@@ -57,9 +57,9 @@ Numerify.customerId
 
 #### Defined in
 
-[api/types/account.ts:8](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L8)
+[api/types/account.ts:8](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L8)
 
----
+___
 
 ### includeInSummary
 
@@ -71,9 +71,9 @@ Numerify.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:10](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L10)
+[api/types/account.ts:10](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L10)
 
----
+___
 
 ### name
 
@@ -85,9 +85,9 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:6](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L6)
+[api/types/account.ts:6](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L6)
 
----
+___
 
 ### passphrase
 
@@ -95,9 +95,9 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:87](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L87)
+[api/types/account.ts:87](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L87)
 
----
+___
 
 ### secret
 
@@ -105,13 +105,13 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:86](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L86)
+[api/types/account.ts:86](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L86)
 
----
+___
 
 ### subaccountName
 
-• `Optional` **subaccountName**: `null` \| `string`
+• `Optional` **subaccountName**: ``null`` \| `string`
 
 #### Inherited from
 
@@ -119,4 +119,4 @@ Numerify.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:9](https://github.com/ozum/3commas/blob/a66959b/src/api/types/account.ts#L9)
+[api/types/account.ts:9](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/account.ts#L9)

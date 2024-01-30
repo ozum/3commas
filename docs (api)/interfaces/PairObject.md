@@ -18,9 +18,9 @@
 
 #### Defined in
 
-[api/types/index.ts:73](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L73)
+[api/types/index.ts:73](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L73)
 
----
+___
 
 ### number
 
@@ -28,9 +28,9 @@
 
 #### Defined in
 
-[api/types/index.ts:75](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L75)
+[api/types/index.ts:75](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L75)
 
----
+___
 
 ### quote
 
@@ -38,4 +38,4 @@
 
 #### Defined in
 
-[api/types/index.ts:74](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L74)
+[api/types/index.ts:74](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L74)

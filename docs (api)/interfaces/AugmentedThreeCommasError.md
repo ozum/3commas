@@ -13,8 +13,8 @@
 ### Properties
 
 - [error](AugmentedThreeCommasError.md#error)
-- [error_attributes](AugmentedThreeCommasError.md#error_attributes)
-- [error_description](AugmentedThreeCommasError.md#error_description)
+- [error\_attributes](AugmentedThreeCommasError.md#error_attributes)
+- [error\_description](AugmentedThreeCommasError.md#error_description)
 - [id](AugmentedThreeCommasError.md#id)
 - [method](AugmentedThreeCommasError.md#method)
 - [pairs](AugmentedThreeCommasError.md#pairs)
@@ -32,13 +32,13 @@
 
 #### Defined in
 
-[api/types/index.ts:27](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L27)
+[api/types/index.ts:27](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L27)
 
----
+___
 
-### error_attributes
+### error\_attributes
 
-• **error_attributes**: `Record`\<`string`, `string`\>
+• **error\_attributes**: `Record`\<`string`, `string`\>
 
 #### Inherited from
 
@@ -46,13 +46,13 @@
 
 #### Defined in
 
-[api/types/index.ts:29](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L29)
+[api/types/index.ts:29](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L29)
 
----
+___
 
-### error_description
+### error\_description
 
-• **error_description**: `string`
+• **error\_description**: `string`
 
 #### Inherited from
 
@@ -60,9 +60,9 @@
 
 #### Defined in
 
-[api/types/index.ts:28](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L28)
+[api/types/index.ts:28](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L28)
 
----
+___
 
 ### id
 
@@ -70,9 +70,9 @@
 
 #### Defined in
 
-[api/types/index.ts:35](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L35)
+[api/types/index.ts:35](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L35)
 
----
+___
 
 ### method
 
@@ -80,9 +80,9 @@
 
 #### Defined in
 
-[api/types/index.ts:33](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L33)
+[api/types/index.ts:33](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L33)
 
----
+___
 
 ### pairs
 
@@ -90,9 +90,9 @@
 
 #### Defined in
 
-[api/types/index.ts:36](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L36)
+[api/types/index.ts:36](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L36)
 
----
+___
 
 ### path
 
@@ -100,4 +100,4 @@
 
 #### Defined in
 
-[api/types/index.ts:34](https://github.com/ozum/3commas/blob/a66959b/src/api/types/index.ts#L34)
+[api/types/index.ts:34](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/index.ts#L34)

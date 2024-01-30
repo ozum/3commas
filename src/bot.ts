@@ -116,7 +116,7 @@ export class Bot {
   public async save(data?: Partial<BotDto>): Promise<this> {
     if (data) this.update(data);
     const save = this.id < 0 ? createBot : updateBot;
-    if (this.#dirtyChecker.isDirty || this.id < 0) this.#replaceData(await save(this.#data, this.#client));
+    if (this.#dirtyChecker.isDirty || this.id < 0) this.#replaceData(await save({ ...this.#data, ...data }, this.#client));
     return this;
   }
 
@@ -173,12 +173,28 @@ export class Bot {
     this.#dirtyChecker.set("pairs", arrify(pairs));
   }
 
+  /**
+   * Some strategies may not have `options` key or have empty `options` key. They are equal, but dirty checker cannot
+   * understand this. To overcome this, we set `options` key to the existing key in the data if they are equal to prevent
+   * dirty checker from marking the data unnecessarily dirty.
+   */
+  static #getEquivalentStrategyList(strategyList: BotDto["strategyList"], oldStrategyList: Bot["strategyList"]): BotDto["strategyList"] {
+    return strategyList.map((strategy, i) => {
+      const noOptionsNew = ("options" in strategy && Object.keys(strategy.options).length === 0) || !("options" in strategy);
+      const old = oldStrategyList[i];
+      const noOptionsOld = old !== undefined && (("options" in old && Object.keys(old.options).length === 0) || !("options" in old));
+      const newOptions = noOptionsNew && noOptionsOld ? old.options : strategy.options;
+      const { options: stubOptions, ...others } = strategy;
+      return newOptions === undefined ? others : { ...others, options: newOptions };
+    }) as BotDto["strategyList"];
+  }
+
   public get strategyList(): BotDto["strategyList"] {
     return this.#data.strategyList;
   }
 
   public set strategyList(strategyList: BotDto["strategyList"]) {
-    this.#dirtyChecker.set("strategyList", strategyList);
+    this.#dirtyChecker.set("strategyList", Bot.#getEquivalentStrategyList(strategyList, this.strategyList));
   }
 
   public get closeStrategyList(): BotDto["closeStrategyList"] {
@@ -186,7 +202,7 @@ export class Bot {
   }
 
   public set closeStrategyList(closeStrategyList: BotDto["closeStrategyList"]) {
-    this.#dirtyChecker.set("closeStrategyList", closeStrategyList);
+    this.#dirtyChecker.set("strategyList", Bot.#getEquivalentStrategyList(closeStrategyList, this.closeStrategyList));
   }
 
   public get maxActiveDeals(): BotDto["maxActiveDeals"] {

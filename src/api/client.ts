@@ -168,8 +168,11 @@ export class Client<CN extends boolean = true> {
     if (!isThreeCommasError) return;
 
     const error = { ...data, method, path } as AugmentedThreeCommasError;
-    if ("id" in params) error.id = params.id;
-    if ("pairs" in params) error.pairs = params.pairs;
+    if (typeof params === "number") error.id = params;
+    else if (typeof params === "object") {
+      if ("id" in params) error.id = params.id;
+      if ("pairs" in params) error.pairs = params.pairs;
+    }
 
     throw new Error("Request failed.", { cause: error });
   }

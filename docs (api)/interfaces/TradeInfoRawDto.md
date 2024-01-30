@@ -13,13 +13,13 @@
 
 ### availableForTradeBalances
 
-• **availableForTradeBalances**: `Record`\<`string`, `"CONVERTIBLE"`\>
+• **availableForTradeBalances**: `Record`\<`string`, ``"CONVERTIBLE"``\>
 
 #### Defined in
 
-[api/types/trade-info.ts:31](https://github.com/ozum/3commas/blob/a66959b/src/api/types/trade-info.ts#L31)
+[api/types/trade-info.ts:31](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/trade-info.ts#L31)
 
----
+___
 
 ### ticker
 
@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[api/types/trade-info.ts:32](https://github.com/ozum/3commas/blob/a66959b/src/api/types/trade-info.ts#L32)
+[api/types/trade-info.ts:32](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/trade-info.ts#L32)

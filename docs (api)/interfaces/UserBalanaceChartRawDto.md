@@ -25,9 +25,9 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:43](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L43)
+[api/types/user-balance.ts:43](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L43)
 
----
+___
 
 ### amount
 
@@ -35,19 +35,19 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:39](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L39)
+[api/types/user-balance.ts:39](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L39)
 
----
+___
 
 ### btcValue
 
-• **btcValue**: `"CONVERTIBLE"`
+• **btcValue**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/user-balance.ts:40](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L40)
+[api/types/user-balance.ts:40](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L40)
 
----
+___
 
 ### code
 
@@ -55,9 +55,9 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:34](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L34)
+[api/types/user-balance.ts:34](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L34)
 
----
+___
 
 ### coinmarketcapid
 
@@ -65,9 +65,9 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:35](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L35)
+[api/types/user-balance.ts:35](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L35)
 
----
+___
 
 ### name
 
@@ -75,9 +75,9 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:36](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L36)
+[api/types/user-balance.ts:36](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L36)
 
----
+___
 
 ### percentage
 
@@ -85,9 +85,9 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:38](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L38)
+[api/types/user-balance.ts:38](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L38)
 
----
+___
 
 ### primaryDisplayCurrency
 
@@ -95,19 +95,19 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:42](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L42)
+[api/types/user-balance.ts:42](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L42)
 
----
+___
 
 ### usdValue
 
-• **usdValue**: `"CONVERTIBLE"`
+• **usdValue**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/user-balance.ts:41](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L41)
+[api/types/user-balance.ts:41](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L41)
 
----
+___
 
 ### y
 
@@ -115,4 +115,4 @@
 
 #### Defined in
 
-[api/types/user-balance.ts:37](https://github.com/ozum/3commas/blob/a66959b/src/api/types/user-balance.ts#L37)
+[api/types/user-balance.ts:37](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/user-balance.ts#L37)

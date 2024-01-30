@@ -83,9 +83,9 @@
 
 #### Defined in
 
-[api/types/bot.ts:55](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L55)
+[api/types/bot.ts:55](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L55)
 
----
+___
 
 ### accountName
 
@@ -93,9 +93,9 @@
 
 #### Defined in
 
-[api/types/bot.ts:56](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L56)
+[api/types/bot.ts:56](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L56)
 
----
+___
 
 ### activeDeals
 
@@ -103,9 +103,9 @@
 
 #### Defined in
 
-[api/types/bot.ts:69](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L69)
+[api/types/bot.ts:69](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L69)
 
----
+___
 
 ### activeDealsCount
 
@@ -113,19 +113,19 @@
 
 #### Defined in
 
-[api/types/bot.ts:57](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L57)
+[api/types/bot.ts:57](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L57)
 
----
+___
 
 ### activeDealsUsdProfit
 
-• **activeDealsUsdProfit**: `"CONVERTIBLE"`
+• **activeDealsUsdProfit**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/bot.ts:58](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L58)
+[api/types/bot.ts:58](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L58)
 
----
+___
 
 ### activeSafetyOrdersCount
 
@@ -137,13 +137,13 @@ Required.activeSafetyOrdersCount
 
 #### Defined in
 
-[api/types/bot.ts:17](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L17)
+[api/types/bot.ts:17](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L17)
 
----
+___
 
 ### allowedDealsOnSamePair
 
-• **allowedDealsOnSamePair**: `null` \| `number`
+• **allowedDealsOnSamePair**: ``null`` \| `number`
 
 #### Inherited from
 
@@ -151,13 +151,13 @@ Required.allowedDealsOnSamePair
 
 #### Defined in
 
-[api/types/bot.ts:40](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L40)
+[api/types/bot.ts:40](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L40)
 
----
+___
 
 ### baseOrderVolume
 
-• **baseOrderVolume**: `"CONVERTIBLE"`
+• **baseOrderVolume**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -165,9 +165,9 @@ Required.baseOrderVolume
 
 #### Defined in
 
-[api/types/bot.ts:9](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L9)
+[api/types/bot.ts:9](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L9)
 
----
+___
 
 ### baseOrderVolumeType
 
@@ -179,23 +179,23 @@ Required.baseOrderVolumeType
 
 #### Defined in
 
-[api/types/bot.ts:10](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L10)
+[api/types/bot.ts:10](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L10)
 
----
+___
 
 ### botEvents
 
-• `Optional` **botEvents**: [\{ `createdAt`: `string` ; `message`: `string` }]
+• `Optional` **botEvents**: [\{ `createdAt`: `string` ; `message`: `string`  }]
 
 #### Defined in
 
-[api/types/bot.ts:70](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L70)
+[api/types/bot.ts:70](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L70)
 
----
+___
 
 ### btcPriceLimit
 
-• **btcPriceLimit**: `"CONVERTIBLE"`
+• **btcPriceLimit**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -203,13 +203,13 @@ Required.btcPriceLimit
 
 #### Defined in
 
-[api/types/bot.ts:22](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L22)
+[api/types/bot.ts:22](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L22)
 
----
+___
 
 ### closeDealsTimeout
 
-• **closeDealsTimeout**: `null` \| `number`
+• **closeDealsTimeout**: ``null`` \| `number`
 
 #### Inherited from
 
@@ -217,9 +217,9 @@ Required.closeDealsTimeout
 
 #### Defined in
 
-[api/types/bot.ts:41](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L41)
+[api/types/bot.ts:41](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L41)
 
----
+___
 
 ### closeStrategyList
 
@@ -231,13 +231,13 @@ Required.closeStrategyList
 
 #### Defined in
 
-[api/types/bot.ts:44](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L44)
+[api/types/bot.ts:44](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L44)
 
----
+___
 
 ### cooldown
 
-• **cooldown**: `"CONVERTIBLE"`
+• **cooldown**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -245,9 +245,9 @@ Required.cooldown
 
 #### Defined in
 
-[api/types/bot.ts:19](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L19)
+[api/types/bot.ts:19](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L19)
 
----
+___
 
 ### createdAt
 
@@ -255,13 +255,13 @@ Required.cooldown
 
 #### Defined in
 
-[api/types/bot.ts:67](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L67)
+[api/types/bot.ts:67](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L67)
 
----
+___
 
 ### dealStartDelaySeconds
 
-• **dealStartDelaySeconds**: `null` \| `number`
+• **dealStartDelaySeconds**: ``null`` \| `number`
 
 #### Inherited from
 
@@ -269,19 +269,19 @@ Required.dealStartDelaySeconds
 
 #### Defined in
 
-[api/types/bot.ts:35](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L35)
+[api/types/bot.ts:35](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L35)
 
----
+___
 
 ### dealsCounter
 
-• **dealsCounter**: `null` \| `number`
+• **dealsCounter**: ``null`` \| `number`
 
 #### Defined in
 
-[api/types/bot.ts:59](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L59)
+[api/types/bot.ts:59](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L59)
 
----
+___
 
 ### deletable
 
@@ -289,13 +289,13 @@ Required.dealStartDelaySeconds
 
 #### Defined in
 
-[api/types/bot.ts:60](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L60)
+[api/types/bot.ts:60](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L60)
 
----
+___
 
 ### disableAfterDealsCount
 
-• **disableAfterDealsCount**: `null` \| `number`
+• **disableAfterDealsCount**: ``null`` \| `number`
 
 #### Inherited from
 
@@ -303,9 +303,9 @@ Required.disableAfterDealsCount
 
 #### Defined in
 
-[api/types/bot.ts:39](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L39)
+[api/types/bot.ts:39](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L39)
 
----
+___
 
 ### easyFormSupported
 
@@ -313,29 +313,29 @@ Required.disableAfterDealsCount
 
 #### Defined in
 
-[api/types/bot.ts:61](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L61)
+[api/types/bot.ts:61](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L61)
 
----
+___
 
 ### finishedDealsCount
 
-• **finishedDealsCount**: `"CONVERTIBLE"`
+• **finishedDealsCount**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/bot.ts:62](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L62)
+[api/types/bot.ts:62](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L62)
 
----
+___
 
 ### finishedDealsProfitUsd
 
-• **finishedDealsProfitUsd**: `"CONVERTIBLE"`
+• **finishedDealsProfitUsd**: ``"CONVERTIBLE"``
 
 #### Defined in
 
-[api/types/bot.ts:63](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L63)
+[api/types/bot.ts:63](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L63)
 
----
+___
 
 ### id
 
@@ -343,9 +343,9 @@ Required.disableAfterDealsCount
 
 #### Defined in
 
-[api/types/bot.ts:54](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L54)
+[api/types/bot.ts:54](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L54)
 
----
+___
 
 ### isEnabled
 
@@ -353,13 +353,13 @@ Required.disableAfterDealsCount
 
 #### Defined in
 
-[api/types/bot.ts:64](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L64)
+[api/types/bot.ts:64](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L64)
 
----
+___
 
 ### leverageCustomValue
 
-• **leverageCustomValue**: `null` \| `"CONVERTIBLE"`
+• **leverageCustomValue**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -367,13 +367,13 @@ Required.leverageCustomValue
 
 #### Defined in
 
-[api/types/bot.ts:28](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L28)
+[api/types/bot.ts:28](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L28)
 
----
+___
 
 ### leverageType
 
-• **leverageType**: `"isolated"` \| `"custom"` \| `"cross"` \| `"not_specified"`
+• **leverageType**: ``"isolated"`` \| ``"custom"`` \| ``"cross"`` \| ``"not_specified"``
 
 #### Inherited from
 
@@ -381,13 +381,13 @@ Required.leverageType
 
 #### Defined in
 
-[api/types/bot.ts:27](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L27)
+[api/types/bot.ts:27](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L27)
 
----
+___
 
 ### martingaleStepCoefficient
 
-• **martingaleStepCoefficient**: `"CONVERTIBLE"`
+• **martingaleStepCoefficient**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -395,13 +395,13 @@ Required.martingaleStepCoefficient
 
 #### Defined in
 
-[api/types/bot.ts:14](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L14)
+[api/types/bot.ts:14](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L14)
 
----
+___
 
 ### martingaleVolumeCoefficient
 
-• **martingaleVolumeCoefficient**: `"CONVERTIBLE"`
+• **martingaleVolumeCoefficient**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -409,9 +409,9 @@ Required.martingaleVolumeCoefficient
 
 #### Defined in
 
-[api/types/bot.ts:15](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L15)
+[api/types/bot.ts:15](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L15)
 
----
+___
 
 ### maxActiveDeals
 
@@ -423,13 +423,13 @@ Required.maxActiveDeals
 
 #### Defined in
 
-[api/types/bot.ts:8](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L8)
+[api/types/bot.ts:8](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L8)
 
----
+___
 
 ### maxPrice
 
-• **maxPrice**: `null` \| `"CONVERTIBLE"`
+• **maxPrice**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -437,13 +437,13 @@ Required.maxPrice
 
 #### Defined in
 
-[api/types/bot.ts:30](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L30)
+[api/types/bot.ts:30](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L30)
 
----
+___
 
 ### maxPricePercentage
 
-• **maxPricePercentage**: `null` \| `"CONVERTIBLE"`
+• **maxPricePercentage**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -451,9 +451,9 @@ Required.maxPricePercentage
 
 #### Defined in
 
-[api/types/bot.ts:49](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L49)
+[api/types/bot.ts:49](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L49)
 
----
+___
 
 ### maxSafetyOrders
 
@@ -465,13 +465,13 @@ Required.maxSafetyOrders
 
 #### Defined in
 
-[api/types/bot.ts:16](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L16)
+[api/types/bot.ts:16](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L16)
 
----
+___
 
 ### minPrice
 
-• **minPrice**: `null` \| `"CONVERTIBLE"`
+• **minPrice**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -479,13 +479,13 @@ Required.minPrice
 
 #### Defined in
 
-[api/types/bot.ts:29](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L29)
+[api/types/bot.ts:29](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L29)
 
----
+___
 
 ### minPricePercentage
 
-• **minPricePercentage**: `null` \| `"CONVERTIBLE"`
+• **minPricePercentage**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -493,13 +493,13 @@ Required.minPricePercentage
 
 #### Defined in
 
-[api/types/bot.ts:48](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L48)
+[api/types/bot.ts:48](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L48)
 
----
+___
 
 ### minProfitPercentage
 
-• **minProfitPercentage**: `null` \| `"CONVERTIBLE"`
+• **minProfitPercentage**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -507,13 +507,13 @@ Required.minProfitPercentage
 
 #### Defined in
 
-[api/types/bot.ts:42](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L42)
+[api/types/bot.ts:42](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L42)
 
----
+___
 
 ### minProfitType
 
-• **minProfitType**: `null` \| `"base_order_volume"` \| `"total_bought_volume"`
+• **minProfitType**: ``null`` \| ``"base_order_volume"`` \| ``"total_bought_volume"``
 
 #### Inherited from
 
@@ -521,13 +521,13 @@ Required.minProfitType
 
 #### Defined in
 
-[api/types/bot.ts:43](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L43)
+[api/types/bot.ts:43](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L43)
 
----
+___
 
 ### minVolumeBtc24h
 
-• **minVolumeBtc24h**: `"CONVERTIBLE"`
+• **minVolumeBtc24h**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -535,9 +535,9 @@ Required.minVolumeBtc24h
 
 #### Defined in
 
-[api/types/bot.ts:33](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L33)
+[api/types/bot.ts:33](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L33)
 
----
+___
 
 ### name
 
@@ -549,9 +549,9 @@ Required.name
 
 #### Defined in
 
-[api/types/bot.ts:6](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L6)
+[api/types/bot.ts:6](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L6)
 
----
+___
 
 ### pairs
 
@@ -563,13 +563,13 @@ Required.pairs
 
 #### Defined in
 
-[api/types/bot.ts:7](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L7)
+[api/types/bot.ts:7](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L7)
 
----
+___
 
 ### profitCurrency
 
-• **profitCurrency**: `"quote_currency"` \| `"base_currency"`
+• **profitCurrency**: ``"quote_currency"`` \| ``"base_currency"``
 
 #### Inherited from
 
@@ -577,13 +577,13 @@ Required.profitCurrency
 
 #### Defined in
 
-[api/types/bot.ts:36](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L36)
+[api/types/bot.ts:36](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L36)
 
----
+___
 
 ### reinvestedVolumeUsd
 
-• **reinvestedVolumeUsd**: `null` \| `"CONVERTIBLE"`
+• **reinvestedVolumeUsd**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -591,13 +591,13 @@ Required.reinvestedVolumeUsd
 
 #### Defined in
 
-[api/types/bot.ts:47](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L47)
+[api/types/bot.ts:47](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L47)
 
----
+___
 
 ### reinvestingPercentage
 
-• **reinvestingPercentage**: `null` \| `"CONVERTIBLE"`
+• **reinvestingPercentage**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -605,13 +605,13 @@ Required.reinvestingPercentage
 
 #### Defined in
 
-[api/types/bot.ts:46](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L46)
+[api/types/bot.ts:46](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L46)
 
----
+___
 
 ### riskReductionPercentage
 
-• **riskReductionPercentage**: `null` \| `"CONVERTIBLE"`
+• **riskReductionPercentage**: ``null`` \| ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -619,13 +619,13 @@ Required.riskReductionPercentage
 
 #### Defined in
 
-[api/types/bot.ts:45](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L45)
+[api/types/bot.ts:45](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L45)
 
----
+___
 
 ### safetyOrderStepPercentage
 
-• **safetyOrderStepPercentage**: `"CONVERTIBLE"`
+• **safetyOrderStepPercentage**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -633,13 +633,13 @@ Required.safetyOrderStepPercentage
 
 #### Defined in
 
-[api/types/bot.ts:24](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L24)
+[api/types/bot.ts:24](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L24)
 
----
+___
 
 ### safetyOrderVolume
 
-• **safetyOrderVolume**: `"CONVERTIBLE"`
+• **safetyOrderVolume**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -647,9 +647,9 @@ Required.safetyOrderVolume
 
 #### Defined in
 
-[api/types/bot.ts:12](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L12)
+[api/types/bot.ts:12](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L12)
 
----
+___
 
 ### safetyOrderVolumeType
 
@@ -661,13 +661,13 @@ Required.safetyOrderVolumeType
 
 #### Defined in
 
-[api/types/bot.ts:13](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L13)
+[api/types/bot.ts:13](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L13)
 
----
+___
 
 ### startOrderType
 
-• **startOrderType**: `"limit"` \| `"market"`
+• **startOrderType**: ``"limit"`` \| ``"market"``
 
 #### Inherited from
 
@@ -675,13 +675,13 @@ Required.startOrderType
 
 #### Defined in
 
-[api/types/bot.ts:37](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L37)
+[api/types/bot.ts:37](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L37)
 
----
+___
 
 ### stopLossPercentage
 
-• **stopLossPercentage**: `"CONVERTIBLE"`
+• **stopLossPercentage**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -689,9 +689,9 @@ Required.stopLossPercentage
 
 #### Defined in
 
-[api/types/bot.ts:18](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L18)
+[api/types/bot.ts:18](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L18)
 
----
+___
 
 ### stopLossTimeoutEnabled
 
@@ -703,9 +703,9 @@ Required.stopLossTimeoutEnabled
 
 #### Defined in
 
-[api/types/bot.ts:31](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L31)
+[api/types/bot.ts:31](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L31)
 
----
+___
 
 ### stopLossTimeoutInSeconds
 
@@ -717,13 +717,13 @@ Required.stopLossTimeoutInSeconds
 
 #### Defined in
 
-[api/types/bot.ts:32](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L32)
+[api/types/bot.ts:32](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L32)
 
----
+___
 
 ### stopLossType
 
-• **stopLossType**: `"stop_loss"` \| `"stop_loss_and_disable_bot"`
+• **stopLossType**: ``"stop_loss"`` \| ``"stop_loss_and_disable_bot"``
 
 #### Inherited from
 
@@ -731,9 +731,9 @@ Required.stopLossType
 
 #### Defined in
 
-[api/types/bot.ts:38](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L38)
+[api/types/bot.ts:38](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L38)
 
----
+___
 
 ### strategy
 
@@ -745,9 +745,9 @@ Required.strategy
 
 #### Defined in
 
-[api/types/bot.ts:23](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L23)
+[api/types/bot.ts:23](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L23)
 
----
+___
 
 ### strategyList
 
@@ -759,13 +759,13 @@ Required.strategyList
 
 #### Defined in
 
-[api/types/bot.ts:26](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L26)
+[api/types/bot.ts:26](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L26)
 
----
+___
 
 ### takeProfit
 
-• **takeProfit**: `"CONVERTIBLE"`
+• **takeProfit**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -773,13 +773,13 @@ Required.takeProfit
 
 #### Defined in
 
-[api/types/bot.ts:11](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L11)
+[api/types/bot.ts:11](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L11)
 
----
+___
 
 ### takeProfitType
 
-• **takeProfitType**: `"base"` \| `"total"`
+• **takeProfitType**: ``"base"`` \| ``"total"``
 
 #### Inherited from
 
@@ -787,9 +787,9 @@ Required.takeProfitType
 
 #### Defined in
 
-[api/types/bot.ts:25](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L25)
+[api/types/bot.ts:25](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L25)
 
----
+___
 
 ### tempId
 
@@ -797,13 +797,13 @@ Required.takeProfitType
 
 #### Defined in
 
-[api/types/bot.ts:53](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L53)
+[api/types/bot.ts:53](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L53)
 
----
+___
 
 ### trailingDeviation
 
-• **trailingDeviation**: `"CONVERTIBLE"`
+• **trailingDeviation**: ``"CONVERTIBLE"``
 
 #### Inherited from
 
@@ -811,13 +811,13 @@ Required.trailingDeviation
 
 #### Defined in
 
-[api/types/bot.ts:21](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L21)
+[api/types/bot.ts:21](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L21)
 
----
+___
 
 ### trailingEnabled
 
-• **trailingEnabled**: `null` \| `boolean`
+• **trailingEnabled**: ``null`` \| `boolean`
 
 #### Inherited from
 
@@ -825,9 +825,9 @@ Required.trailingEnabled
 
 #### Defined in
 
-[api/types/bot.ts:20](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L20)
+[api/types/bot.ts:20](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L20)
 
----
+___
 
 ### tslEnabled
 
@@ -839,19 +839,19 @@ Required.tslEnabled
 
 #### Defined in
 
-[api/types/bot.ts:34](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L34)
+[api/types/bot.ts:34](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L34)
 
----
+___
 
 ### type
 
-• **type**: `"Bot::MultiBot"` \| `"Bot::SingleBot"` \| `"Bot::SwitchBot"`
+• **type**: ``"Bot::MultiBot"`` \| ``"Bot::SingleBot"`` \| ``"Bot::SwitchBot"``
 
 #### Defined in
 
-[api/types/bot.ts:65](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L65)
+[api/types/bot.ts:65](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L65)
 
----
+___
 
 ### updatedAt
 
@@ -859,9 +859,9 @@ Required.tslEnabled
 
 #### Defined in
 
-[api/types/bot.ts:68](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L68)
+[api/types/bot.ts:68](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L68)
 
----
+___
 
 ### urlSecret
 
@@ -869,4 +869,4 @@ Required.tslEnabled
 
 #### Defined in
 
-[api/types/bot.ts:66](https://github.com/ozum/3commas/blob/a66959b/src/api/types/bot.ts#L66)
+[api/types/bot.ts:66](https://github.com/ozum/3commas/blob/b3896a3/src/api/types/bot.ts#L66)
