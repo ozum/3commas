@@ -6,7 +6,7 @@ Access 3Commas API.
 import { getBot, getAllAccounts } from "3commas";
 
 const bot = await getBot(123456789);
-const accounts = await getAllAccounts(123456789);
+const accounts = await getAllAccounts();
 ```
 
 # High Level

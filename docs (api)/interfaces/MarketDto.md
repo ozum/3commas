@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[api/types/market.ts:49](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L49)
+[api/types/market.ts:49](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L49)
 
 ---
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[api/types/market.ts:48](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L48)
+[api/types/market.ts:48](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L48)
 
 ---
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[api/types/market.ts:52](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L52)
+[api/types/market.ts:52](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L52)
 
 ---
 
@@ -65,7 +65,7 @@
 
 #### Defined in
 
-[api/types/market.ts:44](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L44)
+[api/types/market.ts:44](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L44)
 
 ---
 
@@ -75,7 +75,7 @@
 
 #### Defined in
 
-[api/types/market.ts:41](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L41)
+[api/types/market.ts:41](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L41)
 
 ---
 
@@ -85,7 +85,7 @@
 
 #### Defined in
 
-[api/types/market.ts:43](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L43)
+[api/types/market.ts:43](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L43)
 
 ---
 
@@ -95,7 +95,7 @@
 
 #### Defined in
 
-[api/types/market.ts:39](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L39)
+[api/types/market.ts:39](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L39)
 
 ---
 
@@ -105,7 +105,7 @@
 
 #### Defined in
 
-[api/types/market.ts:37](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L37)
+[api/types/market.ts:37](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L37)
 
 ---
 
@@ -115,7 +115,7 @@
 
 #### Defined in
 
-[api/types/market.ts:40](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L40)
+[api/types/market.ts:40](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L40)
 
 ---
 
@@ -125,7 +125,7 @@
 
 #### Defined in
 
-[api/types/market.ts:38](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L38)
+[api/types/market.ts:38](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L38)
 
 ---
 
@@ -135,7 +135,7 @@
 
 #### Defined in
 
-[api/types/market.ts:42](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L42)
+[api/types/market.ts:42](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L42)
 
 ---
 
@@ -145,7 +145,7 @@
 
 #### Defined in
 
-[api/types/market.ts:50](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L50)
+[api/types/market.ts:50](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L50)
 
 ---
 
@@ -155,4 +155,4 @@
 
 #### Defined in
 
-[api/types/market.ts:51](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/market.ts#L51)
+[api/types/market.ts:51](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/market.ts#L51)

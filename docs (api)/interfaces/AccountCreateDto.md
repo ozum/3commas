@@ -34,7 +34,7 @@ Numerify.apiKey
 
 #### Defined in
 
-[api/types/account.ts:7](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L7)
+[api/types/account.ts:7](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L7)
 
 ---
 
@@ -48,7 +48,7 @@ Numerify.customerId
 
 #### Defined in
 
-[api/types/account.ts:8](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L8)
+[api/types/account.ts:8](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L8)
 
 ---
 
@@ -62,7 +62,7 @@ Numerify.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:10](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L10)
+[api/types/account.ts:10](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L10)
 
 ---
 
@@ -76,7 +76,7 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:6](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L6)
+[api/types/account.ts:6](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L6)
 
 ---
 
@@ -86,7 +86,7 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:81](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L81)
+[api/types/account.ts:81](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L81)
 
 ---
 
@@ -96,7 +96,7 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:80](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L80)
+[api/types/account.ts:80](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L80)
 
 ---
 
@@ -110,7 +110,7 @@ Numerify.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:9](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L9)
+[api/types/account.ts:9](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L9)
 
 ---
 
@@ -120,7 +120,7 @@ Numerify.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:78](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L78)
+[api/types/account.ts:78](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L78)
 
 ---
 
@@ -130,4 +130,4 @@ Numerify.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:79](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L79)
+[api/types/account.ts:79](https://github.com/ozum/3commas/blob/3d2d741/src/api/types/account.ts#L79)
