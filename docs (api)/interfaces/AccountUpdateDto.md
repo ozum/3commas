@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[api/types/account.ts:85](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L85)
+[api/types/account.ts:85](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L85)
 
 ---
 
@@ -43,7 +43,7 @@ Numerify.apiKey
 
 #### Defined in
 
-[api/types/account.ts:7](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L7)
+[api/types/account.ts:7](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L7)
 
 ---
 
@@ -57,7 +57,7 @@ Numerify.customerId
 
 #### Defined in
 
-[api/types/account.ts:8](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L8)
+[api/types/account.ts:8](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L8)
 
 ---
 
@@ -71,7 +71,7 @@ Numerify.includeInSummary
 
 #### Defined in
 
-[api/types/account.ts:10](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L10)
+[api/types/account.ts:10](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L10)
 
 ---
 
@@ -85,7 +85,7 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:6](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L6)
+[api/types/account.ts:6](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L6)
 
 ---
 
@@ -95,7 +95,7 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:87](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L87)
+[api/types/account.ts:87](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L87)
 
 ---
 
@@ -105,7 +105,7 @@ Numerify.name
 
 #### Defined in
 
-[api/types/account.ts:86](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L86)
+[api/types/account.ts:86](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L86)
 
 ---
 
@@ -119,4 +119,4 @@ Numerify.subaccountName
 
 #### Defined in
 
-[api/types/account.ts:9](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/account.ts#L9)
+[api/types/account.ts:9](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/account.ts#L9)

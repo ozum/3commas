@@ -17,11 +17,10 @@ export * from "./trade-info.js";
 export * from "./trading-entiities.js";
 export * from "./user-balance.js";
 
-
 export type RelaxKey<T> = T extends object ? keyof T : string;
 export type RelaxInput<T, K extends keyof T> = T | T[K]; // T = { id: 3 } => { id : 3 } or 3
 export type RelaxObject<T, K extends RelaxKey<T>> = T extends object ? T : { [P in K]: T }; // T = { id: 3 } or 3 => { id: 3 }
-export type RelaxValue<T,  K extends RelaxKey<T>> = T extends object ? (K extends keyof T ? T[K] : never) : T; // T = { id: 3 } or 3 => 3
+export type RelaxValue<T, K extends RelaxKey<T>> = T extends object ? (K extends keyof T ? T[K] : never) : T; // T = { id: 3 } or 3 => 3
 
 export interface ThreeCommasError {
   error: string;

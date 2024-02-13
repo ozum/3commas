@@ -32,7 +32,7 @@
 
 #### Defined in
 
-[api/types/index.ts:27](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L27)
+[api/types/index.ts:26](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/index.ts#L26)
 
 ---
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[api/types/index.ts:29](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L29)
+[api/types/index.ts:28](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/index.ts#L28)
 
 ---
 
@@ -60,7 +60,7 @@
 
 #### Defined in
 
-[api/types/index.ts:28](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L28)
+[api/types/index.ts:27](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/index.ts#L27)
 
 ---
 
@@ -70,7 +70,7 @@
 
 #### Defined in
 
-[api/types/index.ts:35](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L35)
+[api/types/index.ts:34](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/index.ts#L34)
 
 ---
 
@@ -80,7 +80,7 @@
 
 #### Defined in
 
-[api/types/index.ts:33](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L33)
+[api/types/index.ts:32](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/index.ts#L32)
 
 ---
 
@@ -90,7 +90,7 @@
 
 #### Defined in
 
-[api/types/index.ts:36](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L36)
+[api/types/index.ts:35](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/index.ts#L35)
 
 ---
 
@@ -100,4 +100,4 @@
 
 #### Defined in
 
-[api/types/index.ts:34](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/index.ts#L34)
+[api/types/index.ts:33](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/index.ts#L33)

@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[api/types/trade-info.ts:31](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/trade-info.ts#L31)
+[api/types/trade-info.ts:31](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/trade-info.ts#L31)
 
 ---
 
@@ -27,4 +27,4 @@
 
 #### Defined in
 
-[api/types/trade-info.ts:32](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/trade-info.ts#L32)
+[api/types/trade-info.ts:32](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/trade-info.ts#L32)

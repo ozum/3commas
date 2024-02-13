@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[api/types/portfolio.ts:6](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L6)
+[api/types/portfolio.ts:6](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/portfolio.ts#L6)
 
 ---
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[api/types/portfolio.ts:5](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L5)
+[api/types/portfolio.ts:5](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/portfolio.ts#L5)
 
 ---
 
@@ -39,7 +39,7 @@
 
 #### Defined in
 
-[api/types/portfolio.ts:4](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L4)
+[api/types/portfolio.ts:4](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/portfolio.ts#L4)
 
 ---
 
@@ -49,4 +49,4 @@
 
 #### Defined in
 
-[api/types/portfolio.ts:7](https://github.com/ozum/3commas/blob/d6773ef/src/api/types/portfolio.ts#L7)
+[api/types/portfolio.ts:7](https://github.com/ozum/3commas/blob/5966e5c/src/api/types/portfolio.ts#L7)

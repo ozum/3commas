@@ -120,7 +120,7 @@ export class Bot {
     return this;
   }
 
-  public getAccount(): Account {
+  public get account(): Account {
     return this.#root.getAccount(this.accountId);
   }
 

@@ -41,8 +41,12 @@ export class Account {
     return this.#root.bots.filter((bot) => bot.accountId === this.id);
   }
 
-  public get canShort(): boolean {
+  public get isFutures(): boolean {
     return this.#data.supportedMarketTypes.includes("futures");
+  }
+
+  public get canShort(): boolean {
+    return this.isFutures;
   }
 
   public toPairString(pair: Pair): string {
